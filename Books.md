@@ -137,6 +137,7 @@
 1. Dawn of the Code War, John P Carlin, Garrett Graff
 1. Rise of the Machines: A Cybernetic History, Thomas Rid
 1. Algorithms to Live By: The Computer Science of Human Decisions, Brian Christian, Tom Griffiths
+1. The Road Taken, Henry Petroski
 
 *Note: Thanks to Drew Diver for his additions to the list!!!*
 
