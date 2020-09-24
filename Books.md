@@ -92,6 +92,7 @@
 1. Delivering Happiness: A Path to Profits, Passion, and Purpose, Tony Hsieh
 1. Enchantment: The Art of Changing Hearts, Minds, and Actions, Guy Kawasaki
 1. Crossing the Chasm: Marketing and Selling Technology Projects to Mainstream Customers, Geoffrey A. Moore
+1. Inside the Tornado, Geoffrey Moore
 1. Blue Ocean Strategy: How to Create Uncontested Market Space and Make Competition Irrelevant, W. Chan Kim, Renee Mauborgne
 1. A History of the United States in Five Crashes: Stock Market Meltdowns That Defined a Nation, Scott Nations, Christopher Grove
 1. Origins of the Crash: The Great Bubble and Its Undoing, Roger Lowenstein
@@ -202,11 +203,12 @@
 1. John Chambers and the Cisco Way, John K. Waters, https://www.amazon.com/John-Chambers-Cisco-Way-Navigating/dp/0471008338 
 1. An Elegant Puzzle, Will Larson
 1. The Joy of x, Steven Strogatz
-1. Radical Candor, Kim Scott
+1. The Obstacle is the Way, Ryan Holiday
+1. Ego is the Enemy, Ryan Holiday1. Radical Candor, Kim Scott
 1. A WHole New Mind, Daniel Pink
 1. The Storm Before the Calm, George Friedman
 1. Think and Grow Rich, Napoleon Hill
-1. The LEaders Guide, Eric Reis
+1. The Leaders Guide, Eric Reis
 1. High Growth Handbook, Elad Gil
 1. The Hacker Ethic and the Spirit of the New Economy, Pekka Himanen, Linuz Torvalds, Manuel Castells
 1. Guerrilla PR, Michael Levine
@@ -214,7 +216,15 @@
 1. Scaling Up, Verne Harnish
 1. Traction: A Startup Guide to Getting Customers, Gabriel Weinberg, Justin Mares
 1. Zero to One: Notes on Startups, or How To Build The Future, Peter Thiel, Blake Masters
-
+1. Destruction and Creation, John Boyd
+1. Boyd, the Fighter Pilot Who Changed The Art of War, Albert Coram
+1. Team of Teams, General Stan McChrystal
+1. Certain to Win, Chet Richards
+1. Warfighting, US Marine Corps
+1. Art of the Start, Guy Kawasaki
+1. Drive, Dan Pink
+1. The Speed of Trust, Stephen Covey
+1. Raving Fans, Ken Blanchard and Sheldon Bowles
 
 
 
