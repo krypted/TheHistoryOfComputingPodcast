@@ -142,8 +142,8 @@
 
 # Books Used In Analyzing The Business Of Computing
 
-•	The Art of Virtue, Benjamin Franklin, https://www.amazon.com/Benjamin-Franklins-Art-Virtue-Successful/dp/0938399101 
-•	Steve Jobs, Walter Isaacson, https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537 
+1. The Art of Virtue, Benjamin Franklin, https://www.amazon.com/Benjamin-Franklins-Art-Virtue-Successful/dp/0938399101 
+1. Steve Jobs, Walter Isaacson, https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1451648537 
 •	The IBM Way, Buck Rodgers, https://www.amazon.com/IBM-Way-Successful-Marketing-Organization/dp/0060155221 
 •	Talking Straight, Lee Iacocca, https://www.amazon.com/Talking-Straight-Lee-Iacocca/dp/0553052705 
 •	Fundamentals of Corporate Finance, Ross Westerfield, Jordan, https://www.amazon.com/Fundamentals-Corporate-Modigliani-Professor-Financial/dp/0077861701 
