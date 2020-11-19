@@ -1,4 +1,4 @@
-# Books used in researching and documenting The History of Computing:
+# Books used in researching and documenting The History of Computing
 
 1. In the Beginning was the Command Line, Neal Stephenson
 1. Steve Jobs, Walter Isaacson
@@ -174,6 +174,26 @@
 1. When Computing Got Personal, Matt Nicholson
 
 *Note: Thanks to Drew Diver for his additions to the list!!!*
+
+# Books Used In Analyzing how the ancient history of technology, science, and philosophy shaped the modern worldview
+
+1. The Evolution of Technology by George Basalla
+1. Civilizations by Filipe Fernández-Armesto
+1. A Short History of Technology: From The Earliest Times to AD 1900 from TK Derry and Trevor I Williams
+1. Communication in History Technology, Culture
+1. Leonardo da vinci by Walter Isaacson
+1. Society from David Crowley and Paul Heyer
+1. Timelines in Science, by the Smithsonian
+1. Dialogues Concerning Two New Sciences from Galileo Galilei
+1. Mediations from Marcus Aurelius
+1. Pneumatics from Philo of Byzantium
+1. The Laws of Thought by George Boole
+1. Natural History from Pliny The Elder
+1. Cassius Dio’s Roman History
+1. Annals from Tacitus
+1. Orations by Cicero
+1. Ethics, Rhetoric, Metaphysics, and Politics by Aristotle
+1. Plato’s Symposium and The Trial & Execution of Socrates.
 
 # Books Used In Analyzing The Business Of Computing
 
