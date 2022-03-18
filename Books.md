@@ -248,5 +248,7 @@
 
 # Citations
 1. Davies, Donald Watts. (1986). Oral history interview with Donald W. Davies. Charles Babbage Institute. Retrieved from the University of Minnesota Digital Conservancy, https://hdl.handle.net/11299/107241.
-
+Chauhan, A., & Tiwari, V. K. A Trusted Computing Solution for Security Threats in Federated Identity Management. Information Technology, 3(1), 1-8.
+2. Varnosfaderani, S. D., Kasprzak, P., Pohl, C., & Yahyapour, R. (2021, August). SmartSSO-A Deep Learning Platform for Automated Account Linkage in Federated Identity Management. In 2021 IEEE International Conference on Omni-Layer Intelligent Systems (COINS) (pp. 1-8). IEEE.
+3. Panait, A. E., Olimid, R. F., & Stefanescu, A. (2020). Identity Management on Blockchain--Privacy and Security Aspects. arXiv preprint arXiv:2004.13107. 
 
