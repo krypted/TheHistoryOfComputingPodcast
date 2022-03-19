@@ -251,4 +251,7 @@
 Chauhan, A., & Tiwari, V. K. A Trusted Computing Solution for Security Threats in Federated Identity Management. Information Technology, 3(1), 1-8.
 2. Varnosfaderani, S. D., Kasprzak, P., Pohl, C., & Yahyapour, R. (2021, August). SmartSSO-A Deep Learning Platform for Automated Account Linkage in Federated Identity Management. In 2021 IEEE International Conference on Omni-Layer Intelligent Systems (COINS) (pp. 1-8). IEEE.
 3. Panait, A. E., Olimid, R. F., & Stefanescu, A. (2020). Identity Management on Blockchain--Privacy and Security Aspects. arXiv preprint arXiv:2004.13107. 
-
+4. Choquette, J., & Gandhi, W. (2020, August). Nvidia a100 gpu: Performance & innovation for gpu computing. In 2020 IEEE Hot Chips 32 Symposium (HCS) (pp. 1-43). IEEE Computer Society.
+5. Hennigh, O., Narasimhan, S., Nabian, M. A., Subramaniam, A., Tangsali, K., Fang, Z., ... & Choudhry, S. (2021, June). NVIDIA SimNet™: An AI-accelerated multi-physics simulation framework. In International Conference on Computational Science (pp. 447-461). Springer, Cham.
+6. Jia, Z., Maggioni, M., Staiger, B., & Scarpazza, D. P. (2018). Dissecting the NVIDIA volta GPU architecture via microbenchmarking. arXiv preprint arXiv:1804.06826.
+7. Mittal, S. (2019). A Survey on optimized implementation of deep learning models on the NVIDIA Jetson platform. Journal of Systems Architecture, 97, 428-442.
