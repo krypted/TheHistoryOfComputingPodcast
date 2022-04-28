@@ -176,6 +176,12 @@
 1. Anticipating Change, Secrets Behind the SAP Empire, Dr. Hasso Plattner
 1. A History of Photography, Taschen
 1. The World is Flat, Thomas L. Friedman
+1. Introduction to Computers and Data Processing, Shelly & Cashman
+2. Endless Loop, The History of the BASIC Programming Language, Mark Jones Lorenzo
+3. Showstopper, G Pascal Zachary
+4. danger.com, Joran Cray
+5. Grace Hopper and the Invention of the Information Age, Kurt Beyer
+
 
 *Note: Thanks to Drew Diver for his additions to the list!!!*
 
@@ -198,6 +204,22 @@
 1. Orations by Cicero
 1. Ethics, Rhetoric, Metaphysics, and Politics by Aristotle
 1. Plato’s Symposium and The Trial & Execution of Socrates.
+2. The Mapmakers, The Story of the Great Pioneers in Cargography from Antiquity to the Space Age, John Noble Wilford
+3. Ancient India: Land of Mystery, Lost Civilizations
+4. Writing Space, The Computer, Hypertext, and the History of Writing
+5. The Life of the Automobile, Steven Parissien
+6. Time and the Art of Living, Robert Grudin
+7. India and the Mughal Dynasty
+8. Hearst Castle, Victoria K Kastner
+9. The Spell of California's Spanish Colonial Missions, Donald Francis Toomey
+10. Day of Infamy, Lord & Holt
+11. The History of the Calculus and Its Conceptual Development, Carl B. Boyer
+12. The History of Pi, Petr Beckmann
+
+# Technical Books
+
+1. Professional Node.js, Pedro Teixeira
+2. Python for Kids, Briggs
 
 # Books Used In Analyzing The Business Of Computing
 
@@ -249,6 +271,7 @@
 1. Drive, Dan Pink
 1. The Speed of Trust, Stephen Covey
 1. Raving Fans, Ken Blanchard and Sheldon Bowles
+2. Too Blue! The IBM PC from an Acorn to a Renegade
 
 # Citations
 1. Davies, Donald Watts. (1986). Oral history interview with Donald W. Davies. Charles Babbage Institute. Retrieved from the University of Minnesota Digital Conservancy, https://hdl.handle.net/11299/107241.
