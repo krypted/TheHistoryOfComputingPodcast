@@ -289,3 +289,7 @@ Chauhan, A., & Tiwari, V. K. A Trusted Computing Solution for Security Threats i
 5. Hennigh, O., Narasimhan, S., Nabian, M. A., Subramaniam, A., Tangsali, K., Fang, Z., ... & Choudhry, S. (2021, June). NVIDIA SimNet™: An AI-accelerated multi-physics simulation framework. In International Conference on Computational Science (pp. 447-461). Springer, Cham.
 6. Jia, Z., Maggioni, M., Staiger, B., & Scarpazza, D. P. (2018). Dissecting the NVIDIA volta GPU architecture via microbenchmarking. arXiv preprint arXiv:1804.06826.
 7. Mittal, S. (2019). A Survey on optimized implementation of deep learning models on the NVIDIA Jetson platform. Journal of Systems Architecture, 97, 428-442.
+
+# Special Thanks
+
+A special thanks goes out to the good people at the Computer History Museum ( https://computerhistory.org ) and the Charles Babbage Institute at the University of Minnesota ( https://cse.umn.edu/cbi ) for making various works including oral histories, scanned representations of works, etc publicly accessible. Additionally, a special thanks to the Internet Engineering Task Force for retaining all old internet standards for transparency and to preserve the history of protocols as they evolved. The above resources have been critical for first and second source verification of facts.
