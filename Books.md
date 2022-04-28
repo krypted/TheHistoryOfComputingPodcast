@@ -10,178 +10,179 @@
 1. Dungeons and Desktops: The History of Computer Role-Playing Games 2e, Matt Barton
 1. The Launch Pad: Inside Y Combinator, Silicon Valley’s Most Exclusive School for Startups, Randall Stross
 1. Platform Revolution: How Networked Markets Are Transforming the Economy - and How to Make Them Work for You, Geoffrey G. Parker, Marshall W. Van Alstyne, Sangeet Paul Choudary
-1. The Second Age of Computer Science, Subrata Dasgupta
-1. The Department of Mad Scientists, Michael Belfiore
-1. The Imagineers of War, Sharon Weinberger
-1. The Age of the Platform: How Amazon, Apple, Facebook, and Google Have Redefined Business, Phil Simon and Mitch Joel
-1. Technology and Me: 40 years in technology, David Daniel Wertman
-1. The Perfect Thing, Steven Levy
-1. Startupland, Mikkel Svane, Carlye Adler
-1. WIld Ride: INside Uber's Quest for World Domination, Adam Lashinsky
-1. The Airbnb Story: How Three Ordinary Guys Disrupted an Industry, Made Billions…and Created Plenty of Controversy, Leigh Gallagher
-1. The Curious History of Dating: From Jane Austen to Tinder, Nichi Hodgson
-1. All the Rave: The Rise and Fall of Shawn Fanning's Napster, Joseph Menn
-1. The Story of the Computer: A Technical and Business History, Stephen Marshall
-1. The Monk and the Riddle: The Art of Creating a Life While Making a Living, Randy Komisar
-1. Empire of Imagination: Gary Gygax and the Birth of Dungeons & Dragons, Michael Witwer
-1. The Everything Store: Jeff Bezos and the Age of Amazon, Brad Stone
-1. We Are Anonymous: Inside the Hacker World of LulzSec, Anonymous, and the Global Cyber Insurgency, Party Olson
-1. Tubes: A Journey to the Center of the Internet, Andrew Blum
-1. The Daemon, the Gnu, and the Penguin, Peter H. Salus, Jeremy C. Reed
-1. From Mainframes to Smartphones: A History of the International Computer Industry, Martin Campbell-Kelly and Daniel D. Garcia-Swartz
-1. A People’s History of Computing in the United States, Joy Lisi Rankin
-1. The Computer Book: From the Abacus to Artificial Intelligence, 250 Milestones in the History of Computer Science (Sterling Milestones), Simson L Garfinkel and Rachel H. Grunspan 
-1. The Perfectionists: How Precision Engineers Created the Modern World, Simon Winchester 
-1. Atari Age, Michael Z Newman
-1. The Difference Engine: Charles Babbage and the Quest to Build the First Computer, Doron Swade
-1. A History of the ARPANET: The First Decade, BOLT BERANEK AND NEWMAN
-1. Innovation and the Communications Revolution: From the Victorian pioneers to broadband Internet, John Bray
-1. Permanent Record, Edward Snowden
-1. Makers of the Microchip: A Documentary History of Fairchild Semiconductor, Christophe Lécuyer , David C. Brock
-1. Troublemakers: Silicon Valley's Coming of Age, Leslie Berlin
-1. Billion Dollar Fantasy: The High-Stakes Game Between FanDuel and DraftKings That Upended Sports in America, Albert Chen
-1. An Investigation of the Laws of Thought, on Which are Founded the Mathematical Theories of Logic and Probabilities, George Boole 
-1. The Chip: How Two Americans Invented the Microchip and Launched a Revolution, T.R. Reid
-1. The Dark Web (Audible Originals), Geoff White, Bernard P. Achampong
-1. Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World, Joseph Mens
-1. Insanely Great: The Life and Times of Macintosh, the Computer that Changed Everything, Steven Levy
-1. Where Wizards Stay Up Late: The Origins of the Internet, Katie Hafner, Matthew Lyon
-1. Computing: A Business History, Lars Nielsen
-1. Charles Babbage from the Beginning, Lucy May Simister
-1. The ARPAnet Sourcebook: The Unpublished Foundations of the Internet, Peter H. Salus
-1. A History Computing: From MainFrames to online everything, David Daniel Wertman
-1. The Golden Age of Computer Technology: Through the Eyes of an Aging Geek, Marvin Zelkowitz
-1. Gates: How Microsoft's Mogul Reinvented an Industry and Made Himself the Richest Man in America: Stephen Manes and Paul Andrews
-1. Code: The Hidden Language of Computer Hardware and Software (Developer Best Practices), Charles Petzold 
-1. What the Doormouse Said, John Markoff
-1. The Logician and the Engineer: How George Boole and Claude Shannon Created the Information Age, Paul J. Nahin 
-1. Creative Selection, Ken Kocienda
-1. The Life and Work of George Boole: A Prelude to the Digital Age, Desmond MacHale
-1. Computer: A History of the Information Machine (The Sloan Technology Series), Martin Campbell-Kelly 
-1. Delayed: The Art of Waiting, Jason Farman
-1. Alan Turing: The Life and Legacy of the English Computer Scientist Who Became World War II’s Most Famous Codebreaker, Charles River Editors
-1. The Cryotron Files: The Untold Story of Dudley Buck, Cold War Computer Scientist and Microchip Pioneer, Iain Dey, Douglas Buck, Alan Dewey
-1. Showstopper, G. Pascal Zachary
-1. Technology of the Gods: The Incredible Sciences of the Ancients, David Hatcher Childress
-1. Replay: The History of Video Games, Tristan Donovan, Richard Garriott
-1. A History of Algorithms: From The Pebble To The Microchip, Jean-Luc Chabert and J.-C. Martzloff 
-1. Computing: A Concise History: The MIT Press Essential Knowledge Series, Paul E. Ceruzzi
-1. Hackers: Heroes of the Computer Revolution: 25th Anniversary Edition, Steven Levy
-1. The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution, Walter Isaacson
-1. A History of Modern Computing (History of Computing), Paul Cruzi and William Aspray
-1. Dreaming in Code, Scott Rosenberg
-1. Super Pumped: The Battle for Uber
-1. The Mysterious Affair at Olivetti, Meryle Secrest
-1. Masters of Doom, David Kushner
-1. The Players Ball, David Kushner
-1. Kingpin, Kevin Poulsen
-1. Paper: Paging Through History, Mark Kurlansky
-1. The Information: A History, a Theory, a Flood, James Gleick
-1. Future Histories, Lizzie O'Shea
-1. The Well, Katie Hafner
-1. Dark Territory: The Secret History of Cyber War, Fred Kaplan
-1. Cyberspies, Gordon Corera
-1. Endless Loop: The History of the BASIC Programming Language, Mark Jones Lorenzo
-1. The Fall of Telecom: A Wall Street Analyst’s True Story Of The Telecom Industry, Thomas J. Lauria
-1. The Idea Factory: Bell Labs and the Great Age of American Innovation, Jon Gertner 
-1. Pioneer Programmer: Jean Jennings Bartik and the Computer that Changed the World, Jean Jennings Bartik
-1. ENIAC: The Triumphs and Tragedies of the World's First Computer, Scott McCartney, Adams Morgan, et al.
-1. Finish Big: How Great Entrepreneurs Exit Their Companies on Top, Bo Burlingham
-1. The Decline and Fall of IBM: End of an American Icon?, Robert Cringely
-1. Who Says Elephants Can't Dance?: Inside IBM's Historic Turnaround, Louis V. Gerstner Jr.
-1. Delivering Happiness: A Path to Profits, Passion, and Purpose, Tony Hsieh
-1. Enchantment: The Art of Changing Hearts, Minds, and Actions, Guy Kawasaki
-1. Crossing the Chasm: Marketing and Selling Technology Projects to Mainstream Customers, Geoffrey A. Moore
-1. Inside the Tornado, Geoffrey Moore
-1. Blue Ocean Strategy: How to Create Uncontested Market Space and Make Competition Irrelevant, W. Chan Kim, Renee Mauborgne
-1. A History of the United States in Five Crashes: Stock Market Meltdowns That Defined a Nation, Scott Nations, Christopher Grove
-1. Origins of the Crash: The Great Bubble and Its Undoing, Roger Lowenstein
-1. Totally Wired: The Rise and Fall of Josh Harris and The Great Dotcom Swindle, Andrew Smith
-1. Facebook: The Inside Story, Steven Levy
-1. The Perfect Store: Inside eBay, Adam Cohen
-1. Making the Cisco Connection: The Story Behind the Real Internet Superpower, David Bunnell and Adam Brate 
-1. 4- and 8-bit Microprocessors, Architecture and History, Patrick Stakem
-1. Free for All, Peter Wayne
-1. The Dream Machine, M. Mitchell Waldrop 
-1. Hidden Figures, Margot Lee Shetterly and Laura Freeman 
-1. We Are the Nerds: The Birth and Tumultuous Life of Reddit, the Internet's Culture Laboratory, Christine Lagorio-Chafkin
-1. Without Their Permission: The Story of Reddit and a Blueprint for How to Change the World, Alexis Ohanian
-1. Ada Lovelace: The Making of a Computer Scientist, Christopher Hollings, Ursula Martin, et al.
-1. To Pixar and Beyond, Lawrence Levy
-1. Accidental Empires, Robert X. Cringley 
-1. An Internet for the People: The Politics and Promise of craigslist, Jessa Lingel
-1. America's Information Wars: The Untold Story of Information Systems in America’s Conflicts and Politics from World War II to the Internet Age, by Colin B. Burke
-1. A History of the Future: Prophets of Progress from H. G. Wells to Isaac Asimov, Peter J Bowler 
-1. The Making of Karateka, Jordan Machner
-1. Sunburst: The Ascent of Sun Microsystems
-1. Project Whirlwind the History of a Pioneer Computer, Kent C. and Thomas M. Smith Redmond
-1. The Maverick and His Machine: Thomas Watson, Sr. and the Making of IBM, Kevin Maney
-1. UNIX: A History and a Memoir, Brian Kernighan
-1. An Oral History of L0pht: https://duo.com/decipher/an-oral-history-of-the-l0pht
-1. Free as in Freedom, Sam Williams
-1. Broad Band, Claire L. Evans
-1. The One Device, Brian Merchant
-1. Ghost in the Wires: My Adventures as the World's Most Wanted Hacker, Kevin Mitnick
-1. Exploding the Phone: The Untold STory of the Teenagers and Outlaws Who Hacked Ma Bell, Phil Lapsley
-1. iWoz, Steve Wozniak, Gina Smith
-1. Fire in the Valley: The Birth and Death of the Personal Computer, Michael Swaine, Paul Freiberger
-1. Coders, Clive Thompson
-1. The Four: The Hidden DNA of Amazon, Apple, and Facebook, Scott Galloway
-1. A People's History of Computing in the United States, Joy Lisi Rankin
-1. In the Plex: How Google Thinks, Works, and Shapes Our Lives, Steven Levy
-1. Delayed Response: The Art Of Waiting, Jason Farman
-1. Sunburst and Luminary: An Apollo Memoir, Don Eyles and David R. Scott
-1. Ludicrous: The Unvarnished Story of Tesla Motors, Edward Niedermeyer
-1. Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made, Jason Schreier 
-1. The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet, David Kahn 
-1. The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography, Simon Singh
-1. The Code: Silicon Valley and the Remaking of America, Margered O'Mara
-1. Gods and Robots, Adrienne Mayor
-1. How Not to Network a Nation: The Uneasy History of the Soviet Internet, Benjamin Peters
-1. From Newspeak to Cyberspeak: A History of Soviet Cybernetics, Slava Gerovitch
-1. A History Of Computer Operating Systems: Unix, Dos, Lisa, Macintosh, Windows, Linux, Jon Watson 
-1. Just for Fun: The Story of an Accidental Revolutionary, Linus Torvalds and David Diamond
-1. Sid Meier's Memoir!, Sid Meier
-1. GPS Declassified: From Smart Bombs to Smartphones, Richard Easton and Eric Frazier
-1. Mindf-ck: Cambridge Analytica, Christopher Wylie
-1. Microsoft's First Generation: Cheryl Tsang
-1. Empires of Light, Jill Jonnes
-1. A Mind at Play: How Claude Shannon Invented the Information Age, Rob Goodman, Jimmy Soni
-1. Medieval Robots: ER Truitt
-1. Tomorrowland: Our Journey from Science Fiction to Science Fact, Steven Kotler
-1. 8-Bit Apocalypse: The Untold Story of Atari's Missle Command, Alex Rubens
-1. Fast Tanks and Heavy Bombers: Innovation in the US Army, 1917-1945, David Johnson
-1. Cyber Wars: Hacks That Shocked The Business World, Charles Arthur
-1. Advent of the Algorithm: The Idea That Rules The World, David Berlinski
-1. Conquering The Electron, Derek Cheung, Eric Brach
-1. The Master Switch, Tim Wu
-1. The Soul of a New Machine, Tracy Kidder
-1. The Network, Scott Woolley
-1. Longitude, Dava Sobel
-1. AI Narratives, Stephen Cave
-1. Writing on the Wall, Tom Standage
-1. Bitcoin: A Consise History, Eric Morse
-1. Red Moon Rising, Matthew Brzezinski
-1. The Victorian Internet, Tom Standage
-1. No Filter: The Inside Story of Instagram
-1. Dawn of the Code War, John P Carlin, Garrett Graff
-1. Rise of the Machines: A Cybernetic History, Thomas Rid
-1. Algorithms to Live By: The Computer Science of Human Decisions, Brian Christian, Tom Griffiths
-1. The Road Taken, Henry Petroski
-1. Open: How Compaq Ended IBM's PC Domination and Helped Invent Modern Computing, Rod Canion
-1. Black Software, Charlton D Mcllwain
-1. The Friendly Orange Glow, Brian Dear
-1. When Computing Got Personal, Matt Nicholson
-1. End of the Line, The Rise and Fall of AT&T, Leslie Cauley
-1. Anticipating Change, Secrets Behind the SAP Empire, Dr. Hasso Plattner
-1. A History of Photography, Taschen
-1. The World is Flat, Thomas L. Friedman
-1. Introduction to Computers and Data Processing, Shelly & Cashman
-2. Endless Loop, The History of the BASIC Programming Language, Mark Jones Lorenzo
-3. Showstopper, G Pascal Zachary
-4. danger.com, Joran Cray
-5. Grace Hopper and the Invention of the Information Age, Kurt Beyer
-6. Inventions that Changed the World, The History of the Computer
+2. Computing with Quantum Cats, John Gribbon
+3. The Second Age of Computer Science, Subrata Dasgupta
+4. The Department of Mad Scientists, Michael Belfiore
+5. The Imagineers of War, Sharon Weinberger
+6. The Age of the Platform: How Amazon, Apple, Facebook, and Google Have Redefined Business, Phil Simon and Mitch Joel
+7. Technology and Me: 40 years in technology, David Daniel Wertman
+8. The Perfect Thing, Steven Levy
+9. Startupland, Mikkel Svane, Carlye Adler
+10. WIld Ride: INside Uber's Quest for World Domination, Adam Lashinsky
+11. The Airbnb Story: How Three Ordinary Guys Disrupted an Industry, Made Billions…and Created Plenty of Controversy, Leigh Gallagher
+12. The Curious History of Dating: From Jane Austen to Tinder, Nichi Hodgson
+13. All the Rave: The Rise and Fall of Shawn Fanning's Napster, Joseph Menn
+14. The Story of the Computer: A Technical and Business History, Stephen Marshall
+15. The Monk and the Riddle: The Art of Creating a Life While Making a Living, Randy Komisar
+16. Empire of Imagination: Gary Gygax and the Birth of Dungeons & Dragons, Michael Witwer
+17. The Everything Store: Jeff Bezos and the Age of Amazon, Brad Stone
+18. We Are Anonymous: Inside the Hacker World of LulzSec, Anonymous, and the Global Cyber Insurgency, Party Olson
+19. Tubes: A Journey to the Center of the Internet, Andrew Blum
+20. The Daemon, the Gnu, and the Penguin, Peter H. Salus, Jeremy C. Reed
+21. From Mainframes to Smartphones: A History of the International Computer Industry, Martin Campbell-Kelly and Daniel D. Garcia-Swartz
+22. A People’s History of Computing in the United States, Joy Lisi Rankin
+23. The Computer Book: From the Abacus to Artificial Intelligence, 250 Milestones in the History of Computer Science (Sterling Milestones), Simson L Garfinkel and Rachel H. Grunspan 
+24. The Perfectionists: How Precision Engineers Created the Modern World, Simon Winchester 
+25. Atari Age, Michael Z Newman
+26. The Difference Engine: Charles Babbage and the Quest to Build the First Computer, Doron Swade
+27. A History of the ARPANET: The First Decade, BOLT BERANEK AND NEWMAN
+28. Innovation and the Communications Revolution: From the Victorian pioneers to broadband Internet, John Bray
+29. Permanent Record, Edward Snowden
+30. Makers of the Microchip: A Documentary History of Fairchild Semiconductor, Christophe Lécuyer , David C. Brock
+31. Troublemakers: Silicon Valley's Coming of Age, Leslie Berlin
+32. Billion Dollar Fantasy: The High-Stakes Game Between FanDuel and DraftKings That Upended Sports in America, Albert Chen
+33. An Investigation of the Laws of Thought, on Which are Founded the Mathematical Theories of Logic and Probabilities, George Boole 
+34. The Chip: How Two Americans Invented the Microchip and Launched a Revolution, T.R. Reid
+35. The Dark Web (Audible Originals), Geoff White, Bernard P. Achampong
+36. Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World, Joseph Mens
+37. Insanely Great: The Life and Times of Macintosh, the Computer that Changed Everything, Steven Levy
+38. Where Wizards Stay Up Late: The Origins of the Internet, Katie Hafner, Matthew Lyon
+39. Computing: A Business History, Lars Nielsen
+40. Charles Babbage from the Beginning, Lucy May Simister
+41. The ARPAnet Sourcebook: The Unpublished Foundations of the Internet, Peter H. Salus
+42. A History Computing: From MainFrames to online everything, David Daniel Wertman
+43. The Golden Age of Computer Technology: Through the Eyes of an Aging Geek, Marvin Zelkowitz
+44. Gates: How Microsoft's Mogul Reinvented an Industry and Made Himself the Richest Man in America: Stephen Manes and Paul Andrews
+45. Code: The Hidden Language of Computer Hardware and Software (Developer Best Practices), Charles Petzold 
+46. What the Doormouse Said, John Markoff
+47. The Logician and the Engineer: How George Boole and Claude Shannon Created the Information Age, Paul J. Nahin 
+48. Creative Selection, Ken Kocienda
+49. The Life and Work of George Boole: A Prelude to the Digital Age, Desmond MacHale
+50. Computer: A History of the Information Machine (The Sloan Technology Series), Martin Campbell-Kelly 
+51. Delayed: The Art of Waiting, Jason Farman
+52. Alan Turing: The Life and Legacy of the English Computer Scientist Who Became World War II’s Most Famous Codebreaker, Charles River Editors
+53. The Cryotron Files: The Untold Story of Dudley Buck, Cold War Computer Scientist and Microchip Pioneer, Iain Dey, Douglas Buck, Alan Dewey
+54. Showstopper, G. Pascal Zachary
+55. Technology of the Gods: The Incredible Sciences of the Ancients, David Hatcher Childress
+56. Replay: The History of Video Games, Tristan Donovan, Richard Garriott
+57. A History of Algorithms: From The Pebble To The Microchip, Jean-Luc Chabert and J.-C. Martzloff 
+58. Computing: A Concise History: The MIT Press Essential Knowledge Series, Paul E. Ceruzzi
+59. Hackers: Heroes of the Computer Revolution: 25th Anniversary Edition, Steven Levy
+60. The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution, Walter Isaacson
+61. A History of Modern Computing (History of Computing), Paul Cruzi and William Aspray
+62. Dreaming in Code, Scott Rosenberg
+63. Super Pumped: The Battle for Uber
+64. The Mysterious Affair at Olivetti, Meryle Secrest
+65. Masters of Doom, David Kushner
+66. The Players Ball, David Kushner
+67. Kingpin, Kevin Poulsen
+68. Paper: Paging Through History, Mark Kurlansky
+69. The Information: A History, a Theory, a Flood, James Gleick
+70. Future Histories, Lizzie O'Shea
+71. The Well, Katie Hafner
+72. Dark Territory: The Secret History of Cyber War, Fred Kaplan
+73. Cyberspies, Gordon Corera
+74. Endless Loop: The History of the BASIC Programming Language, Mark Jones Lorenzo
+75. The Fall of Telecom: A Wall Street Analyst’s True Story Of The Telecom Industry, Thomas J. Lauria
+76. The Idea Factory: Bell Labs and the Great Age of American Innovation, Jon Gertner 
+77. Pioneer Programmer: Jean Jennings Bartik and the Computer that Changed the World, Jean Jennings Bartik
+78. ENIAC: The Triumphs and Tragedies of the World's First Computer, Scott McCartney, Adams Morgan, et al.
+79. Finish Big: How Great Entrepreneurs Exit Their Companies on Top, Bo Burlingham
+80. The Decline and Fall of IBM: End of an American Icon?, Robert Cringely
+81. Who Says Elephants Can't Dance?: Inside IBM's Historic Turnaround, Louis V. Gerstner Jr.
+82. Delivering Happiness: A Path to Profits, Passion, and Purpose, Tony Hsieh
+83. Enchantment: The Art of Changing Hearts, Minds, and Actions, Guy Kawasaki
+84. Crossing the Chasm: Marketing and Selling Technology Projects to Mainstream Customers, Geoffrey A. Moore
+85. Inside the Tornado, Geoffrey Moore
+86. Blue Ocean Strategy: How to Create Uncontested Market Space and Make Competition Irrelevant, W. Chan Kim, Renee Mauborgne
+87. A History of the United States in Five Crashes: Stock Market Meltdowns That Defined a Nation, Scott Nations, Christopher Grove
+88. Origins of the Crash: The Great Bubble and Its Undoing, Roger Lowenstein
+89. Totally Wired: The Rise and Fall of Josh Harris and The Great Dotcom Swindle, Andrew Smith
+90. Facebook: The Inside Story, Steven Levy
+91. The Perfect Store: Inside eBay, Adam Cohen
+92. Making the Cisco Connection: The Story Behind the Real Internet Superpower, David Bunnell and Adam Brate 
+93. 4- and 8-bit Microprocessors, Architecture and History, Patrick Stakem
+94. Free for All, Peter Wayne
+95. The Dream Machine, M. Mitchell Waldrop 
+96. Hidden Figures, Margot Lee Shetterly and Laura Freeman 
+97. We Are the Nerds: The Birth and Tumultuous Life of Reddit, the Internet's Culture Laboratory, Christine Lagorio-Chafkin
+98. Without Their Permission: The Story of Reddit and a Blueprint for How to Change the World, Alexis Ohanian
+99. Ada Lovelace: The Making of a Computer Scientist, Christopher Hollings, Ursula Martin, et al.
+100. To Pixar and Beyond, Lawrence Levy
+101. Accidental Empires, Robert X. Cringley 
+102. An Internet for the People: The Politics and Promise of craigslist, Jessa Lingel
+103. America's Information Wars: The Untold Story of Information Systems in America’s Conflicts and Politics from World War II to the Internet Age, by Colin B. Burke
+104. A History of the Future: Prophets of Progress from H. G. Wells to Isaac Asimov, Peter J Bowler 
+105. The Making of Karateka, Jordan Machner
+106. Sunburst: The Ascent of Sun Microsystems
+107. Project Whirlwind the History of a Pioneer Computer, Kent C. and Thomas M. Smith Redmond
+108. The Maverick and His Machine: Thomas Watson, Sr. and the Making of IBM, Kevin Maney
+109. UNIX: A History and a Memoir, Brian Kernighan
+110. An Oral History of L0pht: https://duo.com/decipher/an-oral-history-of-the-l0pht
+111. Free as in Freedom, Sam Williams
+112. Broad Band, Claire L. Evans
+113. The One Device, Brian Merchant
+114. Ghost in the Wires: My Adventures as the World's Most Wanted Hacker, Kevin Mitnick
+115. Exploding the Phone: The Untold STory of the Teenagers and Outlaws Who Hacked Ma Bell, Phil Lapsley
+116. iWoz, Steve Wozniak, Gina Smith
+117. Fire in the Valley: The Birth and Death of the Personal Computer, Michael Swaine, Paul Freiberger
+118. Coders, Clive Thompson
+119. The Four: The Hidden DNA of Amazon, Apple, and Facebook, Scott Galloway
+120. A People's History of Computing in the United States, Joy Lisi Rankin
+121. In the Plex: How Google Thinks, Works, and Shapes Our Lives, Steven Levy
+122. Delayed Response: The Art Of Waiting, Jason Farman
+123. Sunburst and Luminary: An Apollo Memoir, Don Eyles and David R. Scott
+124. Ludicrous: The Unvarnished Story of Tesla Motors, Edward Niedermeyer
+125. Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made, Jason Schreier 
+126. The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet, David Kahn 
+127. The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography, Simon Singh
+128. The Code: Silicon Valley and the Remaking of America, Margered O'Mara
+129. Gods and Robots, Adrienne Mayor
+130. How Not to Network a Nation: The Uneasy History of the Soviet Internet, Benjamin Peters
+131. From Newspeak to Cyberspeak: A History of Soviet Cybernetics, Slava Gerovitch
+132. A History Of Computer Operating Systems: Unix, Dos, Lisa, Macintosh, Windows, Linux, Jon Watson 
+133. Just for Fun: The Story of an Accidental Revolutionary, Linus Torvalds and David Diamond
+134. Sid Meier's Memoir!, Sid Meier
+135. GPS Declassified: From Smart Bombs to Smartphones, Richard Easton and Eric Frazier
+136. Mindf-ck: Cambridge Analytica, Christopher Wylie
+137. Microsoft's First Generation: Cheryl Tsang
+138. Empires of Light, Jill Jonnes
+139. A Mind at Play: How Claude Shannon Invented the Information Age, Rob Goodman, Jimmy Soni
+140. Medieval Robots: ER Truitt
+141. Tomorrowland: Our Journey from Science Fiction to Science Fact, Steven Kotler
+142. 8-Bit Apocalypse: The Untold Story of Atari's Missle Command, Alex Rubens
+143. Fast Tanks and Heavy Bombers: Innovation in the US Army, 1917-1945, David Johnson
+144. Cyber Wars: Hacks That Shocked The Business World, Charles Arthur
+145. Advent of the Algorithm: The Idea That Rules The World, David Berlinski
+146. Conquering The Electron, Derek Cheung, Eric Brach
+147. The Master Switch, Tim Wu
+148. The Soul of a New Machine, Tracy Kidder
+149. The Network, Scott Woolley
+150. Longitude, Dava Sobel
+151. AI Narratives, Stephen Cave
+152. Writing on the Wall, Tom Standage
+153. Bitcoin: A Consise History, Eric Morse
+154. Red Moon Rising, Matthew Brzezinski
+155. The Victorian Internet, Tom Standage
+156. No Filter: The Inside Story of Instagram
+157. Dawn of the Code War, John P Carlin, Garrett Graff
+158. Rise of the Machines: A Cybernetic History, Thomas Rid
+159. Algorithms to Live By: The Computer Science of Human Decisions, Brian Christian, Tom Griffiths
+160. The Road Taken, Henry Petroski
+161. Open: How Compaq Ended IBM's PC Domination and Helped Invent Modern Computing, Rod Canion
+162. Black Software, Charlton D Mcllwain
+163. The Friendly Orange Glow, Brian Dear
+164. When Computing Got Personal, Matt Nicholson
+165. End of the Line, The Rise and Fall of AT&T, Leslie Cauley
+166. Anticipating Change, Secrets Behind the SAP Empire, Dr. Hasso Plattner
+167. A History of Photography, Taschen
+168. The World is Flat, Thomas L. Friedman
+169. Introduction to Computers and Data Processing, Shelly & Cashman
+170. Endless Loop, The History of the BASIC Programming Language, Mark Jones Lorenzo
+171. Showstopper, G Pascal Zachary
+172. danger.com, Joran Cray
+173. Grace Hopper and the Invention of the Information Age, Kurt Beyer
+174. Inventions that Changed the World, The History of the Computer
 
 
 *Note: Thanks to Drew Diver for his additions to the list!!!*
