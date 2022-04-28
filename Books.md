@@ -181,40 +181,43 @@
 3. Showstopper, G Pascal Zachary
 4. danger.com, Joran Cray
 5. Grace Hopper and the Invention of the Information Age, Kurt Beyer
+6. Inventions that Changed the World, The History of the Computer
 
 
 *Note: Thanks to Drew Diver for his additions to the list!!!*
 
 # Books Used In Analyzing how the ancient history of technology, science, and philosophy shaped the modern worldview
 
-1. The Evolution of Technology by George Basalla
-1. Civilizations by Filipe Fernández-Armesto
-1. A Short History of Technology: From The Earliest Times to AD 1900 from TK Derry and Trevor I Williams
-1. Communication in History Technology, Culture
-1. Leonardo da vinci by Walter Isaacson
-1. Society from David Crowley and Paul Heyer
-1. Timelines in Science, by the Smithsonian
-1. Dialogues Concerning Two New Sciences from Galileo Galilei
-1. Mediations from Marcus Aurelius
-1. Pneumatics from Philo of Byzantium
-1. The Laws of Thought by George Boole
-1. Natural History from Pliny The Elder
-1. Cassius Dio’s Roman History
-1. Annals from Tacitus
-1. Orations by Cicero
-1. Ethics, Rhetoric, Metaphysics, and Politics by Aristotle
-1. Plato’s Symposium and The Trial & Execution of Socrates.
-2. The Mapmakers, The Story of the Great Pioneers in Cargography from Antiquity to the Space Age, John Noble Wilford
-3. Ancient India: Land of Mystery, Lost Civilizations
-4. Writing Space, The Computer, Hypertext, and the History of Writing
-5. The Life of the Automobile, Steven Parissien
-6. Time and the Art of Living, Robert Grudin
-7. India and the Mughal Dynasty
-8. Hearst Castle, Victoria K Kastner
-9. The Spell of California's Spanish Colonial Missions, Donald Francis Toomey
-10. Day of Infamy, Lord & Holt
-11. The History of the Calculus and Its Conceptual Development, Carl B. Boyer
-12. The History of Pi, Petr Beckmann
+1. Dialogues Concerning Two New Sciences, Galileo Galilei
+2. The Evolution of Technology by George Basalla
+3. Civilizations by Filipe Fernández-Armesto
+4. A Short History of Technology: From The Earliest Times to AD 1900 from TK Derry and Trevor I Williams
+5. Communication in History Technology, Culture
+6. Leonardo da vinci by Walter Isaacson
+7. Society from David Crowley and Paul Heyer
+8. Timelines in Science, by the Smithsonian
+9. Dialogues Concerning Two New Sciences from Galileo Galilei
+10. Mediations from Marcus Aurelius
+11. Pneumatics from Philo of Byzantium
+12. The Laws of Thought by George Boole
+13. The Right Stuff, Tom Wolffe
+14. Natural History from Pliny The Elder
+15. Cassius Dio’s Roman History
+16. Annals from Tacitus
+17. Orations by Cicero
+18. Ethics, Rhetoric, Metaphysics, and Politics by Aristotle
+19. Plato’s Symposium and The Trial & Execution of Socrates.
+20. The Mapmakers, The Story of the Great Pioneers in Cargography from Antiquity to the Space Age, John Noble Wilford
+21. Ancient India: Land of Mystery, Lost Civilizations
+22. Writing Space, The Computer, Hypertext, and the History of Writing
+23. The Life of the Automobile, Steven Parissien
+24. Time and the Art of Living, Robert Grudin
+25. India and the Mughal Dynasty
+26. Hearst Castle, Victoria K Kastner
+27. The Spell of California's Spanish Colonial Missions, Donald Francis Toomey
+28. Day of Infamy, Lord & Holt
+29. The History of the Calculus and Its Conceptual Development, Carl B. Boyer
+30. The History of Pi, Petr Beckmann
 
 # Technical Books
 
@@ -272,6 +275,9 @@
 1. The Speed of Trust, Stephen Covey
 1. Raving Fans, Ken Blanchard and Sheldon Bowles
 2. Too Blue! The IBM PC from an Acorn to a Renegade
+3. IBM and the Holocaust, Edwin Black
+4. US V. Microsoft, The Inside Story of the Landmark Case, Joel Brinkley and Steve Lohr
+5. SAP Inside the Secret Software Power
 
 # Citations
 1. Davies, Donald Watts. (1986). Oral history interview with Donald W. Davies. Charles Babbage Institute. Retrieved from the University of Minnesota Digital Conservancy, https://hdl.handle.net/11299/107241.
