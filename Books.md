@@ -172,6 +172,10 @@
 1. Black Software, Charlton D Mcllwain
 1. The Friendly Orange Glow, Brian Dear
 1. When Computing Got Personal, Matt Nicholson
+1. End of the Line, The Rise and Fall of AT&T, Leslie Cauley
+1. Anticipating Change, Secrets Behind the SAP Empire, Dr. Hasso Plattner
+1. A History of Photography, Taschen
+1. The World is Flat, Thomas L. Friedman
 
 *Note: Thanks to Drew Diver for his additions to the list!!!*
 
