@@ -215,15 +215,15 @@
 24. Time and the Art of Living, Robert Grudin
 25. India and the Mughal Dynasty
 26. Hearst Castle, Victoria K Kastner
-27. The Spell of California's Spanish Colonial Missions, Donald Francis Toomey
-28. Day of Infamy, Lord & Holt
-29. The History of the Calculus and Its Conceptual Development, Carl B. Boyer
-30. The History of Pi, Petr Beckmann
+27. The Spell of California's Spanish Colonial Missions, Donald Francis Toomey https://www.amazon.com/Spell-Californias-Spanish-Colonial-Missions/dp/0865343292
+28. Day of Infamy, Lord & Holt https://www.amazon.com/Day-Infamy-Bombing-Pearl-Harbor-ebook/dp/B0078X73FM
+29. The History of the Calculus and Its Conceptual Development, Carl B. Boyer https://www.amazon.com/History-Calculus-Conceptual-Development-Mathematics/dp/0486605094
+30. The History of Pi, Petr Beckmann https://www.amazon.com/History-Pi-Petr-Beckmann/dp/0312381859
 
 # Technical Books
 
-1. Professional Node.js, Pedro Teixeira
-2. Python for Kids, Briggs
+1. Professional Node.js, Pedro Teixeira https://www.amazon.com/Professional-Node-js-Building-Javascript-Scalable/dp/1118185463
+2. Python for Kids, Briggs https://www.amazon.com/Python-Kids-Playful-Introduction-Programming/dp/1593274076
 
 # Books Used In Analyzing The Business Of Computing
 
