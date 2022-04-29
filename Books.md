@@ -1,9 +1,9 @@
 # Books used in researching and documenting The History of Computing
 
-1. In the Beginning was the Command Line, Neal Stephenson
-1. Steve Jobs, Walter Isaacson
-1. How the Internet Happened, Brian McCullough
-1. Engines of the Mind: The Evolution of the Computer from Mainframes to Microprocessors, Joel N. Shurkin
+1. In the Beginning was the Command Line, Neal Stephenson https://www.amazon.com/Beginning-was-Command-Line/dp/0380815931
+1. Steve Jobs, Walter Isaacson https://www.amazon.com/Steve-Jobs-Walter-Isaacson-audiobook/dp/B07ZMKXMTG
+1. How the Internet Happened, Brian McCullough https://www.amazon.com/How-Internet-Happened-Netscape-iPhone/dp/1631493078
+1. Engines of the Mind: The Evolution of the Computer from Mainframes to Microprocessors, Joel N. Shurkin https://www.amazon.com/Engines-Mind-Evolution-Mainframes-Microprocessors/dp/0393314715
 1. That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea: Marc Randolph
 1. Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal: Nick Bolton
 1. Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age: Michael Hiltzik
@@ -277,9 +277,17 @@
 1. The Speed of Trust, Stephen Covey
 1. Raving Fans, Ken Blanchard and Sheldon Bowles
 2. Too Blue! The IBM PC from an Acorn to a Renegade
-3. IBM and the Holocaust, Edwin Black
-4. US V. Microsoft, The Inside Story of the Landmark Case, Joel Brinkley and Steve Lohr
-5. SAP Inside the Secret Software Power
+3. IBM and the Holocaust, Edwin Black https://www.amazon.com/IBM-Holocaust-Strategic-Alliance-Corporation/dp/0914153277
+4. US V. Microsoft, The Inside Story of the Landmark Case, Joel Brinkley and Steve Lohr https://www.amazon.com/U-S-v-Microsoft-Inside-Landmark-ebook/dp/B000QCTOW2
+5. SAP Inside the Secret Software Power, Meissner https://www.amazon.com/SAP-Inside-Secret-Software-Power/dp/0071347852
+
+# 3D Printed Materials
+1. Zuse Z1 and Z2 Logic Gates: https://www.thingiverse.com/thing:3465567
+2. Einstein Bust: https://www.thingiverse.com/thing:966908
+3. Edison Bust: https://www.thingiverse.com/thing:143111
+4. Babbage Difference Engine: https://www.thingiverse.com/thing:145050
+5. Pascaline: https://www.thingiverse.com/thing:4395600
+6. Graham Escapement: https://www.thingiverse.com/thing:1128317
 
 # Citations
 1. Davies, Donald Watts. (1986). Oral history interview with Donald W. Davies. Charles Babbage Institute. Retrieved from the University of Minnesota Digital Conservancy, https://hdl.handle.net/11299/107241.
