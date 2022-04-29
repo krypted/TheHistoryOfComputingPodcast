@@ -189,36 +189,37 @@
 
 # Books Used In Analyzing how the ancient history of technology, science, and philosophy shaped the modern worldview
 
-1. Dialogues Concerning Two New Sciences, Galileo Galilei
-2. The Evolution of Technology by George Basalla
-3. Civilizations by Filipe Fernández-Armesto
-4. A Short History of Technology: From The Earliest Times to AD 1900 from TK Derry and Trevor I Williams
-5. Communication in History Technology, Culture
-6. Leonardo da vinci by Walter Isaacson
-7. Society from David Crowley and Paul Heyer
-8. Timelines in Science, by the Smithsonian
-9. Dialogues Concerning Two New Sciences from Galileo Galilei
-10. Mediations from Marcus Aurelius
-11. Pneumatics from Philo of Byzantium
-12. The Laws of Thought by George Boole
-13. The Right Stuff, Tom Wolffe
-14. Natural History from Pliny The Elder
-15. Cassius Dio’s Roman History
-16. Annals from Tacitus
-17. Orations by Cicero
-18. Ethics, Rhetoric, Metaphysics, and Politics by Aristotle
-19. Plato’s Symposium and The Trial & Execution of Socrates.
-20. The Mapmakers, The Story of the Great Pioneers in Cargography from Antiquity to the Space Age, John Noble Wilford
-21. Ancient India: Land of Mystery, Lost Civilizations
-22. Writing Space, The Computer, Hypertext, and the History of Writing
-23. The Life of the Automobile, Steven Parissien
-24. Time and the Art of Living, Robert Grudin
-25. India and the Mughal Dynasty
-26. Hearst Castle, Victoria K Kastner
-27. The Spell of California's Spanish Colonial Missions, Donald Francis Toomey https://www.amazon.com/Spell-Californias-Spanish-Colonial-Missions/dp/0865343292
-28. Day of Infamy, Lord & Holt https://www.amazon.com/Day-Infamy-Bombing-Pearl-Harbor-ebook/dp/B0078X73FM
-29. The History of the Calculus and Its Conceptual Development, Carl B. Boyer https://www.amazon.com/History-Calculus-Conceptual-Development-Mathematics/dp/0486605094
-30. The History of Pi, Petr Beckmann https://www.amazon.com/History-Pi-Petr-Beckmann/dp/0312381859
+1. The Mechanism of Weaving, Thomas W Fox (1922) https://www.amazon.com/Mechanism-Weaving-Classic-Reprint/dp/0282136517
+2. Dialogues Concerning Two New Sciences, Galileo Galilei https://www.amazon.com/Dialogues-Concerning-Two-New-Sciences/dp/161427794X
+3. The Evolution of Technology by George Basalla https://www.amazon.com/Evolution-Technology-Cambridge-Studies-History/dp/0521296811
+4. Civilizations by Filipe Fernández-Armesto, https://www.amazon.com/Civilizations-Culture-Ambition-Transformation-Nature/dp/074320249X
+5. A Short History of Technology: From The Earliest Times to AD 1900 from TK Derry and Trevor I Williams https://www.amazon.com/Short-History-Technology-Earliest-D/dp/0486274721
+6. Communication in History Technology, Culture
+7. Leonardo da vinci by Walter Isaacson
+8. Society from David Crowley and Paul Heyer
+9. Timelines in Science, by the Smithsonian
+10. Dialogues Concerning Two New Sciences from Galileo Galilei
+11. Mediations from Marcus Aurelius
+12. Pneumatics from Philo of Byzantium
+13. The Laws of Thought by George Boole
+14. The Right Stuff, Tom Wolffe
+15. Natural History from Pliny The Elder
+16. Cassius Dio’s Roman History
+17. Annals from Tacitus
+18. Orations by Cicero
+19. Ethics, Rhetoric, Metaphysics, and Politics by Aristotle
+20. Plato’s Symposium and The Trial & Execution of Socrates.
+21. The Mapmakers, The Story of the Great Pioneers in Cargography from Antiquity to the Space Age, John Noble Wilford
+22. Ancient India: Land of Mystery, Lost Civilizations
+23. Writing Space, The Computer, Hypertext, and the History of Writing
+24. The Life of the Automobile, Steven Parissien
+25. Time and the Art of Living, Robert Grudin
+26. India and the Mughal Dynasty
+27. Hearst Castle, Victoria K Kastner
+28. The Spell of California's Spanish Colonial Missions, Donald Francis Toomey https://www.amazon.com/Spell-Californias-Spanish-Colonial-Missions/dp/0865343292
+29. Day of Infamy, Lord & Holt https://www.amazon.com/Day-Infamy-Bombing-Pearl-Harbor-ebook/dp/B0078X73FM
+30. The History of the Calculus and Its Conceptual Development, Carl B. Boyer https://www.amazon.com/History-Calculus-Conceptual-Development-Mathematics/dp/0486605094
+31. The History of Pi, Petr Beckmann https://www.amazon.com/History-Pi-Petr-Beckmann/dp/0312381859
 
 # Technical Books
 
