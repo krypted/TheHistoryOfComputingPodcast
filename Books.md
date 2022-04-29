@@ -181,7 +181,11 @@
 179. danger.com, Joran Cray https://www.amazon.com/Gemini7-danger-com-Jordan-Cray/dp/1416998470
 180. Grace Hopper and the Invention of the Information Age, Kurt Beyer https://www.amazon.com/Invention-Information-Lemelson-Studies-Innovation/dp/0262517264
 181. Inventions that Changed the World, The History of the Computer https://www.amazon.com/History-Computer-Inventions-Changed-World/dp/1403496552
-
+182. Grace Hopper, Computing Pioneer https://www.amazon.com/Grace-Hopper-Programming-Pioneer-Superstars/dp/0716765993
+183. The 100 Greatest Retro Video Games https://www.amazon.com/100-Greatest-Retro-Videogames-Stories/dp/1787393089/ref=sr_1_1?crid=2AHS0R5HRQZ3Z&keywords=the+100+greatest+retro+videogames&qid=1651268818&s=books&sprefix=the+100+greatest+retr%2Cstripbooks%2C87&sr=1-1
+184. Open Sources: Voices from the Open Source Revolution https://www.amazon.com/Open-Sources-Voices-Source-Revolution/dp/1565925823
+Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https://www.amazon.com/Softwar-Intimate-Portrait-Ellison-Oracle/dp/0743225058
+The Difference Between God and Larry Ellison, Mike Wilson https://www.amazon.com/Difference-Between-God-Larry-Ellison/dp/0060008768
 
 *Note: Thanks to Drew Diver for his additions to the list!!!*
 
@@ -218,14 +222,16 @@
 31. Day of Infamy, Lord & Holt https://www.amazon.com/Day-Infamy-Bombing-Pearl-Harbor-ebook/dp/B0078X73FM
 32. The History of the Calculus and Its Conceptual Development, Carl B. Boyer https://www.amazon.com/History-Calculus-Conceptual-Development-Mathematics/dp/0486605094
 33. The History of Pi, Petr Beckmann https://www.amazon.com/History-Pi-Petr-Beckmann/dp/0312381859
+34. American Privacy, Frederick S Lane https://www.amazon.com/American-Privacy-400-Year-History-Contested/dp/080700619X
+35. Women in Science: Rachel Ignotofsky https://www.amazon.com/Women-Science-Fearless-Pioneers-Changed/dp/1607749769
 
 # Technical Books
 
 1. Professional Node.js, Pedro Teixeira https://www.amazon.com/Professional-Node-js-Building-Javascript-Scalable/dp/1118185463
 2. Python for Kids, Briggs https://www.amazon.com/Python-Kids-Playful-Introduction-Programming/dp/1593274076
 3. Objective-C Pocket Reference, Andrew M. Duncan
-
-5. 
+4. The Art of Assembly Language, Randall Hyde https://www.amazon.com/Art-Assembly-Language-2nd/dp/1593272073
+5. Hacking for Dummies, Kevin Beaver, https://www.amazon.com/Hacking-Dummies-Computer-Tech/dp/1119485479
 
 # Books Used In Analyzing The Business Of Computing
 
