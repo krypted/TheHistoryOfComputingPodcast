@@ -4,12 +4,11 @@
 1. Steve Jobs, Walter Isaacson https://www.amazon.com/Steve-Jobs-Walter-Isaacson-audiobook/dp/B07ZMKXMTG
 1. How the Internet Happened, Brian McCullough https://www.amazon.com/How-Internet-Happened-Netscape-iPhone/dp/1631493078
 1. Engines of the Mind: The Evolution of the Computer from Mainframes to Microprocessors, Joel N. Shurkin https://www.amazon.com/Engines-Mind-Evolution-Mainframes-Microprocessors/dp/0393314715
-1. That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea: Marc Randolph
-1. Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal: Nick Bolton
-1. Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age: Michael Hiltzik
-1. Dungeons and Desktops: The History of Computer Role-Playing Games 2e, Matt Barton
-1. The Launch Pad: Inside Y Combinator, Silicon Valley’s Most Exclusive School for Startups, Randall Stross
-1. Platform Revolution: How Networked Markets Are Transforming the Economy - and How to Make Them Work for You, Geoffrey G. Parker, Marshall W. Van Alstyne, Sangeet Paul Choudary
+1. That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea: Marc Randolph https://www.amazon.com/That-Will-Never-Work-audiobook/dp/B07X7JH5ZH
+1. Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal: Nick Bolton https://www.amazon.com/Hatching-Twitter-Story-Friendship-Betrayal/dp/1591847087
+1. Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age: Michael Hiltzik https://www.amazon.com/Dealers-Lightning-Xerox-PARC-Computer/dp/0887309895
+1. Dungeons and Desktops: The History of Computer Role-Playing Games 2e, Matt Barton https://www.amazon.com/Dungeons-Desktops-History-Computer-Role-Playing/dp/1568814119
+1. The Launch Pad: Inside Y Combinator, Silicon Valley’s Most Exclusive School for Startups, Randall Stross https://www.amazon.com/Launch-Pad-Inside-Combinator/dp/1591846587
 2. Computing with Quantum Cats, John Gribbon
 3. The Second Age of Computer Science, Subrata Dasgupta
 4. The Department of Mad Scientists, Michael Belfiore
@@ -268,18 +267,19 @@
 1. Traction: A Startup Guide to Getting Customers, Gabriel Weinberg, Justin Mares
 1. Zero to One: Notes on Startups, or How To Build The Future, Peter Thiel, Blake Masters
 1. Destruction and Creation, John Boyd
-1. Boyd, the Fighter Pilot Who Changed The Art of War, Albert Coram
-1. Team of Teams, General Stan McChrystal
-1. Certain to Win, Chet Richards
-1. Warfighting, US Marine Corps
-1. Art of the Start, Guy Kawasaki
-1. Drive, Dan Pink
-1. The Speed of Trust, Stephen Covey
-1. Raving Fans, Ken Blanchard and Sheldon Bowles
-2. Too Blue! The IBM PC from an Acorn to a Renegade
-3. IBM and the Holocaust, Edwin Black https://www.amazon.com/IBM-Holocaust-Strategic-Alliance-Corporation/dp/0914153277
-4. US V. Microsoft, The Inside Story of the Landmark Case, Joel Brinkley and Steve Lohr https://www.amazon.com/U-S-v-Microsoft-Inside-Landmark-ebook/dp/B000QCTOW2
-5. SAP Inside the Secret Software Power, Meissner https://www.amazon.com/SAP-Inside-Secret-Software-Power/dp/0071347852
+1. Boyd, the Fighter Pilot Who Changed The Art of War, Albert Coram https://www.amazon.com/Boyd-Fighter-Pilot-Who-Changed/dp/0316796883
+1. Team of Teams, General Stan McChrystal https://www.amazon.com/Team-of-Teams-audiobook/dp/B00UVW4RV0
+1. Certain to Win, Chet Richards https://www.amazon.com/Certain-Win-Strategy-Applied-Business/dp/1413453767
+1. Warfighting, US Marine Corps https://www.amazon.com/Warfighting-Department-Navy/dp/1490367217
+1. Art of the Start, Guy Kawasaki https://www.amazon.com/The-Art-of-Start-2-0-Guy-Kawasaki-audiobook/dp/B00TIW9SZE
+1. Drive, Dan Pink https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/B0032COUMC
+1. The Speed of Trust, Stephen Covey https://www.amazon.com/The-Speed-of-Trust-audiobook/dp/B001U2MTAG
+1. Raving Fans, Ken Blanchard and Sheldon Bowles https://www.amazon.com/Raving-Fans-Revolutionary-Approach-Customer/dp/0006530699
+2. Too Blue! The IBM PC from an Acorn to a Renegade https://www.amazon.com/TOO-BLUE-IBM-Acorn-Renegade/dp/1637350031
+3. Platform Revolution: How Networked Markets Are Transforming the Economy - and How to Make Them Work for You, Geoffrey G. Parker, Marshall W. Van Alstyne, Sangeet Paul Choudary https://www.amazon.com/Platform-Revolution-Networked-Markets-Transforming/dp/0393249131
+4. IBM and the Holocaust, Edwin Black https://www.amazon.com/IBM-Holocaust-Strategic-Alliance-Corporation/dp/0914153277
+5. US V. Microsoft, The Inside Story of the Landmark Case, Joel Brinkley and Steve Lohr https://www.amazon.com/U-S-v-Microsoft-Inside-Landmark-ebook/dp/B000QCTOW2
+6. SAP Inside the Secret Software Power, Meissner https://www.amazon.com/SAP-Inside-Secret-Software-Power/dp/0071347852
 
 # 3D Printed Materials
 1. Zuse Z1 and Z2 Logic Gates: https://www.thingiverse.com/thing:3465567
