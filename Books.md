@@ -166,22 +166,21 @@
 156. No Filter: The Inside Story of Instagram
 157. Dawn of the Code War, John P Carlin, Garrett Graff
 158. Rise of the Machines: A Cybernetic History, Thomas Rid
-159. Algorithms to Live By: The Computer Science of Human Decisions, Brian Christian, Tom Griffiths
-160. The Road Taken, Henry Petroski
-161. Open: How Compaq Ended IBM's PC Domination and Helped Invent Modern Computing, Rod Canion
-162. Black Software, Charlton D Mcllwain
-163. The Friendly Orange Glow, Brian Dear
-164. When Computing Got Personal, Matt Nicholson
-165. End of the Line, The Rise and Fall of AT&T, Leslie Cauley
-166. Anticipating Change, Secrets Behind the SAP Empire, Dr. Hasso Plattner
-167. A History of Photography, Taschen
-168. The World is Flat, Thomas L. Friedman
-169. Introduction to Computers and Data Processing, Shelly & Cashman
-170. Endless Loop, The History of the BASIC Programming Language, Mark Jones Lorenzo
-171. Showstopper, G Pascal Zachary
-172. danger.com, Joran Cray
-173. Grace Hopper and the Invention of the Information Age, Kurt Beyer
-174. Inventions that Changed the World, The History of the Computer
+159. Algorithms to Live By: The Computer Science of Human Decisions, Brian Christian, Tom Griffiths https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365
+160. The Road Taken, Henry Petroski https://www.amazon.com/The-Road-Taken-Henry-Petroski-audiobook/dp/B01IBZ9TP2
+161. Open: How Compaq Ended IBM's PC Domination and Helped Invent Modern Computing, Rod Canion https://www.amazon.com/Open-Rod-Canion-audiobook/dp/B00EZB9UGK
+162. Black Software, Charlton D Mcllwain https://www.amazon.com/Black-Software-Internet-Justice-AfroNet/dp/B086VPG23G
+163. The Friendly Orange Glow, Brian Dear https://www.amazon.com/Friendly-Orange-Glow-Untold-Cyberculture/dp/1101871555
+164. When Computing Got Personal, Matt Nicholson https://www.amazon.com/When-Computing-Got-Personal-Computer/dp/B00UQR7EWY
+165. End of the Line, The Rise and Fall of AT&T, Leslie Cauley https://www.amazon.com/End-Line-Leslie-Cauley/dp/1439123098
+166. Anticipating Change, Secrets Behind the SAP Empire, Dr. Hasso Plattner https://www.amazon.com/Anticipating-Change-Secrets-Behind-Empire/dp/0761529136
+167. A History of Photography, Taschen https://www.amazon.com/History-Photography-1839-Present/dp/3836540991
+169. Introduction to Computers and Data Processing, Shelly & Cashman https://www.amazon.com/Introduction-Computers-Data-Processing-Shelly/dp/0882361155
+170. Endless Loop, The History of the BASIC Programming Language, Mark Jones Lorenzo https://www.amazon.com/Endless-Loop-Programming-All-purpose-Instruction/dp/1974277070
+171. Showstopper, G Pascal Zachary https://www.amazon.com/Showstopper-Breakneck-Windows-Generation-Microsoft/dp/1497638836
+172. danger.com, Joran Cray https://www.amazon.com/Gemini7-danger-com-Jordan-Cray/dp/1416998470
+173. Grace Hopper and the Invention of the Information Age, Kurt Beyer https://www.amazon.com/Invention-Information-Lemelson-Studies-Innovation/dp/0262517264
+174. Inventions that Changed the World, The History of the Computer https://www.amazon.com/History-Computer-Inventions-Changed-World/dp/1403496552
 
 
 *Note: Thanks to Drew Diver for his additions to the list!!!*
@@ -193,32 +192,32 @@
 3. The Evolution of Technology by George Basalla https://www.amazon.com/Evolution-Technology-Cambridge-Studies-History/dp/0521296811
 4. Civilizations by Filipe Fernández-Armesto, https://www.amazon.com/Civilizations-Culture-Ambition-Transformation-Nature/dp/074320249X
 5. A Short History of Technology: From The Earliest Times to AD 1900 from TK Derry and Trevor I Williams https://www.amazon.com/Short-History-Technology-Earliest-D/dp/0486274721
-6. Communication in History Technology, Culture
-7. Leonardo da vinci by Walter Isaacson
-8. Society from David Crowley and Paul Heyer
-9. Timelines in Science, by the Smithsonian
-10. Dialogues Concerning Two New Sciences from Galileo Galilei
-11. Mediations from Marcus Aurelius
-12. Pneumatics from Philo of Byzantium
-13. The Laws of Thought by George Boole
-14. The Right Stuff, Tom Wolffe
-15. Natural History from Pliny The Elder
-16. Cassius Dio’s Roman History
-17. Annals from Tacitus
-18. Orations by Cicero
-19. Ethics, Rhetoric, Metaphysics, and Politics by Aristotle
-20. Plato’s Symposium and The Trial & Execution of Socrates.
-21. The Mapmakers, The Story of the Great Pioneers in Cargography from Antiquity to the Space Age, John Noble Wilford
-22. Ancient India: Land of Mystery, Lost Civilizations
-23. Writing Space, The Computer, Hypertext, and the History of Writing
-24. The Life of the Automobile, Steven Parissien
-25. Time and the Art of Living, Robert Grudin
-26. India and the Mughal Dynasty
-27. Hearst Castle, Victoria K Kastner
-28. The Spell of California's Spanish Colonial Missions, Donald Francis Toomey https://www.amazon.com/Spell-Californias-Spanish-Colonial-Missions/dp/0865343292
-29. Day of Infamy, Lord & Holt https://www.amazon.com/Day-Infamy-Bombing-Pearl-Harbor-ebook/dp/B0078X73FM
-30. The History of the Calculus and Its Conceptual Development, Carl B. Boyer https://www.amazon.com/History-Calculus-Conceptual-Development-Mathematics/dp/0486605094
-31. The History of Pi, Petr Beckmann https://www.amazon.com/History-Pi-Petr-Beckmann/dp/0312381859
+6. Communication in History Technology, Culture, Society, David Crowley, Paul Heyer https://www.amazon.com/Communication-History-Cases-David-Crowley/dp/0205693091
+7. Leonardo da Vinci by Walter Isaacson https://www.amazon.com/Leonardo-da-Vinci-Walter-Isaacson-audiobook/dp/B071S8BNDP
+9. Timelines in Science, by the Smithsonian https://www.amazon.com/Timelines-Science-Ultimate-Visual-Discoveries/dp/1465442472
+11. Mediations from Marcus Aurelius https://www.amazon.com/Meditations-Marcus-Aurelius/dp/195157026X
+12. Pneumatics from Philo of Byzantium or Hero of Alexandria https://www.amazon.com/Pneumatica-Pneumatics-Hero-Alexandria/dp/1519729006
+13. The Laws of Thought by George Boole https://www.amazon.com/laws-thought-George-Boole/dp/1236936302
+14. The Right Stuff, Tom Wolfe https://www.amazon.com/Right-Stuff-Tom-Wolfe/dp/0312427565
+15. Natural History from Pliny The Elder https://www.amazon.com/Natural-History-Selection-Penguin-Classics/dp/0140444130
+16. Cassius Dio’s Roman History https://www.amazon.com/Statius-Cassius-History-Classical-Library/dp/0674991931
+17. Annals from Tacitus https://www.amazon.com/Annals-Imperial-Rome-Cornelius-Tacitus/dp/1420926683
+18. Orations by Cicero https://www.amazon.com/Ciceros-Orations-Dover-Thrift-Editions/dp/0486822850
+19. Ethics, Rhetoric, Metaphysics, and Politics by Aristotle https://www.amazon.com/Metaphysics-New-Hackett-Aristotle/dp/1624664393
+20. Symposium, Plato https://www.amazon.com/Symposium-Penguin-Classics-Plato/dp/0140449272
+21. The Trial & Execution of Socrates, Plato https://www.amazon.com/Trial-Execution-Socrates-Sources-Controversies/dp/0195119797
+22. The Mapmakers, The Story of the Great Pioneers in Cargography from Antiquity to the Space Age, John Noble Wilford https://www.amazon.com/Mapmakers-Revised-John-Noble-Wilford/dp/0375708502
+23. Ancient India: Land of Mystery, Lost Civilizations
+24. Writing Space, The Computer, Hypertext, and the History of Writing, Jay David Bolter https://www.amazon.com/Writing-Space-Computer-Hypertext-History/dp/0805804277
+25. The Life of the Automobile, Steven Parissien https://www.amazon.com/Life-Automobile-Complete-History-Motor/dp/1250040639
+26. Time and the Art of Living, Robert Grudin https://www.amazon.com/Time-Living-Prof-Robert-Grudin/dp/0395898315
+27. India and the Mughal Dynasty, Valerie Berinstain https://www.amazon.com/India-Mughal-Dynasty-Valerie-Berinstain/dp/0810928566
+28. Hearst Castle, Victoria K Kastner https://www.amazon.com/Hearst-Castle-Biography-Country-House/dp/0810934159
+29. The World is Flat, Thomas L. Friedman https://www.amazon.com/World-Flat-History-Twenty-first-Century/dp/0374292884
+30. The Spell of California's Spanish Colonial Missions, Donald Francis Toomey https://www.amazon.com/Spell-Californias-Spanish-Colonial-Missions/dp/0865343292
+31. Day of Infamy, Lord & Holt https://www.amazon.com/Day-Infamy-Bombing-Pearl-Harbor-ebook/dp/B0078X73FM
+32. The History of the Calculus and Its Conceptual Development, Carl B. Boyer https://www.amazon.com/History-Calculus-Conceptual-Development-Mathematics/dp/0486605094
+33. The History of Pi, Petr Beckmann https://www.amazon.com/History-Pi-Petr-Beckmann/dp/0312381859
 
 # Technical Books
 
