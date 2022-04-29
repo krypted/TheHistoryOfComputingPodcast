@@ -9,11 +9,10 @@
 1. Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age: Michael Hiltzik https://www.amazon.com/Dealers-Lightning-Xerox-PARC-Computer/dp/0887309895
 1. Dungeons and Desktops: The History of Computer Role-Playing Games 2e, Matt Barton https://www.amazon.com/Dungeons-Desktops-History-Computer-Role-Playing/dp/1568814119
 1. The Launch Pad: Inside Y Combinator, Silicon Valley’s Most Exclusive School for Startups, Randall Stross https://www.amazon.com/Launch-Pad-Inside-Combinator/dp/1591846587
-2. Computing with Quantum Cats, John Gribbon
-3. The Second Age of Computer Science, Subrata Dasgupta
-4. The Department of Mad Scientists, Michael Belfiore
-5. The Imagineers of War, Sharon Weinberger
-6. The Age of the Platform: How Amazon, Apple, Facebook, and Google Have Redefined Business, Phil Simon and Mitch Joel
+2. Computing with Quantum Cats, John Gribbon https://www.amazon.com/Computing-Quantum-Cats-Colossus-Qubits/dp/1616149213
+3. The Second Age of Computer Science, Subrata Dasgupta https://www.amazon.com/Second-Age-Computer-Science-Neural/dp/B07LFKBN4T
+4. The Department of Mad Scientists, Michael Belfiore https://www.amazon.com/Department-Mad-Scientists-Remaking-Artificial/dp/0062000659
+5. The Imagineers of War, Sharon Weinberger https://www.amazon.com/Imagineers-War-Untold-Pentagon-Changed/dp/0385351798
 7. Technology and Me: 40 years in technology, David Daniel Wertman
 8. The Perfect Thing, Steven Levy
 9. Startupland, Mikkel Svane, Carlye Adler
@@ -118,8 +117,8 @@
 108. The Maverick and His Machine: Thomas Watson, Sr. and the Making of IBM, Kevin Maney
 109. UNIX: A History and a Memoir, Brian Kernighan
 110. An Oral History of L0pht: https://duo.com/decipher/an-oral-history-of-the-l0pht
-111. Free as in Freedom, Sam Williams
-112. Broad Band, Claire L. Evans
+111. Free as in Freedom, Sam Williams https://www.amazon.com/Free-Freedom-Richard-Stallmans-Software/dp/0596002874
+112. Broad Band, Claire L. Evans https://www.amazon.com/Broad-Band-Untold-Story-Internet/dp/0735211752
 113. The One Device, Brian Merchant
 114. Ghost in the Wires: My Adventures as the World's Most Wanted Hacker, Kevin Mitnick
 115. Exploding the Phone: The Untold STory of the Teenagers and Outlaws Who Hacked Ma Bell, Phil Lapsley
@@ -153,19 +152,19 @@
 143. Fast Tanks and Heavy Bombers: Innovation in the US Army, 1917-1945, David Johnson
 144. Cyber Wars: Hacks That Shocked The Business World, Charles Arthur
 145. Advent of the Algorithm: The Idea That Rules The World, David Berlinski
-146. Conquering The Electron, Derek Cheung, Eric Brach
-147. The Master Switch, Tim Wu
-148. The Soul of a New Machine, Tracy Kidder
-149. The Network, Scott Woolley
-150. Longitude, Dava Sobel
-151. AI Narratives, Stephen Cave
-152. Writing on the Wall, Tom Standage
-153. Bitcoin: A Consise History, Eric Morse
-154. Red Moon Rising, Matthew Brzezinski
-155. The Victorian Internet, Tom Standage
-156. No Filter: The Inside Story of Instagram
-157. Dawn of the Code War, John P Carlin, Garrett Graff
-158. Rise of the Machines: A Cybernetic History, Thomas Rid
+146. Conquering The Electron, Derek Cheung, Eric Brach https://www.amazon.com/Conquering-Electron-Visionaries-Egomaniacs-Scoundrels/dp/B084RWVJRV
+147. The Master Switch, Tim Wu https://www.amazon.com/Master-Switch-Rise-Information-Empires/dp/0307390993
+148. The Soul of a New Machine, Tracy Kidder https://www.amazon.com/Soul-New-Machine-Tracy-Kidder/dp/0316491977
+149. The Network, Scott Woolley https://www.amazon.com/Network-Battle-Airwaves-Birth-Communications/dp/0062242768
+150. Longitude, Dava Sobel https://www.amazon.com/Longitude-Dava-Sobel-audiobook/dp/B0023UCMLK
+151. AI Narratives, Stephen Cave https://www.amazon.com/AI-Narratives-Imaginative-Thinking-Intelligent/dp/0198846665
+152. Writing on the Wall, Tom Standage https://www.amazon.com/Writing-Wall-Social-Media-First/dp/1620402858
+153. Bitcoin: A Consise History, Eric Morse https://www.amazon.com/Bitcoin-Concise-History-Eric-Morse/dp/1521750572
+154. Red Moon Rising, Sputnik, and the Hiden Rivals That Ignited The Space Age, Matthew Brzezinski https://www.amazon.com/Red-Moon-Rising-audiobook/dp/B000W7E5DY
+155. The Victorian Internet, Tom Standage https://www.amazon.com/Victorian-Internet-Remarkable-Nineteenth-line/dp/162040592X
+156. No Filter: The Inside Story of Instagram, Sarah Frier https://www.amazon.com/No-Filter-Inside-Story-Instagram/dp/1982126809
+157. Dawn of the Code War, John P Carlin, Garrett Graff https://www.amazon.com/Dawn-Code-War-Americas-Against-ebook/dp/B079M8813N
+158. Rise of the Machines: A Cybernetic History, Thomas Rid https://www.amazon.com/Rise-Machines-Cybernetic-Thomas-Rid/dp/0393286002
 159. Algorithms to Live By: The Computer Science of Human Decisions, Brian Christian, Tom Griffiths https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365
 160. The Road Taken, Henry Petroski https://www.amazon.com/The-Road-Taken-Henry-Petroski-audiobook/dp/B01IBZ9TP2
 161. Open: How Compaq Ended IBM's PC Domination and Helped Invent Modern Computing, Rod Canion https://www.amazon.com/Open-Rod-Canion-audiobook/dp/B00EZB9UGK
@@ -250,35 +249,38 @@
 1. The Road to Character, David Brooks, https://www.amazon.com/Road-Character-David-Brooks/dp/0812983416 
 1. They Made IT! Ph.D. Angelika Blendstrup, https://www.amazon.com/They-Made-Chinese-entrepreneurs-contributed-ebook/dp/B0026MS2QY 
 1. John Chambers and the Cisco Way, John K. Waters, https://www.amazon.com/John-Chambers-Cisco-Way-Navigating/dp/0471008338 
-1. An Elegant Puzzle, Will Larson
-1. The Joy of x, Steven Strogatz
-1. The Obstacle is the Way, Ryan Holiday
-1. Ego is the Enemy, Ryan Holiday1. Radical Candor, Kim Scott
-1. A WHole New Mind, Daniel Pink
-1. The Storm Before the Calm, George Friedman
-1. Think and Grow Rich, Napoleon Hill
-1. The Leaders Guide, Eric Reis
-1. High Growth Handbook, Elad Gil
-1. The Hacker Ethic and the Spirit of the New Economy, Pekka Himanen, Linuz Torvalds, Manuel Castells
-1. Guerrilla PR, Michael Levine
-1. Rules for Radicals, Saul D Alinsky
-1. Scaling Up, Verne Harnish
-1. Traction: A Startup Guide to Getting Customers, Gabriel Weinberg, Justin Mares
-1. Zero to One: Notes on Startups, or How To Build The Future, Peter Thiel, Blake Masters
-1. Destruction and Creation, John Boyd
-1. Boyd, the Fighter Pilot Who Changed The Art of War, Albert Coram https://www.amazon.com/Boyd-Fighter-Pilot-Who-Changed/dp/0316796883
-1. Team of Teams, General Stan McChrystal https://www.amazon.com/Team-of-Teams-audiobook/dp/B00UVW4RV0
-1. Certain to Win, Chet Richards https://www.amazon.com/Certain-Win-Strategy-Applied-Business/dp/1413453767
-1. Warfighting, US Marine Corps https://www.amazon.com/Warfighting-Department-Navy/dp/1490367217
-1. Art of the Start, Guy Kawasaki https://www.amazon.com/The-Art-of-Start-2-0-Guy-Kawasaki-audiobook/dp/B00TIW9SZE
-1. Drive, Dan Pink https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/B0032COUMC
-1. The Speed of Trust, Stephen Covey https://www.amazon.com/The-Speed-of-Trust-audiobook/dp/B001U2MTAG
-1. Raving Fans, Ken Blanchard and Sheldon Bowles https://www.amazon.com/Raving-Fans-Revolutionary-Approach-Customer/dp/0006530699
-2. Too Blue! The IBM PC from an Acorn to a Renegade https://www.amazon.com/TOO-BLUE-IBM-Acorn-Renegade/dp/1637350031
-3. Platform Revolution: How Networked Markets Are Transforming the Economy - and How to Make Them Work for You, Geoffrey G. Parker, Marshall W. Van Alstyne, Sangeet Paul Choudary https://www.amazon.com/Platform-Revolution-Networked-Markets-Transforming/dp/0393249131
-4. IBM and the Holocaust, Edwin Black https://www.amazon.com/IBM-Holocaust-Strategic-Alliance-Corporation/dp/0914153277
-5. US V. Microsoft, The Inside Story of the Landmark Case, Joel Brinkley and Steve Lohr https://www.amazon.com/U-S-v-Microsoft-Inside-Landmark-ebook/dp/B000QCTOW2
-6. SAP Inside the Secret Software Power, Meissner https://www.amazon.com/SAP-Inside-Secret-Software-Power/dp/0071347852
+6. The Age of the Platform: How Amazon, Apple, Facebook, and Google Have Redefined Business, Phil Simon and Mitch Joel https://www.amazon.com/Age-Platform-Facebook-Redefined-Business/dp/0982930259
+7. An Elegant Puzzle, Will Larson https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186
+8. The Joy of x, Steven Strogatz https://www.amazon.com/Joy-Guided-Tour-Math-Infinity/dp/0544105850
+9. The Obstacle is the Way, Ryan Holiday https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358
+10. Ego is the Enemy, Ryan Holiday https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818
+11. Radical Candor, Kim Scott https://www.radicalcandor.com
+12. A WHole New Mind, Daniel Pink https://www.amazon.com/Whole-New-Mind-Right-Brainers-Future/dp/1594481717
+13. The Storm Before the Calm, George Friedman https://www.amazon.com/Storm-Before-Calm-Americas-Discord/dp/0385540493
+14. Think and Grow Rich, Napoleon Hill https://www.amazon.com/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331
+15. The Leaders Guide, Eric Reis https://www.amazon.com/The-Leaders-Guide-Eric-Ries-audiobook/dp/B07K8VF4PZ
+16. The Lean Startup, Eric Reis https://www.amazon.com/The-Lean-Startup-Eric-Ries-audiobook/dp/B005MM7HY8
+17. High Growth Handbook, Elad Gil https://www.amazon.com/High-Growth-Handbook-Elad-Gil-audiobook/dp/B07FSWFWPQ
+18. The Hacker Ethic and the Spirit of the New Economy, Pekka Himanen, Linuz Torvalds, Manuel Castells https://www.amazon.com/Hacker-Ethic-Spirit-New-Economy/dp/B00005AVX6
+19. Guerrilla PR, Michael Levine https://www.amazon.com/Guerrilla-P-R-Effective-Publicity-Campaign/dp/155800761X
+20. Rules for Radicals, Saul D Alinsky https://www.amazon.com/Rules-Radicals-Practical-Primer-Realistic/dp/0679721134
+21. Scaling Up, Verne Harnish https://www.amazon.com/Scaling-Up-Verne-Harnish-audiobook/dp/B00PMCI89Q
+22. Traction: A Startup Guide to Getting Customers, Gabriel Weinberg, Justin Mares https://www.amazon.com/Traction-Startup-Guide-Getting-Customers/dp/0976339609
+23. Zero to One: Notes on Startups, or How To Build The Future, Peter Thiel, Blake Masters https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296
+24. Destruction and Creation, John Boyd https://www.goalsys.com/books/documents/DESTRUCTION_AND_CREATION.pdf
+25. Boyd, the Fighter Pilot Who Changed The Art of War, Albert Coram https://www.amazon.com/Boyd-Fighter-Pilot-Who-Changed/dp/0316796883
+26. Team of Teams, General Stan McChrystal https://www.amazon.com/Team-of-Teams-audiobook/dp/B00UVW4RV0
+27. Certain to Win, Chet Richards https://www.amazon.com/Certain-Win-Strategy-Applied-Business/dp/1413453767
+28. Warfighting, US Marine Corps https://www.amazon.com/Warfighting-Department-Navy/dp/1490367217
+29. Art of the Start, Guy Kawasaki https://www.amazon.com/The-Art-of-Start-2-0-Guy-Kawasaki-audiobook/dp/B00TIW9SZE
+30. Drive, Dan Pink https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/B0032COUMC
+31. The Speed of Trust, Stephen Covey https://www.amazon.com/The-Speed-of-Trust-audiobook/dp/B001U2MTAG
+32. Raving Fans, Ken Blanchard and Sheldon Bowles https://www.amazon.com/Raving-Fans-Revolutionary-Approach-Customer/dp/0006530699
+33. Too Blue! The IBM PC from an Acorn to a Renegade https://www.amazon.com/TOO-BLUE-IBM-Acorn-Renegade/dp/1637350031
+34. Platform Revolution: How Networked Markets Are Transforming the Economy - and How to Make Them Work for You, Geoffrey G. Parker, Marshall W. Van Alstyne, Sangeet Paul Choudary https://www.amazon.com/Platform-Revolution-Networked-Markets-Transforming/dp/0393249131
+35. IBM and the Holocaust, Edwin Black https://www.amazon.com/IBM-Holocaust-Strategic-Alliance-Corporation/dp/0914153277
+36. US V. Microsoft, The Inside Story of the Landmark Case, Joel Brinkley and Steve Lohr https://www.amazon.com/U-S-v-Microsoft-Inside-Landmark-ebook/dp/B000QCTOW2
+37. SAP Inside the Secret Software Power, Meissner https://www.amazon.com/SAP-Inside-Secret-Software-Power/dp/0071347852
 
 # 3D Printed Materials
 1. Zuse Z1 and Z2 Logic Gates: https://www.thingiverse.com/thing:3465567
