@@ -308,6 +308,7 @@ The Difference Between God and Larry Ellison, Mike Wilson https://www.amazon.com
 | Babbage Difference Engine | https://www.thingiverse.com/thing:145050|
 | Pascaline | https://www.thingiverse.com/thing:4395600|
 | Graham Escapement | https://www.thingiverse.com/thing:1128317|
+| Cray-1 | https://www.thingiverse.com/thing:26671 |
 
 # Podcasts
 | Title | URL |
