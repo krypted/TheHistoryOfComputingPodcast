@@ -307,10 +307,12 @@ The Difference Between God and Larry Ellison, Mike Wilson https://www.amazon.com
 6. Graham Escapement: https://www.thingiverse.com/thing:1128317
 
 # Podcasts
-1. The Dark Web (Audible Originals), Geoff White, Bernard P. Achampong https://www.audible.com/pd/The-Dark-Web-Podcast/B08DFLG3YP
-2. The Advent of Computing https://adventofcomputing.com
-3. Floppy Days https://player.fm/series/floppydays-vintage-computing-podcast
-4. https://www.audible.com/pd/Podcast/B08JJQJHXB
+| Command | Description |
+| --- | --- |
+|The Dark Web (Audible Originals) Geoff White, Bernard P. Achampong | https://www.audible.com/pd/The-Dark-Web-Podcast/B08DFLG3YP|
+|The Advent of Computing | https://adventofcomputing.com|
+|Floppy Days | https://player.fm/series/floppydays-vintage-computing-podcast|
+||https://www.audible.com/pd/Podcast/B08JJQJHXB|
  
 # Citations
 1. Davies, Donald Watts. (1986). Oral history interview with Donald W. Davies. Charles Babbage Institute. Retrieved from the University of Minnesota Digital Conservancy, https://hdl.handle.net/11299/107241.
