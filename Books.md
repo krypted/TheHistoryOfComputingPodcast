@@ -308,7 +308,6 @@ The Difference Between God and Larry Ellison, Mike Wilson https://www.amazon.com
 
 # Podcasts
 | Command | Description |
-| --- | --- |
 |The Dark Web (Audible Originals) Geoff White, Bernard P. Achampong | https://www.audible.com/pd/The-Dark-Web-Podcast/B08DFLG3YP|
 |The Advent of Computing | https://adventofcomputing.com|
 |Floppy Days | https://player.fm/series/floppydays-vintage-computing-podcast|
