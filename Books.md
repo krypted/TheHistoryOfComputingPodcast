@@ -299,15 +299,18 @@ The Difference Between God and Larry Ellison, Mike Wilson https://www.amazon.com
 134. SAP Inside the Secret Software Power, Meissner https://www.amazon.com/SAP-Inside-Secret-Software-Power/dp/0071347852
 
 # 3D Printed Materials
-1. Zuse Z1 and Z2 Logic Gates: https://www.thingiverse.com/thing:3465567
-2. Einstein Bust: https://www.thingiverse.com/thing:966908
-3. Edison Bust: https://www.thingiverse.com/thing:143111
-4. Babbage Difference Engine: https://www.thingiverse.com/thing:145050
-5. Pascaline: https://www.thingiverse.com/thing:4395600
-6. Graham Escapement: https://www.thingiverse.com/thing:1128317
+| Thing | URL |
+| --- | --- |
+| Zuse Z1 and Z2 Logic Gates | https://www.thingiverse.com/thing:3465567|
+| Einstein Bust | https://www.thingiverse.com/thing:966908|
+| Edison Bust|  https://www.thingiverse.com/thing:143111|
+| Babbage Difference Engine | https://www.thingiverse.com/thing:145050|
+| Pascaline | https://www.thingiverse.com/thing:4395600|
+| Graham Escapement | https://www.thingiverse.com/thing:1128317|
 
 # Podcasts
-| Command | Description |
+| Title | URL |
+| --- | --- |
 |The Dark Web (Audible Originals) Geoff White, Bernard P. Achampong | https://www.audible.com/pd/The-Dark-Web-Podcast/B08DFLG3YP|
 |The Advent of Computing | https://adventofcomputing.com|
 |Floppy Days | https://player.fm/series/floppydays-vintage-computing-podcast|
