@@ -317,6 +317,8 @@ The Difference Between God and Larry Ellison, Mike Wilson https://www.amazon.com
 |The Advent of Computing | https://adventofcomputing.com|
 |Floppy Days | https://player.fm/series/floppydays-vintage-computing-podcast|
 ||https://www.audible.com/pd/Podcast/B08JJQJHXB|
+| History of the Internet Podcast | https://www.internethistorypodcast.com |
+| Command Line Heroes | https://www.redhat.com/en/command-line-heroes |
  
 # Citations
 1. Davies, Donald Watts. (1986). Oral history interview with Donald W. Davies. Charles Babbage Institute. Retrieved from the University of Minnesota Digital Conservancy, https://hdl.handle.net/11299/107241.
