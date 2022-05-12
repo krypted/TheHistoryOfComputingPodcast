@@ -26,22 +26,23 @@
 24. The Story of the Computer: A Technical and Business History, Stephen Marshall https://www.amazon.com/Story-Computer-Technical-Business-History/dp/1546849076
 25. The Monk and the Riddle: The Art of Creating a Life While Making a Living, Randy Komisar https://www.amazon.com/Monk-Riddle-Creating-Making-Living/dp/1578516447
 26. Empire of Imagination: Gary Gygax and the Birth of Dungeons & Dragons, Michael Witwer https://www.amazon.com/Empire-Imagination-Gygax-Dungeons-Dragons-ebook/dp/B01158JTM0
-27. The Everything Store: Jeff Bezos and the Age of Amazon, Brad Stone https://www.amazon.com/Everything-Store-Jeff-Bezos-Amazon/dp/0316239909
-28. We Are Anonymous: Inside the Hacker World of LulzSec, Anonymous, and the Global Cyber Insurgency, Parmy Olson https://www.amazon.com/We-Are-Inside-LulzSec-Insurgency/dp/0316213527
-29. Tubes: A Journey to the Center of the Internet, Andrew Blum https://www.amazon.com/Tubes-Journey-Internet-Andrew-Blum/dp/0061994952
-30. The Daemon, the Gnu, and the Penguin, Peter H. Salus, Jeremy C. Reed https://www.amazon.com/Daemon-Gnu-Penguin-Peter-Salus/dp/097903423X
-31. From Mainframes to Smartphones: A History of the International Computer Industry, Martin Campbell-Kelly and Daniel D. Garcia-Swartz https://www.amazon.com/Mainframes-Smartphones-International-Computer-Industry/dp/0674729064
-32. A People’s History of Computing in the United States, Joy Lisi Rankin https://www.hup.harvard.edu/catalog.php?isbn=9780674970977
-33. The Computer Book: From the Abacus to Artificial Intelligence, 250 Milestones in the History of Computer Science (Sterling Milestones), Simson L Garfinkel and Rachel H. Grunspan https://www.amazon.com/Computer-Book-Artificial-Intelligence-Milestones/dp/145492621X
-34. The Perfectionists: How Precision Engineers Created the Modern World, Simon Winchester https://www.amazon.com/Perfectionists-Precision-Engineers-Created-Modern/dp/0062652559
-35. Atari Age, Michael Z Newman https://mitpress.mit.edu/books/atari-age
-36. The Difference Engine: Charles Babbage and the Quest to Build the First Computer, Doron Swade https://www.amazon.com/Difference-Engine-Charles-Babbage-Computer/dp/0142001449
-37. A History of the ARPANET: The First Decade, BOLT BERANEK AND NEWMAN https://apps.dtic.mil/sti/citations/ADA115440
-38. Innovation and the Communications Revolution: From the Victorian pioneers to broadband Internet, John Bray https://www.amazon.com/Innovation-Communications-Revolution-Management-Technology/dp/0852962185
-39. Permanent Record, Edward Snowden https://www.amazon.com/Permanent-Record-Edward-Snowden/dp/1250237238
-40. Makers of the Microchip: A Documentary History of Fairchild Semiconductor, Christophe Lécuyer , David C. Brock https://www.amazon.com/Makers-Microchip-Documentary-Fairchild-Semiconductor/dp/0262014246
-41. Troublemakers: Silicon Valley's Coming of Age, Leslie Berlin https://www.amazon.com/Troublemakers-Silicon-Valleys-Coming-Age/dp/1451651503
-42. Billion Dollar Fantasy: The High-Stakes Game Between FanDuel and DraftKings That Upended Sports in America, Albert Chen https://www.amazon.com/Billion-Dollar-Fantasy-High-Stakes-DraftKings/dp/0544911148 
+27. Software: A Technical History, Kim Tracy https://www.amazon.com/Software-Technical-History-Acm-Books/dp/145038725X
+28. The Everything Store: Jeff Bezos and the Age of Amazon, Brad Stone https://www.amazon.com/Everything-Store-Jeff-Bezos-Amazon/dp/0316239909
+29. We Are Anonymous: Inside the Hacker World of LulzSec, Anonymous, and the Global Cyber Insurgency, Parmy Olson https://www.amazon.com/We-Are-Inside-LulzSec-Insurgency/dp/0316213527
+30. Tubes: A Journey to the Center of the Internet, Andrew Blum https://www.amazon.com/Tubes-Journey-Internet-Andrew-Blum/dp/0061994952
+31. The Daemon, the Gnu, and the Penguin, Peter H. Salus, Jeremy C. Reed https://www.amazon.com/Daemon-Gnu-Penguin-Peter-Salus/dp/097903423X
+32. From Mainframes to Smartphones: A History of the International Computer Industry, Martin Campbell-Kelly and Daniel D. Garcia-Swartz https://www.amazon.com/Mainframes-Smartphones-International-Computer-Industry/dp/0674729064
+33. A People’s History of Computing in the United States, Joy Lisi Rankin https://www.hup.harvard.edu/catalog.php?isbn=9780674970977
+34. The Computer Book: From the Abacus to Artificial Intelligence, 250 Milestones in the History of Computer Science (Sterling Milestones), Simson L Garfinkel and Rachel H. Grunspan https://www.amazon.com/Computer-Book-Artificial-Intelligence-Milestones/dp/145492621X
+35. The Perfectionists: How Precision Engineers Created the Modern World, Simon Winchester https://www.amazon.com/Perfectionists-Precision-Engineers-Created-Modern/dp/0062652559
+36. Atari Age, Michael Z Newman https://mitpress.mit.edu/books/atari-age
+37. The Difference Engine: Charles Babbage and the Quest to Build the First Computer, Doron Swade https://www.amazon.com/Difference-Engine-Charles-Babbage-Computer/dp/0142001449
+38. A History of the ARPANET: The First Decade, BOLT BERANEK AND NEWMAN https://apps.dtic.mil/sti/citations/ADA115440
+39. Innovation and the Communications Revolution: From the Victorian pioneers to broadband Internet, John Bray https://www.amazon.com/Innovation-Communications-Revolution-Management-Technology/dp/0852962185
+40. Permanent Record, Edward Snowden https://www.amazon.com/Permanent-Record-Edward-Snowden/dp/1250237238
+41. Makers of the Microchip: A Documentary History of Fairchild Semiconductor, Christophe Lécuyer , David C. Brock https://www.amazon.com/Makers-Microchip-Documentary-Fairchild-Semiconductor/dp/0262014246
+42. Troublemakers: Silicon Valley's Coming of Age, Leslie Berlin https://www.amazon.com/Troublemakers-Silicon-Valleys-Coming-Age/dp/1451651503
+43. Billion Dollar Fantasy: The High-Stakes Game Between FanDuel and DraftKings That Upended Sports in America, Albert Chen https://www.amazon.com/Billion-Dollar-Fantasy-High-Stakes-DraftKings/dp/0544911148 
 44. The Chip: How Two Americans Invented the Microchip and Launched a Revolution, T.R. Reid
 45. Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World, Joseph Mens https://www.amazon.com/Cult-Dead-Cow-Original-Supergroup/dp/1549126202
 46. Insanely Great: The Life and Times of Macintosh, the Computer that Changed Everything, Steven Levy https://www.amazon.com/INSANELY-GREAT-Macintosh-Computer-Everything/dp/0670852449
