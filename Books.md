@@ -251,6 +251,10 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 255. Game Invaders, The Theory and Understanding of Computer Games, Clive Fencott, Mike Lockyer, Jo Clay, and Paul Massey
 256. The First Computers, History and Architectures
 257. Computer, A History of the Information machine, Martin Campbell-Kelly and William Aspray
+258. Marc Andreessen: Web Warrior, Ehrenhaft
+259. Larry Ellison: Sheer Nerve, Ehrenhaft
+260. Home Computers, 100 Icons that defined a digital generation
+261. The Best of Creative Computing, Volumes 1 and 2, Ahl
 
 
 *Note: Thanks to Drew Diver for his additions to the list!!!*
@@ -343,6 +347,14 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 85. Lands of Promise and Despair
 86. Coin Collecting for Dummies
 87. Moving Innovation, Sito
+88. An Illustrated Treasury of Grimm's Fairy Tales, Daniel Drescher
+89. The Legacy of the Dog, Kamazaki Kojima 
+90. Gods and Heroes, Briggs
+91. Communication in History, Crowley Heyer
+92. Clockwork Music
+93. Engineering: The Illustrated History from Ancient Craft to Modern Technology
+94. The History of the Motor Car, Peter Roberts
+95. Timelines of Aviation History
 
 # Technical Books
 
@@ -396,6 +408,7 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 48. PCs for Dummies
 49. Salesforce.com for dummies
 50. The C++ Programming Languages
+51. Coding for Minecrafters
 
 
 # Books Used In Analyzing The Business Of Computing
@@ -483,6 +496,10 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 165. The Knowledge-Value Revolution, Taichi Sakaiya
 166. Lords of Finance, Liaquat Ahamed
 167. Untechnical Writing, Michael Bremer
+168. The Legend of Honeywell, Rodengen
+169. The Legend of AMP, Rodengen
+170. The Legend of Amdahl, Rodengen
+171. 
 
 # 3D Printed Materials
 | Thing | URL |
