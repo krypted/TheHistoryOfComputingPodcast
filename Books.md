@@ -255,7 +255,10 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 259. Larry Ellison: Sheer Nerve, Ehrenhaft
 260. Home Computers, 100 Icons that defined a digital generation
 261. The Best of Creative Computing, Volumes 1 and 2, Ahl
-
+262. Mind Grenades, Plunkett and Rossetto
+263. The Future of Work, Grantham
+264. Great Papers in Computer Science
+265. The Making of the Micro, Christopher Evans
 
 *Note: Thanks to Drew Diver for his additions to the list!!!*
 
@@ -355,6 +358,13 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 93. Engineering: The Illustrated History from Ancient Craft to Modern Technology
 94. The History of the Motor Car, Peter Roberts
 95. Timelines of Aviation History
+96. How Was It Done?
+97. The California Missions
+98. Victorian Inventions
+99. The Book of Great Inventions
+100. Timelines in Sience
+101. The Timechart History of India
+
 
 # Technical Books
 
@@ -409,6 +419,9 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 49. Salesforce.com for dummies
 50. The C++ Programming Languages
 51. Coding for Minecrafters
+52. Assembly Language fot the PDP-11
+53. Java Programming for Dummies
+54. Beginning Hibernate
 
 
 # Books Used In Analyzing The Business Of Computing
@@ -499,7 +512,7 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 168. The Legend of Honeywell, Rodengen
 169. The Legend of AMP, Rodengen
 170. The Legend of Amdahl, Rodengen
-171. 
+171. Corporate Lifecycle, Adizes
 
 # 3D Printed Materials
 | Thing | URL |
