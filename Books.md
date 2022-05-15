@@ -185,7 +185,59 @@
 190. The 100 Greatest Retro Video Games https://www.amazon.com/100-Greatest-Retro-Videogames-Stories/dp/1787393089/ref=sr_1_1?crid=2AHS0R5HRQZ3Z&keywords=the+100+greatest+retro+videogames&qid=1651268818&s=books&sprefix=the+100+greatest+retr%2Cstripbooks%2C87&sr=1-1
 191. Open Sources: Voices from the Open Source Revolution https://www.amazon.com/Open-Sources-Voices-Source-Revolution/dp/1565925823
 Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https://www.amazon.com/Softwar-Intimate-Portrait-Ellison-Oracle/dp/0743225058
-The Difference Between God and Larry Ellison, Mike Wilson https://www.amazon.com/Difference-Between-God-Larry-Ellison/dp/0060008768
+192. The Difference Between God and Larry Ellison, Mike Wilson https://www.amazon.com/Difference-Between-God-Larry-Ellison/dp/0060008768
+193. An Introduction to Microcomputers, Volume 1: Basic Concepts, Adam Osborne
+194. The Age of Machines, Ray Kurzweil
+195. Basic Machines and How They Work, Navedtra
+196. Dawn of the New Everything, Jeron Lanier
+197. The Google Story, David A Vise
+198. The History of Computers, Les Freed
+199. Go To, Steve Lohr
+200. Howard Aiken, Portrait of a Computer Pioneer I. Bernard Cohen
+201. Prefiguring Cyberculture; An Intellectual History, David Tofts, Annemarie Jonson, and Alessio Cavallaro
+202. The Analytical Engine Computers, Past, Present, and Future, Jeremy Bernstein
+203. The Computer and the Brain, John von Neumann
+204. The Computer Prophets, Dr Jerry M Rosenberg
+205. Programmed Inequality, Mar Hicks
+206. Prisoner's Dilemma, William Poundstone
+207. The Difference Engine, Doron Swade
+208. The Man Who Knew Too Much: Alan Turing and the Invention of the Computer, David Leavitt
+209. The Cathedral and the Bazaar, Eric S Raymond
+210. Game On! Dustin Hansen 
+211. HR Pioneers, Jensen, Berq, Dawe, Morris, & Baker
+212. The Computer Pioneers, David Ritchie
+213. Final Jeopardy, The Story of Watson, the computer that will transofrm the world, Stephen Baker
+214. The Universal History of Computing, Georges Ifrah
+215. The Cuckoo's Egg, Cliff Stoll
+216. 8-Bit Apocalypse, Alex Rubens
+217. The Paper Computer Unvolded (CARDIAC, LMC, IPC, Mark Jones Lorenzo
+218. Valley of Genius, Adam Fisher
+219. Rise of the Machines, Thomas Rid
+220. Speeding The Net, Joshua Quittner and Michelle Statalla
+221. Cyberspies, Gordon Corera
+222. The Outsourcer, The Story of India's IT Revolution, Dinesh C Sharma
+223. Supermen, Seymour Cray and the Technical Wizards Behind The Supercomputer, Charles J Murray
+224. The Real Story of Informix Software and Phil White, Steve W Martin
+225. The First Information War, Campen
+226. Spam Nation, Brian Krebs
+227. Programming the Universe, Seth Lloyd
+228. Losing the Signal, The Untold Story Behind the Extraordinary Rise and Spectacular Fall of Blackberry
+229. Dark Territory, The Secret History of Cyber War, Fred Kaplan
+230. The History of the Future, Blake J. Harris
+231. The Story Of Computing, Dermot Turing
+232. The Information: A History, a theory, a flood, James Gleick
+233. Understanding the Digital World, Brian W. Kernighan
+234. Computers: The Life Story of a Technology, Eric G Swedin and David L. Ferro
+235. The Comic Book Story of Video Games, Jonathan Hennessey 
+236. Three Degrees Above Zero, Jeremy Bernstein
+237. History of the Internet, Christos Moschovitis, Hilary Poole, Tami Schuyler, and Theresa Senft
+238. Dungeons & Dreamers, Brad King and John Borland
+239. A Simple Lambda-Calculus Model of Programming Languages, S. Kamal Abbali
+240. Digital State, The Story of Minnesota's Computing Industry, Thomas J. Misa
+241. A New Kind of Science, Stephen Wolfram
+242. The History of the Fortran Programming Language, Mark Jones Lorenzo
+243. 
+
 
 *Note: Thanks to Drew Diver for his additions to the list!!!*
 
@@ -225,6 +277,42 @@ The Difference Between God and Larry Ellison, Mike Wilson https://www.amazon.com
 33. The History of Pi, Petr Beckmann https://www.amazon.com/History-Pi-Petr-Beckmann/dp/0312381859
 34. American Privacy, Frederick S Lane https://www.amazon.com/American-Privacy-400-Year-History-Contested/dp/080700619X
 35. Women in Science: Rachel Ignotofsky https://www.amazon.com/Women-Science-Fearless-Pioneers-Changed/dp/1607749769
+36. The Great Moghuls, Bamber Gascoigne
+37. Witches and Warlocks, Tales of Black Magic, Old & New, Kaye
+38. The Art of War, Sun Tzu
+39. Spoiler Alert, Robb Pearlman
+40. The Greek Philosophers, W.K. C. Guthrie
+41. From Clockwork to Craphshoot, A History of Physics, Roger G. Newton
+42. Sh!t Went Down, James Fell
+43. A Naturalist's Voyage Round The World, Charles Darwin
+44. 507 Mechanical Movements, Henry T. Brown
+45. What Do You Care What Other People Think, Richard P. Feynman
+46. The H.G. Wells Reader, H.G. Wells
+47. Sputnik, The Shock of the Century, Paul Dickson
+48. World History Dates, Jane Chisholm
+49. Neo.Life, Jane Metcalfe and Brian Bergstein
+50. The Bit and the Pendulum, Tom Siegfried
+51. Misreadings, Umberto Eco
+52. Incas, A.B. Daniel
+53. Travels in Hyper Reality, Umberto Eco
+54. The Kabalion & The Emerald Tablet of Hermes, Unknown
+55. The System Of The World, Isaac Newton
+56. The History of NASA, Moser
+57. The Doors of Perception, Aldous Huxley
+58. The Odyssey, Homer
+59. The Clockwork Universe, Edward Dolnick
+60. Holy Fire, Bruce SterlingForgotten Genius of Oliver Heaviside, Basil Mahon
+61. India, A History, John Keay
+62. World History Atlas, DK
+63. The Rise of Modern Philosophy, Anthony Kenny
+64. Dahlonega, A Brief History, Anne Dismukes Amerson
+65. Victorian Fairytales, Michael Patrick Hearn
+66. History of Sanitation, J.J. Cosgrove
+67. Invitation to World Religiions, Brodd, Little, Nystrom, Platzner, Shek, Stiles
+68. A short History of the World, J.M. Roberts
+69. A history of Mechanics, René Dugas
+70. A Short History of Technology, T.K. Derry and Trevor I. Williams
+71. The Telegraph History of the World, Gavin Fuller
 
 # Technical Books
 
@@ -233,6 +321,18 @@ The Difference Between God and Larry Ellison, Mike Wilson https://www.amazon.com
 3. Objective-C Pocket Reference, Andrew M. Duncan https://www.amazon.com/Objective-C-Pocket-Reference-Andrew-Duncan/dp/0596004230
 4. The Art of Assembly Language, Randall Hyde https://www.amazon.com/Art-Assembly-Language-2nd/dp/1593272073
 5. Hacking for Dummies, Kevin Beaver, https://www.amazon.com/Hacking-Dummies-Computer-Tech/dp/1119485479
+6. jQuery in Action, Bear Bibeault and Yehuda Katz
+7. ADA Language and Methodology, Watt, Wichman, and Findlay
+8. Software Tools, Kernighan and Plauger
+9. Go Programming Blueprints, Mat Ryer
+10. Cyber Dictionary, David Morse
+11. The Mini-Computer In The Laboratory With Examples Using the PDP-11, James Cooper
+12. Principles of Compiler Design, Alfred V. Aho, Jeffrey D Ullman
+13. Computational Colour Science Using Matlab, Stephen Westland and Caterina Ripamonti
+14. Operating Systems Design and Implementation, Andrew S. Tanenbaum
+15. Programming ALGOL, D.J. Malcolme-Lawes
+16. An Introduction to ALGOL 68 Through Problems, A Learner and AJ Powell
+17. Neural Network and Fuzzy Logic Applications in C/C++, Stephen Welstead
 
 # Books Used In Analyzing The Business Of Computing
 
@@ -300,6 +400,21 @@ The Difference Between God and Larry Ellison, Mike Wilson https://www.amazon.com
 146. IBM and the Holocaust, Edwin Black https://www.amazon.com/IBM-Holocaust-Strategic-Alliance-Corporation/dp/0914153277
 147. US V. Microsoft, The Inside Story of the Landmark Case, Joel Brinkley and Steve Lohr https://www.amazon.com/U-S-v-Microsoft-Inside-Landmark-ebook/dp/B000QCTOW2
 148. SAP Inside the Secret Software Power, Meissner https://www.amazon.com/SAP-Inside-Secret-Software-Power/dp/0071347852
+149. The code Economy, Philip E Auerswald
+150. The Autobiography of Benjamin Franklin, Benjamin Franklin
+151. Barbarians Led By Bill Gates, Jennifer Edstrom and Marlin Eller
+152. Direct from Dell, Michael Dell
+153. Leaving Reality Behind, eToy vs eToys.com & Other Battles To Control Cyberspace, Adam Wishart, Regula Bochsler
+154. dot.com, John Cassidy
+155. Burn Rate, Michael Wolff
+156. Behemoth, Joshua B Freeman
+157. Valley Boy, Tom Perkins
+158. Creative Capital, Georges Doriot and the Birth of Venture Capital, Spencer E. Ante
+159. Hit Refresh, The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone, Satya Nadella
+160. Hard Drive, Bill Gates and the Making of the Microsoft Empire, James Wallace & Jim Erickson
+161. The Ultimate Entrepreneur, The Story of Ken Olsen and Digital Equipment Corporation, Glenn Rifkin and George Harrar
+162. The Oracle of Oracle, Florence M Stone
+163. The Computer Establishment, Katharine Davis Fishman
 
 # 3D Printed Materials
 | Thing | URL |
