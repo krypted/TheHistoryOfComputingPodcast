@@ -236,7 +236,21 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 240. Digital State, The Story of Minnesota's Computing Industry, Thomas J. Misa
 241. A New Kind of Science, Stephen Wolfram
 242. The History of the Fortran Programming Language, Mark Jones Lorenzo
-243. 
+243. In Our Own Image, George Zarkadakis
+244. The Computer, An Illustrated History from Its Origins to the Present Day, Mark Frauenfelder
+245. Structuring the Past, The Use of Computers In History, Janice L Reiff
+246. Decoding the Heavens, Jo Marchant
+247. Our Changing World, The History of the Computer, Barbara A Somervill
+248. The Plot to Hack America, Malcolm Nance
+249. The Nostalgia Nerd's Retro Tech
+250. Cyberpunk, Outlaws and Hackers on the Computer Frontier, Katie Hafner and John Markoff
+251. The Story of Microsoft, Musolf
+252. Inventing the Future, Albert Cory
+253. Live Wires, A History of Electronic Music, Daniel Warner
+254. Engines of the Mind, A History of the Computer, Joel Shurkin
+255. Game Invaders, The Theory and Understanding of Computer Games, Clive Fencott, Mike Lockyer, Jo Clay, and Paul Massey
+256. The First Computers, History and Architectures
+257. Computer, A History of the Information machine, Martin Campbell-Kelly and William Aspray
 
 
 *Note: Thanks to Drew Diver for his additions to the list!!!*
@@ -313,6 +327,22 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 69. A history of Mechanics, René Dugas
 70. A Short History of Technology, T.K. Derry and Trevor I. Williams
 71. The Telegraph History of the World, Gavin Fuller
+72. What the Bible Teaches, Torrey
+73. On the Origin of Species By Means of Natural Selection, Charls Darwin
+74. Codebreaker, Stephn Pincock
+75. Wheels, Clocks, and Rockets, Donald Cardwell
+76. Time's Pendulum, Jo Ellen Barnett
+77. The Evolution of Technology, George Basalla
+78. Mission Santa Ines, Engelhardt
+79. The Missions: California's Heritage Mission San José, Mary Null Boule
+80. California's El Camino Real, Max Kurillo and Erline Tuttle
+81. 1800 Mechanical Movements, Devices, and Appliances, Gardner D Hiscox
+82. Technology A World History, Daniel R Headrick
+83. The House of Wisdom, Jonathan Lyons
+84. Adventures of Huckleberry Finn and Zombie Jim, Mark Twain and W. Bill Czolgosz (and all the real Mark Twain in general, especially A Connecticut Yankee in King Arthur's Court)
+85. Lands of Promise and Despair
+86. Coin Collecting for Dummies
+87. Moving Innovation, Sito
 
 # Technical Books
 
@@ -333,6 +363,40 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 15. Programming ALGOL, D.J. Malcolme-Lawes
 16. An Introduction to ALGOL 68 Through Problems, A Learner and AJ Powell
 17. Neural Network and Fuzzy Logic Applications in C/C++, Stephen Welstead
+18. The Internet for Teachers, Bard Williams
+19. Understanding Operating Systems, Ann McIver McHoes, Ida M Flynn
+20. Inside Visual C++, David Kruglinski
+21. Modern Operating Systems, Tanenbaum
+22. Windows Phone 7 Game Programming, Jonathan Harbour
+23. C# and the .NET Platform
+24. Programming Logic and Design
+25. Understanding Computation
+26. A+ Certification All-In-One Exam Guide
+27. XML Applications
+28. Testing Applications on the Web
+29. Game Programming All in One
+30. Sams Teach Yourself Game Programming
+31. The Design and Analysis of Computer Algorithms
+32. Unix System V
+33. Programming C# 2005: The Language
+34. C++/CLI The Visual C++ Language for .NET
+35. Practical Linux Security
+36. Linux in a Nutshell
+37. R in a Nutshell
+38. Python in a Nutshell
+39. Java in a Nutshell
+40. Ruby in a Nutshell
+41. Android Game Programming for Dummies
+42. Macs for Dummies
+43. Wordpress for Dummies
+44. Windows XP for Dummies
+45. Windows 95 for Dummies
+46. Windows 98 for Dummies
+47. Windows 2000 for Dummies
+48. PCs for Dummies
+49. Salesforce.com for dummies
+50. The C++ Programming Languages
+
 
 # Books Used In Analyzing The Business Of Computing
 
@@ -415,6 +479,10 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 161. The Ultimate Entrepreneur, The Story of Ken Olsen and Digital Equipment Corporation, Glenn Rifkin and George Harrar
 162. The Oracle of Oracle, Florence M Stone
 163. The Computer Establishment, Katharine Davis Fishman
+164. Cisco Unauthorized, Jeffrey S Young
+165. The Knowledge-Value Revolution, Taichi Sakaiya
+166. Lords of Finance, Liaquat Ahamed
+167. Untechnical Writing, Michael Bremer
 
 # 3D Printed Materials
 | Thing | URL |
