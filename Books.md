@@ -298,17 +298,17 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 33. The History of Pi, Petr Beckmann https://www.amazon.com/History-Pi-Petr-Beckmann/dp/0312381859
 34. American Privacy, Frederick S Lane https://www.amazon.com/American-Privacy-400-Year-History-Contested/dp/080700619X
 35. Women in Science: Rachel Ignotofsky https://www.amazon.com/Women-Science-Fearless-Pioneers-Changed/dp/1607749769
-36. The Great Moghuls, Bamber Gascoigne
-37. Witches and Warlocks, Tales of Black Magic, Old & New, Kaye
-38. The Art of War, Sun Tzu
-39. Spoiler Alert, Robb Pearlman
-40. The Greek Philosophers, W.K. C. Guthrie
-41. From Clockwork to Craphshoot, A History of Physics, Roger G. Newton
-42. Sh!t Went Down, James Fell
-43. A Naturalist's Voyage Round The World, Charles Darwin
-44. 507 Mechanical Movements, Henry T. Brown
-45. What Do You Care What Other People Think, Richard P. Feynman
-46. The H.G. Wells Reader, H.G. Wells
+36. The Great Moghuls, Bamber Gascoigne https://www.amazon.com/Brief-History-Great-Moghuls/dp/1841195332
+37. Witches and Warlocks, Tales of Black Magic, Old & New, Kaye https://www.amazon.com/Witches-Warlocks-Tales-Black-Magic/dp/1566192536
+38. The Art of War, Sun Tzu https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772
+39. Spoiler Alert, Robb Pearlman https://www.amazon.com/Spoiler-Alert-Willis-Endings-Movies/dp/0762773847
+40. The Greek Philosophers, W.K. C. Guthrie https://www.amazon.com/Greek-Philosophers-Thales-Aristotle/dp/0061310085
+41. From Clockwork to Craphshoot, A History of Physics, Roger G. Newton https://www.amazon.com/Clockwork-Crapshoot-History-Physics/dp/0674034872
+42. Sh!t Went Down, James Fell https://www.amazon.com/This-Day-History-Went-Down/dp/177757420X
+43. A Naturalist's Voyage Round The World, Charles Darwin https://www.amazon.com/Naturalists-Voyage-Round-World-Beagle/dp/1626365601
+44. 507 Mechanical Movements, Henry T. Brown https://www.amazon.com/507-Mechanical-Movements-Henry-Brown/dp/1614275181
+45. What Do You Care What Other People Think, Richard P. Feynman https://www.amazon.com/What-Care-Other-People-Think/dp/0393320928
+46. The H.G. Wells Reader, H.G. Wells https://www.amazon.com/H-G-Wells-Reader-Complete-Anthology/dp/0878333061
 47. Sputnik, The Shock of the Century, Paul Dickson
 48. World History Dates, Jane Chisholm
 49. Neo.Life, Jane Metcalfe and Brian Bergstein
