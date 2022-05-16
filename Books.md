@@ -186,17 +186,17 @@
 191. Open Sources: Voices from the Open Source Revolution https://www.amazon.com/Open-Sources-Voices-Source-Revolution/dp/1565925823
 Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https://www.amazon.com/Softwar-Intimate-Portrait-Ellison-Oracle/dp/0743225058
 192. The Difference Between God and Larry Ellison, Mike Wilson https://www.amazon.com/Difference-Between-God-Larry-Ellison/dp/0060008768
-193. An Introduction to Microcomputers, Volume 1: Basic Concepts, Adam Osborne
-194. The Age of Machines, Ray Kurzweil
-195. Basic Machines and How They Work, Navedtra
-196. Dawn of the New Everything, Jeron Lanier
-197. The Google Story, David A Vise
-198. The History of Computers, Les Freed
-199. Go To, Steve Lohr
-200. Howard Aiken, Portrait of a Computer Pioneer I. Bernard Cohen
-201. Prefiguring Cyberculture; An Intellectual History, David Tofts, Annemarie Jonson, and Alessio Cavallaro
-202. The Analytical Engine Computers, Past, Present, and Future, Jeremy Bernstein
-203. The Computer and the Brain, John von Neumann
+193. An Introduction to Microcomputers, Volume 1: Basic Concepts, Adam Osborne https://www.amazon.com/Introduction-Microcomputers-Vol-Basic-Concepts/dp/0931988349
+194. The Age of Machines, Ray Kurzweil https://www.amazon.com/Age-Spiritual-Machines-Computers-Intelligence/dp/0140282025
+195. Basic Machines and How They Work, Navedtra https://www.amazon.com/Basic-Machines-How-They-Work/dp/0486217094
+196. Dawn of the New Everything, Jeron Lanier https://www.amazon.com/Dawn-New-Everything-Encounters-Reality/dp/1627794093
+197. The Google Story, David A Vise https://www.amazon.com/Google-Story-David-Vise/dp/B0028N72A8
+198. The History of Computers, Les Freed https://www.amazon.com/History-Computers-Freed/dp/1562762753
+199. Go To, Steve Lohr https://www.amazon.com/Engineers-Scientists-Iconoclasts-Programmers-Revolution/dp/0465042260
+200. Howard Aiken, Portrait of a Computer Pioneer I. Bernard Cohen https://www.amazon.com/Howard-Aiken-Portrait-Computer-Computing/dp/0262032627
+201. Prefiguring Cyberculture; An Intellectual History, David Tofts, Annemarie Jonson, and Alessio Cavallaro https://mitpress.mit.edu/books/prefiguring-cyberculture
+202. The Analytical Engine Computers, Past, Present, and Future, Jeremy Bernstein https://www.amazon.com/Analytical-Engine-Computers-Present-Future/dp/0394415051
+203. The Computer and the Brain, John von Neumann https://www.amazon.com/Computer-Brain-Silliman-Memorial-Lectures/dp/0300181116
 204. The Computer Prophets, Dr Jerry M Rosenberg
 205. Programmed Inequality, Mar Hicks
 206. Prisoner's Dilemma, William Poundstone
