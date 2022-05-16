@@ -207,26 +207,24 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 211. HR Pioneers, Jensen, Berq, Dawe, Morris, & Baker https://www.amazon.com/HR-Pioneers-Resource-Innovations-Corporation/dp/0878396535
 212. The Computer Pioneers, David Ritchie https://www.amazon.com/Computer-Pioneers-Making-Modern/dp/067152397X
 213. Final Jeopardy, The Story of Watson, the computer that will transofrm the world, Stephen Baker https://www.amazon.com/Final-Jeopardy-Stephen-Baker/dp/0547747195
-214. The Universal History of Computing, Georges Ifrah
-215. The Cuckoo's Egg, Cliff Stoll
-216. 8-Bit Apocalypse, Alex Rubens
-217. The Paper Computer Unvolded (CARDIAC, LMC, IPC, Mark Jones Lorenzo
-218. Valley of Genius, Adam Fisher
-219. Rise of the Machines, Thomas Rid
-220. Speeding The Net, Joshua Quittner and Michelle Statalla
-221. Cyberspies, Gordon Corera
-222. The Outsourcer, The Story of India's IT Revolution, Dinesh C Sharma
-223. Supermen, Seymour Cray and the Technical Wizards Behind The Supercomputer, Charles J Murray
-224. The Real Story of Informix Software and Phil White, Steve W Martin
-225. The First Information War, Campen
-226. Spam Nation, Brian Krebs
-227. Programming the Universe, Seth Lloyd
-228. Losing the Signal, The Untold Story Behind the Extraordinary Rise and Spectacular Fall of Blackberry
-229. Dark Territory, The Secret History of Cyber War, Fred Kaplan
-230. The History of the Future, Blake J. Harris
-231. The Story Of Computing, Dermot Turing
-232. The Information: A History, a theory, a flood, James Gleick
-233. Understanding the Digital World, Brian W. Kernighan
+214. The Universal History of Computing, Georges Ifrah https://www.amazon.com/Universal-History-Computing-Quantum-Computer/dp/0471441473
+215. The Cuckoo's Egg, Cliff Stoll https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787
+217. The Paper Computer Unvolded (CARDIAC, LMC, IPC, Mark Jones Lorenzo https://www.amazon.com/Paper-Computer-Unfolded-Twenty-First-Illustrative/dp/1537421131
+218. Valley of Genius, Adam Fisher https://www.amazon.com/Valley-Genius-Uncensored-History-Founders/dp/1455559024
+220. Speeding The Net, Joshua Quittner and Michelle Statalla https://www.amazon.com/Speeding-Net-Joshua-Quittner/dp/0752810502
+221. Cyberspies, Gordon Corera https://www.amazon.com/Cyberspies-History-Surveillance-Hacking-Espionage/dp/1681774593
+222. The Outsourcer, The Story of India's IT Revolution, Dinesh C Sharma https://www.amazon.com/Outsourcer-Indias-Revolution-History-Computing/dp/0262028751
+223. Supermen, Seymour Cray and the Technical Wizards Behind The Supercomputer, Charles J Murray https://www.amazon.com/Supermen-Seymour-Technical-Wizards-Supercomputer/dp/0471048852
+224. The Real Story of Informix Software and Phil White, Steve W Martin https://www.amazon.com/Real-Story-Informix-Software-White/dp/0972182225
+225. The First Information War, Campen https://www.amazon.com/First-Information-War-Communications-Intelligence/dp/0916159248
+226. Spam Nation, Brian Krebs https://www.amazon.com/Spam-Nation-Organized-Cybercrime_from-Epidemic/dp/1501210424
+227. Programming the Universe, Seth Lloyd https://www.amazon.com/Programming-Universe-Quantum-Computer-Scientist/dp/1400033861
+228. Losing the Signal, The Untold Story Behind the Extraordinary Rise and Spectacular Fall of Blackberry https://www.amazon.com/Losing-Signal-Extraordinary-Spectacular-BlackBerry/dp/1250096065
+229. Dark Territory, The Secret History of Cyber War, Fred Kaplan https://www.amazon.com/Dark-Territory-Secret-History-Cyber/dp/1476763267
+230. The History of the Future, Blake J. Harris https://www.amazon.com/History-Future-Facebook-Revolution-Virtual/dp/0062455966
+231. The Story Of Computing, Dermot Turing https://www.amazon.com/Story-Computing-John-Dermot-Turing-ebook/dp/B07CYZ2L7Q
+232. The Information: A History, a theory, a flood, James Gleick https://www.amazon.com/Information-History-Theory-Flood/dp/1400096235
+233. Understanding the Digital World, Brian W. Kernighan https://www.amazon.com/Understanding-Digital-World-Computers-Internet/dp/069117654X
 234. Computers: The Life Story of a Technology, Eric G Swedin and David L. Ferro
 235. The Comic Book Story of Video Games, Jonathan Hennessey 
 236. Three Degrees Above Zero, Jeremy Bernstein
