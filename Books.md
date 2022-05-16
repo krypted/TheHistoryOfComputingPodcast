@@ -490,29 +490,29 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 146. IBM and the Holocaust, Edwin Black https://www.amazon.com/IBM-Holocaust-Strategic-Alliance-Corporation/dp/0914153277
 147. US V. Microsoft, The Inside Story of the Landmark Case, Joel Brinkley and Steve Lohr https://www.amazon.com/U-S-v-Microsoft-Inside-Landmark-ebook/dp/B000QCTOW2
 148. SAP Inside the Secret Software Power, Meissner https://www.amazon.com/SAP-Inside-Secret-Software-Power/dp/0071347852
-149. The code Economy, Philip E Auerswald
-150. The Autobiography of Benjamin Franklin, Benjamin Franklin
-151. Barbarians Led By Bill Gates, Jennifer Edstrom and Marlin Eller
-152. Direct from Dell, Michael Dell
-153. Leaving Reality Behind, eToy vs eToys.com & Other Battles To Control Cyberspace, Adam Wishart, Regula Bochsler
-154. dot.com, John Cassidy
-155. Burn Rate, Michael Wolff
-156. Behemoth, Joshua B Freeman
-157. Valley Boy, Tom Perkins
-158. Creative Capital, Georges Doriot and the Birth of Venture Capital, Spencer E. Ante
-159. Hit Refresh, The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone, Satya Nadella
-160. Hard Drive, Bill Gates and the Making of the Microsoft Empire, James Wallace & Jim Erickson
-161. The Ultimate Entrepreneur, The Story of Ken Olsen and Digital Equipment Corporation, Glenn Rifkin and George Harrar
-162. The Oracle of Oracle, Florence M Stone
-163. The Computer Establishment, Katharine Davis Fishman
-164. Cisco Unauthorized, Jeffrey S Young
-165. The Knowledge-Value Revolution, Taichi Sakaiya
-166. Lords of Finance, Liaquat Ahamed
-167. Untechnical Writing, Michael Bremer
-168. The Legend of Honeywell, Rodengen
-169. The Legend of AMP, Rodengen
-170. The Legend of Amdahl, Rodengen
-171. Corporate Lifecycle, Adizes
+149. The code Economy, Philip E Auerswald https://www.amazon.com/Code-Economy-Forty-Thousand-Year-History/dp/0190226765
+150. The Autobiography of Benjamin Franklin, Benjamin Franklin https://www.amazon.com/Autobiography-Benjamin-Franklin/dp/1508475091
+151. Barbarians Led By Bill Gates, Jennifer Edstrom and Marlin Eller https://www.amazon.com/Barbarians-Bill-Gates-Jennifer-Edstrom/dp/0805057544
+152. Direct from Dell, Michael Dell https://www.amazon.com/Direct-Dell-Strategies-Revolutionized-Essentials/dp/0060845724
+153. Leaving Reality Behind, eToy vs eToys.com & Other Battles To Control Cyberspace, Adam Wishart, Regula Bochsler https://www.amazon.com/Leaving-Reality-Behind-eToys-com-cyberspace/dp/0066210763
+154. dot.com, John Cassidy https://www.amazon.com/Dot-Greatest-Story-Ever-Sold/dp/0060008806
+155. Burn Rate, Michael Wolff https://www.amazon.com/Burn-Rate-Survived-Years-Internet/dp/0684856212
+156. Behemoth, Joshua B Freeman https://www.amazon.com/Behemoth-History-Factory-Making-Modern/dp/0393246310
+157. Valley Boy, Tom Perkins https://www.amazon.com/Valley-Boy-Education-Tom-Perkins/dp/1592404030
+158. Creative Capital, Georges Doriot and the Birth of Venture Capital, Spencer E. Ante https://www.amazon.com/Creative-Capital-Georges-Doriot-Venture/dp/1422101223
+159. Hit Refresh, The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone, Satya Nadella https://www.amazon.com/Hit-Refresh-Rediscover-Microsofts-Everyone-ebook/dp/B01HOT5SQA
+160. Hard Drive, Bill Gates and the Making of the Microsoft Empire, James Wallace & Jim Erickson https://www.amazon.com/Hard-Drive-Making-Microsoft-Empire/dp/0887306292
+161. The Ultimate Entrepreneur, The Story of Ken Olsen and Digital Equipment Corporation, Glenn Rifkin and George Harrar https://www.amazon.com/Ultimate-Entrepreneur-Digital-Equipment-Corporation/dp/0809245590
+162. The Oracle of Oracle, Florence M Stone https://www.amazon.com/Oracle-Volatile-Strategies-Companys-Phenomenal/dp/0814406394
+163. The Computer Establishment, Katharine Davis Fishman https://www.amazon.com/Computer-Establishment-Katharine-Davis-Fishman/dp/0060112832
+164. Cisco Unauthorized, Jeffrey S Young https://www.amazon.com/Cisco-UnAuthorized-Jeffrey-S-Young/dp/0761527753
+165. The Knowledge-Value Revolution, Taichi Sakaiya https://www.amazon.com/Knowledge-Value-Revolution-History-Future/dp/0870119427
+166. Lords of Finance, Liaquat Ahamed https://www.amazon.com/Lords-Finance-Bankers-Broke-World/dp/0143116800
+167. Untechnical Writing, Michael Bremer https://www.amazon.com/Untechnical-Writing-Technical-Subjects-Understand/dp/0966994906
+168. The Legend of Honeywell, Rodengen https://www.amazon.com/Legend-Honeywell-Jeffrey-L-Rodengen/dp/0945903251
+169. The Legend of AMP, Rodengen https://www.amazon.com/Legend-Amp-Jeffrey-L-Rodengen/dp/0945903332
+170. The Legend of Amdahl, Rodengen https://www.amazon.com/Legend-Amdahl-Jeffrey-L-Rodengen/dp/0945903197
+171. Corporate Lifecycle, Adizes https://site.adizes.com/lifecycle/
 
 # 3D Printed Materials
 | Thing | URL |
