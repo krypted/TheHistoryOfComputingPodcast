@@ -197,16 +197,16 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 201. Prefiguring Cyberculture; An Intellectual History, David Tofts, Annemarie Jonson, and Alessio Cavallaro https://mitpress.mit.edu/books/prefiguring-cyberculture
 202. The Analytical Engine Computers, Past, Present, and Future, Jeremy Bernstein https://www.amazon.com/Analytical-Engine-Computers-Present-Future/dp/0394415051
 203. The Computer and the Brain, John von Neumann https://www.amazon.com/Computer-Brain-Silliman-Memorial-Lectures/dp/0300181116
-204. The Computer Prophets, Dr Jerry M Rosenberg
-205. Programmed Inequality, Mar Hicks
-206. Prisoner's Dilemma, William Poundstone
-207. The Difference Engine, Doron Swade
-208. The Man Who Knew Too Much: Alan Turing and the Invention of the Computer, David Leavitt
-209. The Cathedral and the Bazaar, Eric S Raymond
-210. Game On! Dustin Hansen 
-211. HR Pioneers, Jensen, Berq, Dawe, Morris, & Baker
-212. The Computer Pioneers, David Ritchie
-213. Final Jeopardy, The Story of Watson, the computer that will transofrm the world, Stephen Baker
+204. The Computer Prophets, Dr Jerry M Rosenberg https://www.amazon.com/Computer-Prophets-Jerry-M-Rosenberg/dp/0026049600
+205. Programmed Inequality, Mar Hicks https://mitpress.mit.edu/books/programmed-inequality
+206. Prisoner's Dilemma, William Poundstone https://www.amazon.com/Prisoners-Dilemma-Neumann-Theory-Puzzle/dp/038541580X
+207. The Difference Engine, Doron Swade https://www.amazon.com/Difference-Engine-Charles-Babbage-Computer/dp/0670910201
+208. The Man Who Knew Too Much: Alan Turing and the Invention of the Computer, David Leavitt https://www.amazon.com/Man-Who-Knew-Too-Much/dp/0393329097
+209. The Cathedral and the Bazaar, Eric S Raymond https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary/dp/0596001088
+210. Game On! Dustin Hansen https://www.amazon.com/Game-Video-History-Pac-Man-Minecraft/dp/1250080959
+211. HR Pioneers, Jensen, Berq, Dawe, Morris, & Baker https://www.amazon.com/HR-Pioneers-Resource-Innovations-Corporation/dp/0878396535
+212. The Computer Pioneers, David Ritchie https://www.amazon.com/Computer-Pioneers-Making-Modern/dp/067152397X
+213. Final Jeopardy, The Story of Watson, the computer that will transofrm the world, Stephen Baker https://www.amazon.com/Final-Jeopardy-Stephen-Baker/dp/0547747195
 214. The Universal History of Computing, Georges Ifrah
 215. The Cuckoo's Egg, Cliff Stoll
 216. 8-Bit Apocalypse, Alex Rubens
