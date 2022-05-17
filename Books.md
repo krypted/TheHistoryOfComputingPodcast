@@ -525,14 +525,20 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 # 3D Printed Materials
 | Thing | URL |
 | --- | --- |
-| Zuse Z1 and Z2 Logic Gates | https://www.thingiverse.com/thing:3465567|
-| Einstein Bust | https://www.thingiverse.com/thing:966908|
-| Edison Bust|  https://www.thingiverse.com/thing:143111|
-| Babbage Difference Engine | https://www.thingiverse.com/thing:145050|
-| Pascaline | https://www.thingiverse.com/thing:4395600|
-| Graham Escapement | https://www.thingiverse.com/thing:1128317|
+| Zuse Z1 and Z2 Logic Gates | https://www.thingiverse.com/thing:3465567 |
+| Einstein Bust | https://www.thingiverse.com/thing:966908 |
+| Asimov Bust | https://www.thingiverse.com/thing:1397017 |
+| Edison Bust|  https://www.thingiverse.com/thing:143111 |
+| Blaise Pascal Statue | https://www.myminifactory.com/object/3d-print-blaise-pascal-156957 |
+| Plato | https://www.myminifactory.com/object/3d-print-dionysus-plato-26338 |
+| Aristotle Bust | https://www.myminifactory.com/object/3d-print-bust-of-aristotle-33440 |
+| Alexander the Great | https://www.myminifactory.com/object/3d-print-alexander-the-great-erbach-type-88850 |
+| Babbage Difference Engine | https://www.thingiverse.com/thing:145050 |
+| Pascaline | https://www.thingiverse.com/thing:4395600 |
+| Graham Escapement | https://www.thingiverse.com/thing:1128317 |
 | Cray-1 | https://www.thingiverse.com/thing:26671 |
 | Tesla Bust | https://www.thingiverse.com/thing:2888818 |
+| Wardenclyffe | https://www.myminifactory.com/object/3d-print-tesla-tower-nikola-tesla-anniversary-11000 |
 
 # Podcasts
 | Title | URL |
