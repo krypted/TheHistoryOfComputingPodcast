@@ -1,5 +1,14 @@
 # Books used in researching and documenting The History of Computing
 
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
+
+# Books used in researching and documenting the history of computers
+
 1. In the Beginning was the Command Line, Neal Stephenson https://www.amazon.com/Beginning-was-Command-Line/dp/0380815931
 2. UNIX: A History and a Memoir, Brian Kernighan https://www.amazon.com/UNIX-History-Memoir-Brian-Kernighan/dp/1695978552
 3. Steve Jobs, Walter Isaacson https://www.amazon.com/Steve-Jobs-Walter-Isaacson-audiobook/dp/B07ZMKXMTG
