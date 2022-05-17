@@ -542,7 +542,7 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 | Pascaline | https://www.thingiverse.com/thing:4395600 |
 | Graham Escapement | https://www.thingiverse.com/thing:1128317 |
 | Cray-1 | https://www.thingiverse.com/thing:26671 |
-| Link (The Legend of Zelda| | https://www.thingiverse.com/thing:262219 |
+| Link (The Legend of Zelda) | https://www.thingiverse.com/thing:262219 |
 | Link 8-bit | https://www.thingiverse.com/thing:1552188 |
 | Mario | https://www.thingiverse.com/thing:1991111 |
 | Tesla Bust | https://www.thingiverse.com/thing:2888818 |
