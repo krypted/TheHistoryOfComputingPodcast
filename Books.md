@@ -529,7 +529,12 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 | Einstein Bust | https://www.thingiverse.com/thing:966908 |
 | Asimov Bust | https://www.thingiverse.com/thing:1397017 |
 | Edison Bust|  https://www.thingiverse.com/thing:143111 |
+| Tutankhamun Bust | https://www.thingiverse.com/thing:2987361 |
+| Sputnik | https://www.thingiverse.com/thing:2778049 |
+| Stalin Bust | https://www.thingiverse.com/thing:516756 |
+| lenin Bust | https://www.thingiverse.com/thing:286624 |
 | Blaise Pascal Statue | https://www.myminifactory.com/object/3d-print-blaise-pascal-156957 |
+| Socrates | https://www.thingiverse.com/thing:2606553 |
 | Plato | https://www.myminifactory.com/object/3d-print-dionysus-plato-26338 |
 | Aristotle Bust | https://www.myminifactory.com/object/3d-print-bust-of-aristotle-33440 |
 | Alexander the Great | https://www.myminifactory.com/object/3d-print-alexander-the-great-erbach-type-88850 |
@@ -537,8 +542,16 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 | Pascaline | https://www.thingiverse.com/thing:4395600 |
 | Graham Escapement | https://www.thingiverse.com/thing:1128317 |
 | Cray-1 | https://www.thingiverse.com/thing:26671 |
+| Link (The Legend of Zelda| | https://www.thingiverse.com/thing:262219 |
+| Link 8-bit | https://www.thingiverse.com/thing:1552188 |
+| Mario | https://www.thingiverse.com/thing:1991111 |
 | Tesla Bust | https://www.thingiverse.com/thing:2888818 |
 | Wardenclyffe | https://www.myminifactory.com/object/3d-print-tesla-tower-nikola-tesla-anniversary-11000 |
+| Leonardo da Vinci | https://www.thingiverse.com/thing:2506760 |
+| Benjamin Franklin | https://www.thingiverse.com/thing:131296 |
+| Napolean | https://www.thingiverse.com/thing:2935884 |
+| Napier's Bones | https://www.thingiverse.com/thing:577834 |
+| Antikythera Mechanism | https://www.thingiverse.com/thing:32413 |
 
 # Podcasts
 | Title | URL |
