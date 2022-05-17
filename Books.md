@@ -6,8 +6,9 @@
 - [Books used to analyzing the business of computing](#books-used-in-analyzing-the-business-of-computing)
 - [3D printed materials used in the history of computing book](#3d-printed-materials)
 - [Podcasts referenced](#podcasts)
-- [Citations](#citations) (image attribution forthcoming)
+- [Citations](#citations) 
 - [Special Thanks](#special-thanks)
+- Image Attributions (forthcoming)
 
 # Books used in researching and documenting the history of computers
 
