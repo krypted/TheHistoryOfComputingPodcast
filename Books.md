@@ -552,6 +552,7 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 | Napolean | https://www.thingiverse.com/thing:2935884 |
 | Napier's Bones | https://www.thingiverse.com/thing:577834 |
 | Antikythera Mechanism | https://www.thingiverse.com/thing:32413 |
+| Miniature Commodore 64 | https://www.thingiverse.com/thing:1954782 |
 
 # Podcasts
 | Title | URL |
