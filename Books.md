@@ -66,29 +66,30 @@
 64. The Cryotron Files: The Untold Story of Dudley Buck, Cold War Computer Scientist and Microchip Pioneer, Iain Dey, Douglas Buck, Alan Dewey https://www.amazon.com/Cryotron-Files-Computer-Scientist-Microchip/dp/1468315773
 65. Technology of the Gods: The Incredible Sciences of the Ancients, David Hatcher Childress https://www.amazon.com/Technology-Gods-Incredible-Sciences-Ancients/dp/0932813739
 66. Replay: The History of Video Games, Tristan Donovan, Richard Garriott https://www.amazon.com/Replay-History-Video-Tristan-Donovan/dp/0956507204
-67. A History of Algorithms: From The Pebble To The Microchip, Jean-Luc Chabert and J.-C. Martzloff  https://www.amazon.com/History-Algorithms-Pebble-Microchip/dp/3540633693
-68. Computing: A Concise History: The MIT Press Essential Knowledge Series, Paul E. Ceruzzi https://www.amazon.com/Computing-Concise-History-Essential-Knowledge/dp/0262517671
-69. Hackers: Heroes of the Computer Revolution: 25th Anniversary Edition, Steven Levy https://www.amazon.com/gp/product/B003PDMKIY
-70. The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution, Walter Isaacson https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703
-71. A History of Modern Computing (History of Computing), Paul Ceruzzi and William Aspray https://www.amazon.com/History-Modern-Computing/dp/0262532034
-72. Dreaming in Code, Scott Rosenberg https://www.amazon.com/Dreaming-Code-Programmers-Transcendent-Software/dp/1400082471
-73. Super Pumped: The Battle for Uber, Mike Isaac https://www.amazon.com/Super-Pumped-Battle-Mike-Isaac/dp/0393652246
-74. The Mysterious Affair at Olivetti, Meryle Secrest https://www.amazon.com/Mysterious-Affair-Olivetti-Conspiracy-Production/dp/0451493656
-75. Masters of Doom, David Kushner https://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155
-76. The Players Ball, David Kushner https://www.amazon.com/Players-Ball-Genius-History-Internets/dp/1501122142
-77. Jacked The Outlaw Story of Grand Theft Auto, David Kushner https://www.amazon.com/gp/product/B00DNL4388/ref=dbs_a_def_rwt_bibl_vppi_i1
-78. Kingpin, Kevin Poulsen https://www.amazon.com/Kingpin-Hacker-Billion-Dollar-Cybercrime-Underground/dp/0307588696
-79. Paper: Paging Through History, Mark Kurlansky https://www.amazon.com/Paper-Through-History-Mark-Kurlansky/dp/0393353702
-80. The Information: A History, a Theory, a Flood, James Gleick https://www.amazon.com/Information-History-Theory-Flood/dp/1400096235
-81. Future Histories, Lizzie O'Shea https://www.amazon.com/Future-Histories-Lovelace-Commune-Technology/dp/1788734300
-82. The Well, Katie Hafner https://www.amazon.com/Well-Story-Seminal-Online-Community/dp/0786708468
-83. Dark Territory: The Secret History of Cyber War, Fred Kaplan https://www.amazon.com/Dark-Territory-Secret-History-Cyber/dp/1476763267
-84. Cyberspies, Gordon Corera https://www.amazon.com/Cyberspies-History-Surveillance-Hacking-Espionage/dp/1681774593
-85. Endless Loop: The History of the BASIC Programming Language, Mark Jones Lorenzo https://www.amazon.com/Endless-Loop-Programming-All-purpose-Instruction/dp/1974277070
-86. The Fall of Telecom: A Wall Street Analyst’s True Story Of The Telecom Industry, Thomas J. Lauria https://www.amazon.com/Fall-Telecom-Street-Analysts-Industry/dp/1435704460
-87. The Idea Factory: Bell Labs and the Great Age of American Innovation, Jon Gertner https://www.amazon.com/Idea-Factory-Great-American-Innovation/dp/0143122797
-88. Pioneer Programmer: Jean Jennings Bartik and the Computer that Changed the World, Jean Jennings Bartik https://www.amazon.com/Pioneer-Programmer-Jennings-Computer-Changed/dp/1612480861
-89. ENIAC: The Triumphs and Tragedies of the World's First Computer, Scott McCartney, Adams Morgan, et al. https://www.amazon.com/Eniac-Triumphs-Tragedies-Worlds-Computer/dp/0802713483
+67. Netscape Time: The Making of the Billion-Dollar Start-Up That Took on Microsoft https://www.amazon.com/Netscape-Time-Billion-Dollar-Start-Up-Microsoft/dp/0312199341
+68. A History of Algorithms: From The Pebble To The Microchip, Jean-Luc Chabert and J.-C. Martzloff  https://www.amazon.com/History-Algorithms-Pebble-Microchip/dp/3540633693
+69. Computing: A Concise History: The MIT Press Essential Knowledge Series, Paul E. Ceruzzi https://www.amazon.com/Computing-Concise-History-Essential-Knowledge/dp/0262517671
+70. Hackers: Heroes of the Computer Revolution: 25th Anniversary Edition, Steven Levy https://www.amazon.com/gp/product/B003PDMKIY
+71. The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution, Walter Isaacson https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703
+72. A History of Modern Computing (History of Computing), Paul Ceruzzi and William Aspray https://www.amazon.com/History-Modern-Computing/dp/0262532034
+73. Dreaming in Code, Scott Rosenberg https://www.amazon.com/Dreaming-Code-Programmers-Transcendent-Software/dp/1400082471
+74. Super Pumped: The Battle for Uber, Mike Isaac https://www.amazon.com/Super-Pumped-Battle-Mike-Isaac/dp/0393652246
+75. The Mysterious Affair at Olivetti, Meryle Secrest https://www.amazon.com/Mysterious-Affair-Olivetti-Conspiracy-Production/dp/0451493656
+76. Masters of Doom, David Kushner https://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155
+77. The Players Ball, David Kushner https://www.amazon.com/Players-Ball-Genius-History-Internets/dp/1501122142
+78. Jacked The Outlaw Story of Grand Theft Auto, David Kushner https://www.amazon.com/gp/product/B00DNL4388/ref=dbs_a_def_rwt_bibl_vppi_i1
+79. Kingpin, Kevin Poulsen https://www.amazon.com/Kingpin-Hacker-Billion-Dollar-Cybercrime-Underground/dp/0307588696
+80. Paper: Paging Through History, Mark Kurlansky https://www.amazon.com/Paper-Through-History-Mark-Kurlansky/dp/0393353702
+81. The Information: A History, a Theory, a Flood, James Gleick https://www.amazon.com/Information-History-Theory-Flood/dp/1400096235
+82. Future Histories, Lizzie O'Shea https://www.amazon.com/Future-Histories-Lovelace-Commune-Technology/dp/1788734300
+83. The Well, Katie Hafner https://www.amazon.com/Well-Story-Seminal-Online-Community/dp/0786708468
+84. Dark Territory: The Secret History of Cyber War, Fred Kaplan https://www.amazon.com/Dark-Territory-Secret-History-Cyber/dp/1476763267
+85. Cyberspies, Gordon Corera https://www.amazon.com/Cyberspies-History-Surveillance-Hacking-Espionage/dp/1681774593
+86. Endless Loop: The History of the BASIC Programming Language, Mark Jones Lorenzo https://www.amazon.com/Endless-Loop-Programming-All-purpose-Instruction/dp/1974277070
+87. The Fall of Telecom: A Wall Street Analyst’s True Story Of The Telecom Industry, Thomas J. Lauria https://www.amazon.com/Fall-Telecom-Street-Analysts-Industry/dp/1435704460
+88. The Idea Factory: Bell Labs and the Great Age of American Innovation, Jon Gertner https://www.amazon.com/Idea-Factory-Great-American-Innovation/dp/0143122797
+89. Pioneer Programmer: Jean Jennings Bartik and the Computer that Changed the World, Jean Jennings Bartik https://www.amazon.com/Pioneer-Programmer-Jennings-Computer-Changed/dp/1612480861
+90. ENIAC: The Triumphs and Tragedies of the World's First Computer, Scott McCartney, Adams Morgan, et al. https://www.amazon.com/Eniac-Triumphs-Tragedies-Worlds-Computer/dp/0802713483
 91. The Decline and Fall of IBM: End of an American Icon?, Robert Cringely https://www.amazon.com/Decline-Fall-IBM-American-Icon/dp/0990444422
 92. Sandworm, Andy Greenberg https://www.amazon.com/Sandworm-Cyberwar-Kremlins-Dangerous-Hackers/dp/0525564632
 93. Who Says Elephants Can't Dance?: Inside IBM's Historic Turnaround, Louis V. Gerstner Jr. https://www.amazon.com/Who-Says-Elephants-Cant-Dance/dp/0060523808
@@ -225,38 +226,38 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 231. The Story Of Computing, Dermot Turing https://www.amazon.com/Story-Computing-John-Dermot-Turing-ebook/dp/B07CYZ2L7Q
 232. The Information: A History, a theory, a flood, James Gleick https://www.amazon.com/Information-History-Theory-Flood/dp/1400096235
 233. Understanding the Digital World, Brian W. Kernighan https://www.amazon.com/Understanding-Digital-World-Computers-Internet/dp/069117654X
-234. Computers: The Life Story of a Technology, Eric G Swedin and David L. Ferro
-235. The Comic Book Story of Video Games, Jonathan Hennessey 
-236. Three Degrees Above Zero, Jeremy Bernstein
-237. History of the Internet, Christos Moschovitis, Hilary Poole, Tami Schuyler, and Theresa Senft
-238. Dungeons & Dreamers, Brad King and John Borland
-239. A Simple Lambda-Calculus Model of Programming Languages, S. Kamal Abbali
-240. Digital State, The Story of Minnesota's Computing Industry, Thomas J. Misa
-241. A New Kind of Science, Stephen Wolfram
-242. The History of the Fortran Programming Language, Mark Jones Lorenzo
-243. In Our Own Image, George Zarkadakis
-244. The Computer, An Illustrated History from Its Origins to the Present Day, Mark Frauenfelder
-245. Structuring the Past, The Use of Computers In History, Janice L Reiff
-246. Decoding the Heavens, Jo Marchant
-247. Our Changing World, The History of the Computer, Barbara A Somervill
-248. The Plot to Hack America, Malcolm Nance
-249. The Nostalgia Nerd's Retro Tech
-250. Cyberpunk, Outlaws and Hackers on the Computer Frontier, Katie Hafner and John Markoff
-251. The Story of Microsoft, Musolf
-252. Inventing the Future, Albert Cory
-253. Live Wires, A History of Electronic Music, Daniel Warner
-254. Engines of the Mind, A History of the Computer, Joel Shurkin
-255. Game Invaders, The Theory and Understanding of Computer Games, Clive Fencott, Mike Lockyer, Jo Clay, and Paul Massey
-256. The First Computers, History and Architectures
-257. Computer, A History of the Information machine, Martin Campbell-Kelly and William Aspray
-258. Marc Andreessen: Web Warrior, Ehrenhaft
-259. Larry Ellison: Sheer Nerve, Ehrenhaft
-260. Home Computers, 100 Icons that defined a digital generation
-261. The Best of Creative Computing, Volumes 1 and 2, Ahl
-262. Mind Grenades, Plunkett and Rossetto
-263. The Future of Work, Grantham
-264. Great Papers in Computer Science
-265. The Making of the Micro, Christopher Evans
+234. Computers: The Life Story of a Technology, Eric G Swedin and David L. Ferro https://www.amazon.com/Computers-Technology-Eric-G-Swedin/dp/0801887747
+235. The Comic Book Story of Video Games, Jonathan Hennessey https://www.amazon.com/Comic-Book-Story-Video-Games/dp/0399578900
+236. Three Degrees Above Zero, Jeremy Bernstein https://www.amazon.com/Three-Degrees-Above-Zero-Information/dp/0451625293
+237. History of the Internet, Christos Moschovitis, Hilary Poole, Tami Schuyler, and Theresa Senft https://www.amazon.com/History-Internet-Chronology-1843-Present/dp/1576071189
+238. Dungeons & Dreamers, Brad King and John Borland https://www.amazon.com/Dungeons-Dreamers-Rise-Computer-Culture/dp/0072228881
+239. A Simple Lambda-Calculus Model of Programming Languages, S. Kamal Abbali https://www.amazon.com/Lambda-Calculus-Programming-Languages-Classic-Reprint/dp/1332196020
+240. Digital State, The Story of Minnesota's Computing Industry, Thomas J. Misa https://www.amazon.com/Digital-State-Minnesotas-Computing-Industry/dp/0816683328
+241. A New Kind of Science, Stephen Wolfram https://www.wolframscience.com/nks/
+242. The History of the Fortran Programming Language, Mark Jones Lorenzo https://www.amazon.com/Abstracting-Away-Machine-Programming-TRANslation/dp/1082395943
+243. In Our Own Image, George Zarkadakis https://www.amazon.com/Our-Own-Image-Artificial-Intelligence/dp/1681773538
+244. The Computer, An Illustrated History from Its Origins to the Present Day, Mark Frauenfelder https://www.amazon.com/Computer-Illustrated-History-Origins-Present/dp/1780976992
+245. Structuring the Past, The Use of Computers In History, Janice L Reiff https://www.amazon.com/Structuring-Past-Use-Computers-History/dp/0872290506
+246. Decoding the Heavens, Jo Marchant https://www.amazon.com/Decoding-Heavens-000-Year-Old-Computer-Century-long/dp/0306818612
+247. Our Changing World, The History of the Computer, Barbara A Somervill https://www.amazon.com/History-Changing-Timeline-Somervill-2006-01-31/dp/B01F7Y89J2
+248. The Plot to Hack America, Malcolm Nance https://www.amazon.com/Plot-Hack-America-Cyberspies-WikiLeaks/dp/1510723323
+249. The Nostalgia Nerd's Retro Tech, Peter Leigh https://www.amazon.com/Nostalgia-Nerds-Retro-Tech-Computer-ebook/dp/B07DTKRVYQ
+250. Cyberpunk, Outlaws and Hackers on the Computer Frontier, Katie Hafner and John Markoff https://www.amazon.com/CYBERPUNK-Outlaws-Hackers-Computer-Frontier/dp/0684818620
+251. The Story of Microsoft, Musolf https://www.amazon.com/Story-Microsoft-Built-Success-Hardcover/dp/1583416072
+252. Inventing the Future, Albert Cory https://www.amazon.com/Inventing-Future-Albert-Cory/dp/1736298615
+253. Live Wires, A History of Electronic Music, Daniel Warner https://www.amazon.com/Live-Wires-History-Electronic-Music/dp/178023824X
+254. Engines of the Mind, A History of the Computer, Joel Shurkin https://www.amazon.com/Engines-Mind-Evolution-Mainframes-Microprocessors/dp/0393314715
+255. Game Invaders, The Theory and Understanding of Computer Games, Clive Fencott, Mike Lockyer, Jo Clay, and Paul Massey https://www.amazon.com/Game-Invaders-Theory-Understanding-Computer/dp/0470597186
+256. The First Computers, History and Architectures https://www.amazon.com/First-Computers-History-Architectures-History-Computing/dp/0262681374
+257. Computer, A History of the Information machine, Martin Campbell-Kelly and William Aspray https://www.amazon.com/Computer-History-Information-Machine-Technology/dp/0813345901
+258. Marc Andreessen: Web Warrior, Ehrenhaft https://www.amazon.com/Marc-Andreesson-Web-Warrior-Techies/dp/0761319646
+259. Larry Ellison: Sheer Nerve, Ehrenhaft https://www.amazon.com/Larry-Ellison-Sheer-Nerve-Techies/dp/076131962X
+260. Home Computers, 100 Icons that defined a digital generation https://www.amazon.com/Home-Computers-Defined-Digital-Generation/dp/0262044013
+261. The Best of Creative Computing, Volumes 1 and 2, Ahl https://www.amazon.com/Best-Creative-Computing-1/dp/0916688011
+262. Mind Grenades, Plunkett and Rossetto https://www.amazon.com/Mind-Grenades-Manifestos-John-Plunkett/dp/1888869003
+263. The Future of Work, Charles Grantham https://www.amazon.com/Future-Work-Promise-Charles-Grantham/dp/B000OFUWO0
+264. Great Papers in Computer Science https://www.amazon.com/Papers-Computer-Science-Phillip-Laplante/dp/0780311124
+265. The Making of the Micro, Christopher Evans https://www.amazon.com/Making-Micro-History-Computer/dp/0442222408
 
 *Note: Thanks to Drew Diver for his additions to the list!!!*
 
@@ -307,62 +308,65 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 44. 507 Mechanical Movements, Henry T. Brown https://www.amazon.com/507-Mechanical-Movements-Henry-Brown/dp/1614275181
 45. What Do You Care What Other People Think, Richard P. Feynman https://www.amazon.com/What-Care-Other-People-Think/dp/0393320928
 46. The H.G. Wells Reader, H.G. Wells https://www.amazon.com/H-G-Wells-Reader-Complete-Anthology/dp/0878333061
-47. Sputnik, The Shock of the Century, Paul Dickson
-48. World History Dates, Jane Chisholm
-49. Neo.Life, Jane Metcalfe and Brian Bergstein
-50. The Bit and the Pendulum, Tom Siegfried
-51. Misreadings, Umberto Eco
-52. Incas, A.B. Daniel
-53. Travels in Hyper Reality, Umberto Eco
-54. The Kabalion & The Emerald Tablet of Hermes, Unknown
-55. The System Of The World, Isaac Newton
-56. The History of NASA, Moser
-57. The Doors of Perception, Aldous Huxley
-58. The Odyssey, Homer
-59. The Clockwork Universe, Edward Dolnick
-60. Holy Fire, Bruce SterlingForgotten Genius of Oliver Heaviside, Basil Mahon
-61. India, A History, John Keay
-62. World History Atlas, DK
-63. The Rise of Modern Philosophy, Anthony Kenny
-64. Dahlonega, A Brief History, Anne Dismukes Amerson
-65. Victorian Fairytales, Michael Patrick Hearn
-66. History of Sanitation, J.J. Cosgrove
-67. Invitation to World Religiions, Brodd, Little, Nystrom, Platzner, Shek, Stiles
-68. A short History of the World, J.M. Roberts
-69. A history of Mechanics, René Dugas
-70. A Short History of Technology, T.K. Derry and Trevor I. Williams
-71. The Telegraph History of the World, Gavin Fuller
-72. What the Bible Teaches, Torrey
-73. On the Origin of Species By Means of Natural Selection, Charls Darwin
-74. Codebreaker, Stephn Pincock
-75. Wheels, Clocks, and Rockets, Donald Cardwell
-76. Time's Pendulum, Jo Ellen Barnett
-77. The Evolution of Technology, George Basalla
-78. Mission Santa Ines, Engelhardt
-79. The Missions: California's Heritage Mission San José, Mary Null Boule
-80. California's El Camino Real, Max Kurillo and Erline Tuttle
-81. 1800 Mechanical Movements, Devices, and Appliances, Gardner D Hiscox
-82. Technology A World History, Daniel R Headrick
-83. The House of Wisdom, Jonathan Lyons
-84. Adventures of Huckleberry Finn and Zombie Jim, Mark Twain and W. Bill Czolgosz (and all the real Mark Twain in general, especially A Connecticut Yankee in King Arthur's Court)
-85. Lands of Promise and Despair
-86. Coin Collecting for Dummies
-87. Moving Innovation, Sito
-88. An Illustrated Treasury of Grimm's Fairy Tales, Daniel Drescher
-89. The Legacy of the Dog, Kamazaki Kojima 
-90. Gods and Heroes, Briggs
-91. Communication in History, Crowley Heyer
-92. Clockwork Music
-93. Engineering: The Illustrated History from Ancient Craft to Modern Technology
-94. The History of the Motor Car, Peter Roberts
-95. Timelines of Aviation History
-96. How Was It Done?
-97. The California Missions
-98. Victorian Inventions
-99. The Book of Great Inventions
-100. Timelines in Sience
-101. The Timechart History of India
-
+47. Sputnik, The Shock of the Century, Paul Dickson https://www.amazon.com/Sputnik-Shock-Century-Paul-Dickson/dp/0802779514
+48. World History Dates, Jane Chisholm https://www.amazon.com/World-History-Dates-Illustrated/dp/0860209547
+49. Neo.Life, Jane Metcalfe and Brian Bergstein https://neo.life/visions/
+50. The Bit and the Pendulum, Tom Siegfried https://www.amazon.com/Bit-Pendulum-Computing-Theory-Information/dp/0471399744
+51. Misreadings, Umberto Eco https://www.amazon.com/Misreadings-Pa-Umberto-Eco/dp/0156607522
+52. Incas, A.B. Daniel https://www.amazon.com/Incas-Book-One-Pumas-Shadow/dp/0743432746
+53. Travels in Hyper Reality, Umberto Eco https://www.amazon.com/Travels-Hyperreality-Harvest-Book-Umberto/dp/0156913216
+54. The Kabalion & The Emerald Tablet of Hermes, Unknown https://www.amazon.com/Emerald-Tablet-Hermes-Kybalion-Philosophy/dp/1438235720
+55. The System Of The World, Isaac Newton https://www.amazon.com/System-World-Isaac-Newton/dp/1512181153
+56. The History of NASA, Moser https://historycollection.jsc.nasa.gov/JSCHistoryPortal/history/oral_histories/MoserTL/MoserTL_4-9-10.htm
+57. The Doors of Perception, Aldous Huxley https://www.amazon.com/Doors-Perception-Heaven-Hell/dp/0061729078
+58. The Odyssey, Homer https://www.amazon.com/Odyssey-Homer/dp/0140268863
+59. The Clockwork Universe, Edward Dolnick https://www.amazon.com/Clockwork-Universe-Newton-Society-Modern/dp/006171951X
+60. Holy Fire, Bruce Sterling https://www.amazon.com/Holy-Fire-Bantam-Spectra-Book/dp/055357549X
+61. Forgotten Genius of Oliver Heaviside, Basil Mahon https://www.amazon.com/Forgotten-Genius-Oliver-Heaviside-Electrical/dp/1633883310
+62. India, A History, John Keay https://www.amazon.com/India-History-Revised-John-Keay/dp/0802145582
+63. World History Atlas, DK https://www.amazon.com/World-History-Atlas-DK-Publishing/dp/0756609674
+64. The Rise of Modern Philosophy, Anthony Kenny https://www.amazon.com/Rise-Modern-Philosophy-History-Western/dp/0198752768
+65. Dahlonega, A Brief History, Anne Dismukes Amerson https://www.amazon.com/Dahlonega-History-Anne-Dismukes-Amerson/dp/1540204103
+66. Victorian Fairytales, Michael Patrick Hearn https://www.amazon.com/Victorian-Fairy-Tales-Michael-Patrick/dp/0862413265
+67. History of Sanitation, J.J. Cosgrove https://www.amazon.com/History-Sanitation-J-J-Cosgrove/dp/1512372889
+68. Invitation to World Religiions, Brodd, Little, Nystrom, Platzner, Shek, Stiles https://www.amazon.com/Invitation-World-Religions-Jeffrey-Brodd/dp/019069081X
+69. A short History of the World, J.M. Roberts https://www.amazon.com/Short-History-World-John-Roberts/dp/019511504X
+70. A history of Mechanics, René Dugas https://www.amazon.com/History-Mechanics-Dover-Books-Physics/dp/0486656322
+71. The Development of Modern Chemistry, Aaron Ihde https://www.amazon.com/Development-Modern-Chemistry-Dover-Books/dp/0486642356/ref=pd_lpo_3?pd_rd_i=0486642356&psc=1
+72. A Short History of Technology, T.K. Derry and Trevor I. Williams https://www.amazon.com/Short-History-Technology-Earliest-D/dp/0486274721
+73. The Telegraph History of the World, Gavin Fuller https://www.amazon.com/Telegraph-History-World-Gavin-Fuller/dp/178131506X
+74. What the Bible Teaches, Torrey https://www.amazon.com/What-Bible-Teaches-R-Torrey/dp/0883684004
+75. The Technological System, Jacques Ellul https://www.amazon.com/Technological-System-Jacques-Ellul/dp/1532615256
+76. On the Origin of Species By Means of Natural Selection, Charls Darwin https://royalsocietypublishing.org/doi/10.1098/rsnr.2018.0015
+77. Codebreaker, Stephn Pincock https://www.amazon.com/Codebreaker-History-Ciphers-Stephen-Pincock/dp/0802715478
+78. Wheels, Clocks, and Rockets, Donald Cardwell https://www.amazon.com/Wheels-Clocks-Rockets-History-Technology/dp/0393321754
+79. Time's Pendulum, Jo Ellen Barnett https://www.amazon.com/Times-Pendulum-Capture-Time-Sundials/dp/0306457873
+80. The Evolution of Technology, George Basalla https://www.amazon.com/Evolution-Technology-Cambridge-Studies-History/dp/0521296811
+81. Mission Santa Ines, Engelhardt https://www.amazon.com/Mission-Virgen-Martir-Ecclesiastical-Seminary/dp/B007BNV5I0
+82. The Missions: California's Heritage Mission San José, Mary Null Boule https://www.amazon.com/Missions-Californias-Heritage-Mission-Jose/dp/1877599131
+83. California's El Camino Real, Max Kurillo and Erline Tuttle https://www.amazon.com/Californias-Historic-Sunbelt-Cultural-Heritage/dp/0932653375
+84. 1800 Mechanical Movements, Devices, and Appliances, Gardner D Hiscox https://www.amazon.com/Mechanical-Movements-Devices-Appliances-Science/dp/0486457435
+85. Technology A World History, Daniel R Headrick https://www.amazon.com/Technology-World-History-New-Oxford/dp/0195338219
+86. Science and Technology in World History: An Introduction, James McClellan, Harold Dorn https://www.amazon.com/Science-Technology-World-History-Introduction/dp/142141774X/ref=pd_lpo_1?pd_rd_i=142141774X&psc=1
+87. The House of Wisdom, Jonathan Lyons https://www.amazon.com/House-Wisdom-Transformed-Western-Civilization/dp/1608190587
+88. Adventures of Huckleberry Finn and Zombie Jim, Mark Twain and W. Bill Czolgosz (and all the real Mark Twain in general, especially A Connecticut Yankee in King Arthur's Court) https://www.amazon.com/Adventures-Huckleberry-Finn-Zombie-Jim/dp/1897217978
+89. Lands of Promise and Despair, Rose Marie Beebe, Robert Senkewicz https://www.amazon.com/Lands-Promise-Despair-Chronicles-California/dp/0806151382
+90. Coin Collecting for Dummies, Neil S. Berman https://www.amazon.com/Coin-Collecting-Dummies-Neil-Berman/dp/0470222751
+91. Moving Innovation, Sito https://mitpress.mit.edu/books/moving-innovation
+92. An Illustrated Treasury of Grimm's Fairy Tales, Daniel Drescher https://www.amazon.com/Illustrated-Treasury-Grimms-Fairy-Tales/dp/0863159478
+93. The Legacy of the Dog, Kamazaki Kojima https://www.amazon.com/Legacy-Dog-Ultimate-Illustrated-Breeds/dp/B0007MTTE4
+94. Gods and Heroes, Briggs https://www.amazon.com/Gods-Heroes-Mythology-Around-World/dp/1523503785
+95. Communication in History, Crowley Heyer https://www.amazon.com/Communication-History-Cases-David-Crowley/dp/0205693091
+96. Clockwork Music https://www.amazon.com/Clockwork-music-illustrated-instruments-orchestrion/dp/0047890045
+97. Engineering: The Illustrated History from Ancient Craft to Modern Technology, Tom Jackson https://www.amazon.com/Engineering-Illustrated-History-Technology-Ponderables/dp/0985323094
+98. The History of the Motor Car, Peter Roberts https://www.amazon.com/History-Motor-Car-Peter-Roberts/dp/0603036090
+99. Timelines of Aviation History https://www.amazon.com/Compact-Timeline-Aviation-History/dp/0785828184
+100. How Was It Done?, Readers Digest https://www.amazon.com/How-Was-Done-Ingenuity-Through/dp/0762100885
+101. The California Missions, Ruben G Mendoza, Melba Levick https://www.amazon.com/California-Missions-Ruben-G-Mendoza/dp/0847861511
+102. Victorian Inventions, Leonard De Vries https://www.amazon.com/Victorian-Inventions-Leonard-Vries/dp/0719550068
+103. The Book of Great Inventions, Chris Oxlade, Steve Parker, https://www.amazon.com/Book-Great-Inventions-Chris-Oxlade/dp/1573351474
+104. Timelines in Sience, DK https://www.amazon.com/Timelines-Science-Ultimate-Visual-Discoveries/dp/1465442472
+105. The Timechart History of India, Aureole https://www.amazon.com/Timechart-History-India-Aureole-Editorial/dp/1861188455
 
 # Technical Books
 
@@ -371,16 +375,16 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 3. Objective-C Pocket Reference, Andrew M. Duncan https://www.amazon.com/Objective-C-Pocket-Reference-Andrew-Duncan/dp/0596004230
 4. The Art of Assembly Language, Randall Hyde https://www.amazon.com/Art-Assembly-Language-2nd/dp/1593272073
 5. Hacking for Dummies, Kevin Beaver, https://www.amazon.com/Hacking-Dummies-Computer-Tech/dp/1119485479
-6. jQuery in Action, Bear Bibeault and Yehuda Katz
-7. ADA Language and Methodology, Watt, Wichman, and Findlay
-8. Software Tools, Kernighan and Plauger
-9. Go Programming Blueprints, Mat Ryer
-10. Cyber Dictionary, David Morse
-11. The Mini-Computer In The Laboratory With Examples Using the PDP-11, James Cooper
-12. Principles of Compiler Design, Alfred V. Aho, Jeffrey D Ullman
-13. Computational Colour Science Using Matlab, Stephen Westland and Caterina Ripamonti
-14. Operating Systems Design and Implementation, Andrew S. Tanenbaum
-15. Programming ALGOL, D.J. Malcolme-Lawes
+6. jQuery in Action, Bear Bibeault and Yehuda Katz https://www.amazon.com/jQuery-Action-Bear-Bibeault/dp/1933988355
+7. ADA Language and Methodology, Watt, Wichman, and Findlay https://www.amazon.com/Ada-Language-Methodology-Prentice-hall-International/dp/0130040789
+8. Software Tools, Kernighan and Plauger https://www.amazon.com/Software-Tools-Brian-W-Kernighan/dp/020103669X
+9. Go Programming Blueprints, Mat Ryer https://www.amazon.com/Programming-Blueprints-real-world-production-ready-cutting-edge-ebook/dp/B01GQCQ8OW
+10. Cyber Dictionary, David Morse https://www.amazon.com/CyberDictionary-Your-Guide-Wired-World/dp/1888232048
+11. The Mini-Computer In The Laboratory With Examples Using the PDP-11, James Cooper https://www.amazon.com/Minicomputer-Laboratory-Examples-Using-PDP-11/dp/047101883X
+12. Principles of Compiler Design, Alfred V. Aho, Jeffrey D Ullman https://www.amazon.com/Principles-Compiler-Design-Ullman-Aho/dp/8185015619
+13. Computational Colour Science Using Matlab, Stephen Westland and Caterina Ripamonti https://www.amazon.com/Computational-Colour-Science-Using-MATLAB/dp/0470665696
+14. Operating Systems Design and Implementation, Andrew S. Tanenbaum  https://www.amazon.com/Operating-Systems-Design-Implementation-3rd/dp/0131429388
+15. Programming ALGOL, D.J. Malcolme-Lawes https://www.amazon.com/Programming-ALGOL-D-J-Malcolme-Lawes/dp/1483122468
 16. An Introduction to ALGOL 68 Through Problems, A Learner and AJ Powell
 17. Neural Network and Fuzzy Logic Applications in C/C++, Stephen Welstead
 18. The Internet for Teachers, Bard Williams
