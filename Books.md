@@ -7,8 +7,9 @@
 - [3D printed materials used in the history of computing book](#3d-printed-materials)
 - [Podcasts referenced](#podcasts)
 - [Citations](#citations) 
-- [Special Thanks](#special-thanks)
 - Image Attributions (forthcoming)
+- Interviews (forthcoming)
+- [Special Thanks](#special-thanks)
 
 # Books used in researching and documenting the history of computers
 
