@@ -1,9 +1,9 @@
 # Assets used in researching and documenting The History of Computing
 
 - [Books used to research and document the history of computers](#books-used-in-researching-and-documenting-the-history-of-computers)
-- [Books used to analyze how the ancient history of technology, science, and philosophy shaped technology and the modern worldview](#books-used-in-analyzing-how-the-ancient-history-of-technology--science--and-philosophy-shaped-the-modern-worldview)
+- [Books used to analyze how the general history of technology, science, and philosophy shaped technology and the modern worldview](#books-used-in-analyzing-how-the-ancient-history-of-technology--science--and-philosophy-shaped-the-modern-worldview)
 - [Technical Books](#technical-books)
-- [Books used to analyzing the business of computing](#books-used-in-analyzing-the-business-of-computing)
+- [Books used to analyze the business of computing](#books-used-in-analyzing-the-business-of-computing)
 - [3D printed materials used in the history of computing book](#3d-printed-materials)
 - [Podcasts referenced](#podcasts)
 - [Citations](#citations) 
