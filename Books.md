@@ -87,30 +87,31 @@
 72. Netscape Time: The Making of the Billion-Dollar Start-Up That Took on Microsoft https://www.amazon.com/Netscape-Time-Billion-Dollar-Start-Up-Microsoft/dp/0312199341
 73. A History of Algorithms: From The Pebble To The Microchip, Jean-Luc Chabert and J.-C. Martzloff  https://www.amazon.com/History-Algorithms-Pebble-Microchip/dp/3540633693
 74. Computing: A Concise History: The MIT Press Essential Knowledge Series, Paul E. Ceruzzi https://www.amazon.com/Computing-Concise-History-Essential-Knowledge/dp/0262517671
-75. Hackers: Heroes of the Computer Revolution: 25th Anniversary Edition, Steven Levy https://www.amazon.com/gp/product/B003PDMKIY
-76. The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution, Walter Isaacson https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703
-77. A History of Modern Computing (History of Computing), Paul Ceruzzi and William Aspray https://www.amazon.com/History-Modern-Computing/dp/0262532034
-78. Dreaming in Code, Scott Rosenberg https://www.amazon.com/Dreaming-Code-Programmers-Transcendent-Software/dp/1400082471
-79. Super Pumped: The Battle for Uber, Mike Isaac https://www.amazon.com/Super-Pumped-Battle-Mike-Isaac/dp/0393652246
-80. The Mysterious Affair at Olivetti, Meryle Secrest https://www.amazon.com/Mysterious-Affair-Olivetti-Conspiracy-Production/dp/0451493656
-81. Masters of Doom, David Kushner https://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155
-82. The Players Ball, David Kushner https://www.amazon.com/Players-Ball-Genius-History-Internets/dp/1501122142
-83. Jacked The Outlaw Story of Grand Theft Auto, David Kushner https://www.amazon.com/gp/product/B00DNL4388/ref=dbs_a_def_rwt_bibl_vppi_i1
-84. Kingpin, Kevin Poulsen https://www.amazon.com/Kingpin-Hacker-Billion-Dollar-Cybercrime-Underground/dp/0307588696
-85. Paper: Paging Through History, Mark Kurlansky https://www.amazon.com/Paper-Through-History-Mark-Kurlansky/dp/0393353702
-86. The Information: A History, a Theory, a Flood, James Gleick https://www.amazon.com/Information-History-Theory-Flood/dp/1400096235
-87. Future Histories, Lizzie O'Shea https://www.amazon.com/Future-Histories-Lovelace-Commune-Technology/dp/1788734300
-88. The Well, Katie Hafner https://www.amazon.com/Well-Story-Seminal-Online-Community/dp/0786708468
-89. Dark Territory: The Secret History of Cyber War, Fred Kaplan https://www.amazon.com/Dark-Territory-Secret-History-Cyber/dp/1476763267
-90. Cyberspies, Gordon Corera https://www.amazon.com/Cyberspies-History-Surveillance-Hacking-Espionage/dp/1681774593
-91. Endless Loop: The History of the BASIC Programming Language, Mark Jones Lorenzo https://www.amazon.com/Endless-Loop-Programming-All-purpose-Instruction/dp/1974277070
-92. The Fall of Telecom: A Wall Street Analyst’s True Story Of The Telecom Industry, Thomas J. Lauria https://www.amazon.com/Fall-Telecom-Street-Analysts-Industry/dp/1435704460
-93. The Idea Factory: Bell Labs and the Great Age of American Innovation, Jon Gertner https://www.amazon.com/Idea-Factory-Great-American-Innovation/dp/0143122797
-94. Pioneer Programmer: Jean Jennings Bartik and the Computer that Changed the World, Jean Jennings Bartik https://www.amazon.com/Pioneer-Programmer-Jennings-Computer-Changed/dp/1612480861
-95. ENIAC: The Triumphs and Tragedies of the World's First Computer, Scott McCartney, Adams Morgan, et al. https://www.amazon.com/Eniac-Triumphs-Tragedies-Worlds-Computer/dp/0802713483
-96. The Decline and Fall of IBM: End of an American Icon?, Robert Cringely https://www.amazon.com/Decline-Fall-IBM-American-Icon/dp/0990444422
-97. Sandworm, Andy Greenberg https://www.amazon.com/Sandworm-Cyberwar-Kremlins-Dangerous-Hackers/dp/0525564632
-98. Who Says Elephants Can't Dance?: Inside IBM's Historic Turnaround, Louis V. Gerstner Jr. https://www.amazon.com/Who-Says-Elephants-Cant-Dance/dp/0060523808
+75. IBM In Endicott, Suzanne Meredith https://www.amazon.com/IBM-Endicott-Suzanne-Meredith/dp/1531621805
+76. Hackers: Heroes of the Computer Revolution: 25th Anniversary Edition, Steven Levy https://www.amazon.com/gp/product/B003PDMKIY
+77. The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution, Walter Isaacson https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703
+78. A History of Modern Computing (History of Computing), Paul Ceruzzi and William Aspray https://www.amazon.com/History-Modern-Computing/dp/0262532034
+79. Dreaming in Code, Scott Rosenberg https://www.amazon.com/Dreaming-Code-Programmers-Transcendent-Software/dp/1400082471
+80. Super Pumped: The Battle for Uber, Mike Isaac https://www.amazon.com/Super-Pumped-Battle-Mike-Isaac/dp/0393652246
+81. The Mysterious Affair at Olivetti, Meryle Secrest https://www.amazon.com/Mysterious-Affair-Olivetti-Conspiracy-Production/dp/0451493656
+82. Masters of Doom, David Kushner https://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155
+83. The Players Ball, David Kushner https://www.amazon.com/Players-Ball-Genius-History-Internets/dp/1501122142
+84. Jacked The Outlaw Story of Grand Theft Auto, David Kushner https://www.amazon.com/gp/product/B00DNL4388/ref=dbs_a_def_rwt_bibl_vppi_i1
+85. Kingpin, Kevin Poulsen https://www.amazon.com/Kingpin-Hacker-Billion-Dollar-Cybercrime-Underground/dp/0307588696
+86. Paper: Paging Through History, Mark Kurlansky https://www.amazon.com/Paper-Through-History-Mark-Kurlansky/dp/0393353702
+87. The Information: A History, a Theory, a Flood, James Gleick https://www.amazon.com/Information-History-Theory-Flood/dp/1400096235
+88. Future Histories, Lizzie O'Shea https://www.amazon.com/Future-Histories-Lovelace-Commune-Technology/dp/1788734300
+89. The Well, Katie Hafner https://www.amazon.com/Well-Story-Seminal-Online-Community/dp/0786708468
+90. Dark Territory: The Secret History of Cyber War, Fred Kaplan https://www.amazon.com/Dark-Territory-Secret-History-Cyber/dp/1476763267
+91. Cyberspies, Gordon Corera https://www.amazon.com/Cyberspies-History-Surveillance-Hacking-Espionage/dp/1681774593
+92. Endless Loop: The History of the BASIC Programming Language, Mark Jones Lorenzo https://www.amazon.com/Endless-Loop-Programming-All-purpose-Instruction/dp/1974277070
+93. The Fall of Telecom: A Wall Street Analyst’s True Story Of The Telecom Industry, Thomas J. Lauria https://www.amazon.com/Fall-Telecom-Street-Analysts-Industry/dp/1435704460
+94. The Idea Factory: Bell Labs and the Great Age of American Innovation, Jon Gertner https://www.amazon.com/Idea-Factory-Great-American-Innovation/dp/0143122797
+95. Pioneer Programmer: Jean Jennings Bartik and the Computer that Changed the World, Jean Jennings Bartik https://www.amazon.com/Pioneer-Programmer-Jennings-Computer-Changed/dp/1612480861
+96. ENIAC: The Triumphs and Tragedies of the World's First Computer, Scott McCartney, Adams Morgan, et al. https://www.amazon.com/Eniac-Triumphs-Tragedies-Worlds-Computer/dp/0802713483
+97. The Decline and Fall of IBM: End of an American Icon?, Robert Cringely https://www.amazon.com/Decline-Fall-IBM-American-Icon/dp/0990444422
+98. Sandworm, Andy Greenberg https://www.amazon.com/Sandworm-Cyberwar-Kremlins-Dangerous-Hackers/dp/0525564632
+99. Who Says Elephants Can't Dance?: Inside IBM's Historic Turnaround, Louis V. Gerstner Jr. https://www.amazon.com/Who-Says-Elephants-Cant-Dance/dp/0060523808
 100. Dot.con: How America Lost Its Mind and Money in the Internet Era, John Cassidy https://www.amazon.com/Dot-America-Lost-Money-Internet/dp/0060008814
 101. Origins of the Crash: The Great Bubble and Its Undoing, Roger Lowenstein https://www.amazon.com/Origins-Crash-Great-Bubble-Undoing/dp/0143034677
 102. Totally Wired: The Rise and Fall of Josh Harris and The Great Dotcom Swindle, Andrew Smith https://www.amazon.com/Totally-Wired-Harris-Dotcom-Swindle/dp/080212934X
