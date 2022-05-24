@@ -540,11 +540,13 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 | Thing | URL |
 | --- | --- |
 | Zuse Z1 and Z2 Logic Gates | https://www.thingiverse.com/thing:3465567 |
+| ENIAC Model | https://www.thingiverse.com/thing:4164825 |
 | Einstein Bust | https://www.thingiverse.com/thing:966908 |
 | Asimov Bust | https://www.thingiverse.com/thing:1397017 |
 | Edison Bust|  https://www.thingiverse.com/thing:143111 |
 | Tutankhamun Bust | https://www.thingiverse.com/thing:2987361 |
 | Sputnik | https://www.thingiverse.com/thing:2778049 |
+| Rurik Bust | https://www.myminifactory.com/object/3d-print-rurik-Рюрик-189617 |
 | Stalin Bust | https://www.thingiverse.com/thing:516756 |
 | lenin Bust | https://www.thingiverse.com/thing:286624 |
 | Blaise Pascal Statue | https://www.myminifactory.com/object/3d-print-blaise-pascal-156957 |
