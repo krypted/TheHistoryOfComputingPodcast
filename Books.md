@@ -539,6 +539,9 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 # 3D Printed Materials
 | Thing | URL |
 | --- | --- |
+| Susan Kare | https://www.thingiverse.com/thing:2755201 |
+| Clarus the Dogcow | https://www.thingiverse.com/thing:83987 |
+| 8-bit Macintosh | https://www.thingiverse.com/thing:49736 |
 | Zuse Z1 and Z2 Logic Gates | https://www.thingiverse.com/thing:3465567 |
 | ENIAC Model | https://www.thingiverse.com/thing:4164825 |
 | Einstein Bust | https://www.thingiverse.com/thing:966908 |
