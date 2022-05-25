@@ -547,6 +547,7 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 | Einstein Bust | https://www.thingiverse.com/thing:966908 |
 | Asimov Bust | https://www.thingiverse.com/thing:1397017 |
 | Edison Bust|  https://www.thingiverse.com/thing:143111 |
+| Voltaire Bust | https://www.myminifactory.com/object/3d-print-voltaire-39462 |
 | Tutankhamun Bust | https://www.thingiverse.com/thing:2987361 |
 | Sputnik | https://www.thingiverse.com/thing:2778049 |
 | Rurik Bust | https://www.myminifactory.com/object/3d-print-rurik-Рюрик-189617 |
@@ -574,6 +575,7 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 | Miniature Commodore 64 | https://www.thingiverse.com/thing:1954782 |
 | 3d terminology | https://www.thingiverse.com/thing:2512390/files |
 | Code of Hammurabi | https://www.thingiverse.com/thing:4876351 |
+| Pythagoras Bust | https://www.thingiverse.com/thing:3341843 |
 
 # Podcasts
 | Title | URL |
