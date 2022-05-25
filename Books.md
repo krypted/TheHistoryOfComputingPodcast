@@ -1,4 +1,4 @@
-# Assets used in researching and documenting The History of Computing
+# Assets used to research and document the history of computing
 
 - [Books used to research and document the history of computers](#books-used-in-researching-and-documenting-the-history-of-computers)
 - [Books used to analyze how the general history of technology, science, and philosophy shaped technology and the modern worldview](#books-used-in-analyzing-how-the-ancient-history-of-technology--science--and-philosophy-shaped-the-modern-worldview)
