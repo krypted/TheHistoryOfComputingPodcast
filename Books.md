@@ -8,7 +8,7 @@
 - [Podcasts referenced](#podcasts)
 - [Citations](#citations) 
 - Image Attributions (forthcoming)
-- Interviews (forthcoming)
+- Oral Histories and Written Interviews (forthcoming)
 - [Special Thanks](#special-thanks)
 
 # Books used in researching and documenting the history of computers
