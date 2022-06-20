@@ -586,6 +586,7 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 ||https://www.audible.com/pd/Podcast/B08JJQJHXB|
 | History of the Internet Podcast | https://www.internethistorypodcast.com |
 | Command Line Heroes | https://www.redhat.com/en/command-line-heroes |
+| Video Game Hour Podcast | https://podcasts.apple.com/us/podcast/video-game-history-hour/id1536393630 |
  
 # Citations
 1. Davies, Donald Watts. (1986). Oral history interview with Donald W. Davies. Charles Babbage Institute. Retrieved from the University of Minnesota Digital Conservancy, https://hdl.handle.net/11299/107241.
