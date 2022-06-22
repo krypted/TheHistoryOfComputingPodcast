@@ -67,149 +67,150 @@
 52. Insanely Great: The Life and Times of Macintosh, the Computer that Changed Everything, Steven Levy https://www.amazon.com/INSANELY-GREAT-Macintosh-Computer-Everything/dp/0670852449
 53. Crypto, Steven Levy https://www.amazon.com/gp/product/B004IATDCO
 54. Where Wizards Stay Up Late: The Origins of the Internet, Katie Hafner, Matthew Lyon https://www.amazon.com/Where-Wizards-Stay-Up-Late/dp/0684832674
-55. Computing: A Business History, Lars Nielsen https://www.amazon.com/Computing-Business-History-Lars-Nielsen/dp/0615675778
-56. Charles Babbage from the Beginning, Lucy May Simister https://www.amazon.com/Charles-Babbage-Beginning-Lucy-Simister/dp/1512149195
-57. The ARPAnet Sourcebook: The Unpublished Foundations of the Internet, Peter H. Salus https://www.amazon.com/ARPAnet-Sourcebook-Unpublished-Foundations-Revisited/dp/1573980005
-58. A History Computing: From MainFrames to online everything, David Daniel Wertman https://www.amazon.com/Mainframes-Smartphones-International-Computer-Industry/dp/0674729064
-59. Forged in War: How a Century of War Created Today’s Information Society, R David Lankes https://www.amazon.com/Forged-War-Century-Created-Information/dp/1538148951
-60. The Golden Age of Computer Technology: Through the Eyes of an Aging Geek, Marvin Zelkowitz https://www.amazon.com/Golden-Age-Computer-Technology-Through-ebook/dp/B084VW2HTF
-61. Gates: How Microsoft's Mogul Reinvented an Industry and Made Himself the Richest Man in America: Stephen Manes and Paul Andrews https://www.amazon.com/Gates-Microsofts-Reinvented-Industry-Himself/dp/0671880748
-62. Code: The Hidden Language of Computer Hardware and Software (Developer Best Practices), Charles Petzold  https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319
-63. What the Doormouse Said, John Markoff https://www.amazon.com/What-Dormouse-Said-Counterculture-Personal/dp/0143036769
-64. The Logician and the Engineer: How George Boole and Claude Shannon Created the Information Age, Paul J. Nahin  https://www.amazon.com/Logician-Engineer-Shannon-Created-Information/dp/0691176000
-65. Creative Selection, Ken Kocienda https://www.amazon.com/Creative-Selection-Inside-Apples-Process/dp/1250194466
-66. The Life and Work of George Boole: A Prelude to the Digital Age, Desmond MacHale https://www.amazon.com/Life-Work-George-Boole-Prelude/dp/1782050043
-67. Computer: A History of the Information Machine (The Sloan Technology Series), Martin Campbell-Kelly  https://www.amazon.com/Computer-History-Information-Machine-Technology/dp/0813345901
-68. Delayed Response: The Art of Waiting, Jason Farman https://www.amazon.com/Delayed-Response-Waiting-Ancient-Instant/dp/0300225679
-69. Alan Turing: The Life and Legacy of the English Computer Scientist Who Became World War II’s Most Famous Codebreaker, Charles River Editors https://www.amazon.com/Alan-Turing-Computer-Scientist-Codebreaker/dp/1722081678
-70. The Cryotron Files: The Untold Story of Dudley Buck, Cold War Computer Scientist and Microchip Pioneer, Iain Dey, Douglas Buck, Alan Dewey https://www.amazon.com/Cryotron-Files-Computer-Scientist-Microchip/dp/1468315773
-71. Technology of the Gods: The Incredible Sciences of the Ancients, David Hatcher Childress https://www.amazon.com/Technology-Gods-Incredible-Sciences-Ancients/dp/0932813739
-72. Replay: The History of Video Games, Tristan Donovan, Richard Garriott https://www.amazon.com/Replay-History-Video-Tristan-Donovan/dp/0956507204
-73. Netscape Time: The Making of the Billion-Dollar Start-Up That Took on Microsoft https://www.amazon.com/Netscape-Time-Billion-Dollar-Start-Up-Microsoft/dp/0312199341
-74. A History of Algorithms: From The Pebble To The Microchip, Jean-Luc Chabert and J.-C. Martzloff  https://www.amazon.com/History-Algorithms-Pebble-Microchip/dp/3540633693
-75. Computing: A Concise History: The MIT Press Essential Knowledge Series, Paul E. Ceruzzi https://www.amazon.com/Computing-Concise-History-Essential-Knowledge/dp/0262517671
-76. IBM In Endicott, Suzanne Meredith https://www.amazon.com/IBM-Endicott-Suzanne-Meredith/dp/1531621805
-77. Hackers: Heroes of the Computer Revolution: 25th Anniversary Edition, Steven Levy https://www.amazon.com/gp/product/B003PDMKIY
-78. The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution, Walter Isaacson https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703
-79. A History of Modern Computing (History of Computing), Paul Ceruzzi and William Aspray https://www.amazon.com/History-Modern-Computing/dp/0262532034
-80. Dreaming in Code, Scott Rosenberg https://www.amazon.com/Dreaming-Code-Programmers-Transcendent-Software/dp/1400082471
-81. Super Pumped: The Battle for Uber, Mike Isaac https://www.amazon.com/Super-Pumped-Battle-Mike-Isaac/dp/0393652246
-82. The Mysterious Affair at Olivetti, Meryle Secrest https://www.amazon.com/Mysterious-Affair-Olivetti-Conspiracy-Production/dp/0451493656
-83. Masters of Doom, David Kushner https://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155
-84. The Players Ball, David Kushner https://www.amazon.com/Players-Ball-Genius-History-Internets/dp/1501122142
-85. Jacked The Outlaw Story of Grand Theft Auto, David Kushner https://www.amazon.com/gp/product/B00DNL4388/ref=dbs_a_def_rwt_bibl_vppi_i1
-86. Kingpin, Kevin Poulsen https://www.amazon.com/Kingpin-Hacker-Billion-Dollar-Cybercrime-Underground/dp/0307588696
-87. Paper: Paging Through History, Mark Kurlansky https://www.amazon.com/Paper-Through-History-Mark-Kurlansky/dp/0393353702
-88. The Information: A History, a Theory, a Flood, James Gleick https://www.amazon.com/Information-History-Theory-Flood/dp/1400096235
-89. Future Histories, Lizzie O'Shea https://www.amazon.com/Future-Histories-Lovelace-Commune-Technology/dp/1788734300
-90. The Well, Katie Hafner https://www.amazon.com/Well-Story-Seminal-Online-Community/dp/0786708468
-91. Dark Territory: The Secret History of Cyber War, Fred Kaplan https://www.amazon.com/Dark-Territory-Secret-History-Cyber/dp/1476763267
-92. Cyberspies, Gordon Corera https://www.amazon.com/Cyberspies-History-Surveillance-Hacking-Espionage/dp/1681774593
-93. Endless Loop: The History of the BASIC Programming Language, Mark Jones Lorenzo https://www.amazon.com/Endless-Loop-Programming-All-purpose-Instruction/dp/1974277070
-94. The Fall of Telecom: A Wall Street Analyst’s True Story Of The Telecom Industry, Thomas J. Lauria https://www.amazon.com/Fall-Telecom-Street-Analysts-Industry/dp/1435704460
-95. The Idea Factory: Bell Labs and the Great Age of American Innovation, Jon Gertner https://www.amazon.com/Idea-Factory-Great-American-Innovation/dp/0143122797
-96. Pioneer Programmer: Jean Jennings Bartik and the Computer that Changed the World, Jean Jennings Bartik https://www.amazon.com/Pioneer-Programmer-Jennings-Computer-Changed/dp/1612480861
-97. ENIAC: The Triumphs and Tragedies of the World's First Computer, Scott McCartney, Adams Morgan, et al. https://www.amazon.com/Eniac-Triumphs-Tragedies-Worlds-Computer/dp/0802713483
-98. The Decline and Fall of IBM: End of an American Icon?, Robert Cringely https://www.amazon.com/Decline-Fall-IBM-American-Icon/dp/0990444422
-99. Sandworm, Andy Greenberg https://www.amazon.com/Sandworm-Cyberwar-Kremlins-Dangerous-Hackers/dp/0525564632
-100. Who Says Elephants Can't Dance?: Inside IBM's Historic Turnaround, Louis V. Gerstner Jr. https://www.amazon.com/Who-Says-Elephants-Cant-Dance/dp/0060523808
-101. Dot.con: How America Lost Its Mind and Money in the Internet Era, John Cassidy https://www.amazon.com/Dot-America-Lost-Money-Internet/dp/0060008814
-102. Origins of the Crash: The Great Bubble and Its Undoing, Roger Lowenstein https://www.amazon.com/Origins-Crash-Great-Bubble-Undoing/dp/0143034677
-103. Totally Wired: The Rise and Fall of Josh Harris and The Great Dotcom Swindle, Andrew Smith https://www.amazon.com/Totally-Wired-Harris-Dotcom-Swindle/dp/080212934X
-104. Facebook: The Inside Story, Steven Levy https://www.amazon.com/Facebook-Inside-Story-Steven-Levy/dp/0735213151
-105. The Perfect Store: Inside eBay, Adam Cohen https://www.amazon.com/Perfect-Store-Inside-eBay/dp/0316164933
-106. Making the Cisco Connection: The Story Behind the Real Internet Superpower, David Bunnell and Adam Brate https://www.amazon.com/Making-Cisco-Connection-Internet-Superpower/dp/0471357111
-107. 4- and 8-bit Microprocessors, Architecture and History, Patrick Stakem https://www.amazon.com/8-bit-Microprocessors-Architecture-History-Computer/dp/152021572X
-108. Countdown to Zeroday, Kim Zetter https://www.amazon.com/Countdown-Zero-Day-Stuxnet-Digital/dp/0770436196
-109. Free for All, Peter Wayner https://www.amazon.com/Free-All-Software-Movement-High-Tech/dp/0066620503
-110. The Dream Machine, M. Mitchell Waldrop  https://www.amazon.com/Dream-Machine-M-Mitchell-Waldrop/dp/1732265119
-111. Hidden Figures, Margot Lee Shetterly and Laura Freeman https://www.amazon.com/Hidden-Figures-Story-Black-Women/dp/0062742469
-112. We Are the Nerds: The Birth and Tumultuous Life of Reddit, the Internet's Culture Laboratory, Christine Lagorio-Chafkin https://www.amazon.com/Are-Nerds-Tumultuous-Internets-Laboratory/dp/0316435376
-113. Without Their Permission: The Story of Reddit and a Blueprint for How to Change the World, Alexis Ohanian https://www.amazon.com/Without-Their-Permission-Reddit-Blueprint/dp/1455520012
-114. Ada Lovelace: The Making of a Computer Scientist, Christopher Hollings, Ursula Martin, et al. https://www.amazon.com/Ada-Lovelace-Making-Computer-Scientist/dp/1851244883
-115. To Pixar and Beyond, Lawrence Levy https://www.amazon.com/Pixar-Beyond-Unlikely-Journey-Entertainment-ebook/dp/B01912OSA0
-116. Accidental Empires, Robert X. Cringley 
-117. An Internet for the People: The Politics and Promise of craigslist, Jessa Lingel https://www.amazon.com/Internet-People-craigslist-Princeton-Technology/dp/0691188904
-118. America's Information Wars: The Untold Story of Information Systems in America’s Conflicts and Politics from World War II to the Internet Age, by Colin B. Burke https://www.amazon.com/Americas-Information-Wars-Conflicts-Politics/dp/1538112450
-119. A History of the Future: Prophets of Progress from H. G. Wells to Isaac Asimov, Peter J Bowler https://www.amazon.com/History-Future-Prophets-Progress-Asimov/dp/1316602621
-120. Inside the Semi-Automatic Ground Environment (SAGE) Wide Area Network: The National Air Defense System, Ronald Paul Milione https://www.amazon.com/Inside-Semi-Automatic-Ground-Environment-Network/dp/B09B71Y6WF/ref=pd_lpo_2?pd_rd_i=B09B71Y6WF&psc=1
-121. The Making of Karateka, Jordan Machner
-122. Sunburst: The Ascent of Sun Microsystems, Mark Hall and John Barry https://www.amazon.com/Sunburst-Ascent-Microsystems-Mark-Hall/dp/0809239892
-123. Project Whirlwind the History of a Pioneer Computer, Kent C. and Thomas M. Smith Redmond https://www.amazon.com/Project-Whirlwind-History-Pioneer-Computer/dp/B0031K5Z92
-124. The Maverick and His Machine: Thomas Watson, Sr. and the Making of IBM, Kevin Maney https://www.amazon.com/Maverick-His-Machine-Thomas-Watson/dp/0471679259
-125. An Oral History of L0pht: https://duo.com/decipher/an-oral-history-of-the-l0pht
-126. Free as in Freedom, Sam Williams https://www.amazon.com/Free-Freedom-Richard-Stallmans-Software/dp/0596002874
-127. Broad Band, Claire L. Evans https://www.amazon.com/Broad-Band-Untold-Story-Internet/dp/0735211752
-128. The One Device, Brian Merchant https://www.amazon.com/One-Device-Secret-History-iPhone/dp/031654616X
-129. Ghost in the Wires: My Adventures as the World's Most Wanted Hacker, Kevin Mitnick https://www.amazon.com/Ghost-Wires-Adventures-Worlds-Wanted/dp/0316037729
-130. Exploding the Phone: The Untold STory of the Teenagers and Outlaws Who Hacked Ma Bell, Phil Lapsley https://www.amazon.com/Exploding-Phone-Untold-Teenagers-Outlaws-ebook/dp/B009SAV5W0
-131. The Man Behind The Microchip, Leslie Berlin https://www.amazon.com/Man-Behind-Microchip-Invention-Silicon/dp/019531199X
-132. The Intel Trinity, Michael Malone, https://www.amazon.com/Intel-Trinity-Robert-Important-Company/dp/0062226762
-133. iWoz, Steve Wozniak, Gina Smith https://www.amazon.com/iWoz-Computer-Invented-Personal-Co-Founded/dp/0393330435
-134. Fire in the Valley: The Birth and Death of the Personal Computer, Michael Swaine, Paul Freiberger https://www.amazon.com/Fire-Valley-Birth-Personal-Computer/dp/1937785769
-135. Coders, Clive Thompson https://www.amazon.com/Coders-Making-Tribe-Remaking-World/dp/0735220565
-136. The Four: The Hidden DNA of Amazon, Apple, and Facebook, Scott Galloway https://www.amazon.com/Four-Hidden-Amazon-Facebook-Google/dp/0525501223
-137. In the Plex: How Google Thinks, Works, and Shapes Our Lives, Steven Levy https://www.amazon.com/Plex-Google-Thinks-Works-Shapes/dp/1416596585
-138. Cyber Threats and Nuclear Weapons, Herbert Lin https://www.amazon.com/Cyber-Threats-Nuclear-Weapons-Herbert/dp/1503630390
-139. Sunburst and Luminary: An Apollo Memoir, Don Eyles and David R. Scott https://www.amazon.com/Sunburst-Luminary-Apollo-Don-Eyles/dp/0986385905
-140. Ludicrous: The Unvarnished Story of Tesla Motors, Edward Niedermeyer https://www.amazon.com/Ludicrous-Unvarnished-Story-Tesla-Motors/dp/1948836122
-141. Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made, Jason Schreier https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234
-142. The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet, David Kahn https://www.amazon.com/Codebreakers-Comprehensive-History-Communication-Internet/dp/0684831309
-143. The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography, Simon Singh https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323
-144. The Code: Silicon Valley and the Remaking of America, Margered O'Mara https://www.amazon.com/Code-Silicon-Valley-Remaking-America/dp/0399562184
-145. Gods and Robots, Adrienne Mayor https://www.amazon.com/Gods-Robots-Machines-Ancient-Technology/dp/0691183511
-146. How Not to Network a Nation: The Uneasy History of the Soviet Internet, Benjamin Peters https://www.amazon.com/How-Not-Network-Nation-Information/dp/0262034182
-147. From Newspeak to Cyberspeak: A History of Soviet Cybernetics, Slava Gerovitch https://mitpress.mit.edu/books/newspeak-cyberspeak
-148. A History Of Computer Operating Systems: Unix, Dos, Lisa, Macintosh, Windows, Linux, Jon Watson https://www.amazon.com/History-Computer-Operating-Systems-Macintosh/dp/1934840459
-149. Just for Fun: The Story of an Accidental Revolutionary, Linus Torvalds and David Diamond https://www.amazon.com/Just-Fun-Story-Accidental-Revolutionary/dp/0066620732
-150. Sid Meier's Memoir!, Sid Meier https://www.amazon.com/Sid-Meiers-Memoir-Computer-Games/dp/1324005874
-151. GPS Declassified: From Smart Bombs to Smartphones, Richard Easton and Eric Frazier https://www.amazon.com/GPS-Declassified-Smart-Bombs-Smartphones/dp/1612344089
-152. Mindf-ck: Cambridge Analytica, Christopher Wylie https://www.amazon.com/Mindf-Cambridge-Analytica-Break-America/dp/1984854631
-153. Microsoft's First Generation Cheryl Tsang https://www.amazon.com/Microsoft-First-Generation-Visionaries-Technology/dp/0471332062
-154. Empires of Light, Jill Jonnes https://www.amazon.com/Empires-Light-Edison-Westinghouse-Electrify/dp/0375758844
-155. A Mind at Play: How Claude Shannon Invented the Information Age, Rob Goodman, Jimmy Soni https://www.amazon.com/Mind-Play-Shannon-Invented-Information/dp/1476766681
-156. Medieval Robots: ER Truitt https://www.amazon.com/Medieval-Robots-Mechanism-Nature-Middle/dp/0812223578
-157. Tomorrowland: Our Journey from Science Fiction to Science Fact, Steven Kotler https://www.amazon.com/Tomorrowland-Journey-Science-Fiction-Fact-ebook/dp/B00O4IA82E
-158. 8-Bit Apocalypse: The Untold Story of Atari's Missle Command, Alex Rubens https://www.amazon.com/8-Bit-Apocalypse-Untold-Missile-Command/dp/1468316443
-159. Fast Tanks and Heavy Bombers: Innovation in the US Army, 1917-1945, David Johnson https://www.amazon.com/Fast-Tanks-Heavy-Bombers-Innovation/dp/0801488478
-160. Living with Frankenstein, Stephen Schkolne https://www.amazon.com/dp/B088SK21WT
-161. Cyber Wars: Hacks That Shocked The Business World, Charles Arthur https://www.amazon.com/Cyber-Wars-Hacks-Shocked-Business/dp/0749482001
-162. Advent of the Algorithm: The Idea That Rules The World, David Berlinski https://www.amazon.com/Advent-Algorithm-Idea-Rules-World/dp/0151003386
-163. Conquering The Electron, Derek Cheung, Eric Brach https://www.amazon.com/Conquering-Electron-Visionaries-Egomaniacs-Scoundrels/dp/B084RWVJRV
-164. The Master Switch, Tim Wu https://www.amazon.com/Master-Switch-Rise-Information-Empires/dp/0307390993
-165. Artificial Life, The Quest for a New Creation, Steven Levy https://www.amazon.com/gp/product/067940774X
-166. The Soul of a New Machine, Tracy Kidder https://www.amazon.com/Soul-New-Machine-Tracy-Kidder/dp/0316491977
-167. The Network, Scott Woolley https://www.amazon.com/Network-Battle-Airwaves-Birth-Communications/dp/0062242768
-168. Longitude, Dava Sobel https://www.amazon.com/Longitude-Dava-Sobel-audiobook/dp/B0023UCMLK
-169. AI Narratives, Stephen Cave https://www.amazon.com/AI-Narratives-Imaginative-Thinking-Intelligent/dp/0198846665
-170. Writing on the Wall, Tom Standage https://www.amazon.com/Writing-Wall-Social-Media-First/dp/1620402858
-171. Bitcoin: A Consise History, Eric Morse https://www.amazon.com/Bitcoin-Concise-History-Eric-Morse/dp/1521750572
-172. Red Moon Rising, Sputnik, and the Hiden Rivals That Ignited The Space Age, Matthew Brzezinski https://www.amazon.com/Red-Moon-Rising-audiobook/dp/B000W7E5DY
-173. The Victorian Internet, Tom Standage https://www.amazon.com/Victorian-Internet-Remarkable-Nineteenth-line/dp/162040592X
-174. No Filter: The Inside Story of Instagram, Sarah Frier https://www.amazon.com/No-Filter-Inside-Story-Instagram/dp/1982126809
-175. Dawn of the Code War, John P Carlin, Garrett Graff https://www.amazon.com/Dawn-Code-War-Americas-Against-ebook/dp/B079M8813N
-176. Rise of the Machines: A Cybernetic History, Thomas Rid https://www.amazon.com/Rise-Machines-Cybernetic-Thomas-Rid/dp/0393286002
-177. Algorithms to Live By: The Computer Science of Human Decisions, Brian Christian, Tom Griffiths https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365
-178. The Road Taken, Henry Petroski https://www.amazon.com/The-Road-Taken-Henry-Petroski-audiobook/dp/B01IBZ9TP2
-179. Open: How Compaq Ended IBM's PC Domination and Helped Invent Modern Computing, Rod Canion https://www.amazon.com/Open-Rod-Canion-audiobook/dp/B00EZB9UGK
-180. Black Software, Charlton D Mcllwain https://www.amazon.com/Black-Software-Internet-Justice-AfroNet/dp/B086VPG23G
-181. The Friendly Orange Glow, Brian Dear https://www.amazon.com/Friendly-Orange-Glow-Untold-Cyberculture/dp/1101871555
-182. When Computing Got Personal, Matt Nicholson https://www.amazon.com/When-Computing-Got-Personal-Computer/dp/B00UQR7EWY
-183. End of the Line, The Rise and Fall of AT&T, Leslie Cauley https://www.amazon.com/End-Line-Leslie-Cauley/dp/1439123098
-184. Anticipating Change, Secrets Behind the SAP Empire, Dr. Hasso Plattner https://www.amazon.com/Anticipating-Change-Secrets-Behind-Empire/dp/0761529136
-185. Soviet Space Graphics, Alexandra Sankova https://www.amazon.com/Soviet-Space-Graphics-Cosmic-Visions/dp/1838660534
-186. A History of Photography, Taschen https://www.amazon.com/History-Photography-1839-Present/dp/3836540991
-187. Introduction to Computers and Data Processing, Shelly & Cashman https://www.amazon.com/Introduction-Computers-Data-Processing-Shelly/dp/0882361155
-188. Endless Loop, The History of the BASIC Programming Language, Mark Jones Lorenzo https://www.amazon.com/Endless-Loop-Programming-All-purpose-Instruction/dp/1974277070
-189. The Evolution of Wired Life, Charles Jonscher https://www.amazon.com/Evolution-Wired-Life-Soul-Catcher-Technologies/dp/0471392987
-190. Showstopper, G Pascal Zachary https://www.amazon.com/Showstopper-Breakneck-Windows-Generation-Microsoft/dp/1497638836
-191. danger.com, Joran Cray https://www.amazon.com/Gemini7-danger-com-Jordan-Cray/dp/1416998470
-192. Grace Hopper and the Invention of the Information Age, Kurt Beyer https://www.amazon.com/Invention-Information-Lemelson-Studies-Innovation/dp/0262517264
-193. Inventions that Changed the World, The History of the Computer https://www.amazon.com/History-Computer-Inventions-Changed-World/dp/1403496552
-194. Grace Hopper, Computing Pioneer https://www.amazon.com/Grace-Hopper-Programming-Pioneer-Superstars/dp/0716765993
-195. The 100 Greatest Retro Video Games https://www.amazon.com/100-Greatest-Retro-Videogames-Stories/dp/1787393089/ref=sr_1_1?crid=2AHS0R5HRQZ3Z&keywords=the+100+greatest+retro+videogames&qid=1651268818&s=books&sprefix=the+100+greatest+retr%2Cstripbooks%2C87&sr=1-1
-196. The Filing Cabinet, Craig Robertson https://www.amazon.com/Filing-Cabinet-Vertical-History-Information/dp/1517909465
-197. Open Sources: Voices from the Open Source Revolution https://www.amazon.com/Open-Sources-Voices-Source-Revolution/dp/1565925823
+55. Moore's Law: The Life of Gordon Moore, Silicon Valley's Quiet Revolutionary, Arnold Thackray https://www.amazon.com/Moores-Law-Silicon-Valleys-Revolutionary/dp/0465055648
+56. Computing: A Business History, Lars Nielsen https://www.amazon.com/Computing-Business-History-Lars-Nielsen/dp/0615675778
+57. Charles Babbage from the Beginning, Lucy May Simister https://www.amazon.com/Charles-Babbage-Beginning-Lucy-Simister/dp/1512149195
+58. The ARPAnet Sourcebook: The Unpublished Foundations of the Internet, Peter H. Salus https://www.amazon.com/ARPAnet-Sourcebook-Unpublished-Foundations-Revisited/dp/1573980005
+59. A History Computing: From MainFrames to online everything, David Daniel Wertman https://www.amazon.com/Mainframes-Smartphones-International-Computer-Industry/dp/0674729064
+60. Forged in War: How a Century of War Created Today’s Information Society, R David Lankes https://www.amazon.com/Forged-War-Century-Created-Information/dp/1538148951
+61. The Golden Age of Computer Technology: Through the Eyes of an Aging Geek, Marvin Zelkowitz https://www.amazon.com/Golden-Age-Computer-Technology-Through-ebook/dp/B084VW2HTF
+62. Gates: How Microsoft's Mogul Reinvented an Industry and Made Himself the Richest Man in America: Stephen Manes and Paul Andrews https://www.amazon.com/Gates-Microsofts-Reinvented-Industry-Himself/dp/0671880748
+63. Code: The Hidden Language of Computer Hardware and Software (Developer Best Practices), Charles Petzold  https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319
+64. What the Doormouse Said, John Markoff https://www.amazon.com/What-Dormouse-Said-Counterculture-Personal/dp/0143036769
+65. The Logician and the Engineer: How George Boole and Claude Shannon Created the Information Age, Paul J. Nahin  https://www.amazon.com/Logician-Engineer-Shannon-Created-Information/dp/0691176000
+66. Creative Selection, Ken Kocienda https://www.amazon.com/Creative-Selection-Inside-Apples-Process/dp/1250194466
+67. The Life and Work of George Boole: A Prelude to the Digital Age, Desmond MacHale https://www.amazon.com/Life-Work-George-Boole-Prelude/dp/1782050043
+68. Computer: A History of the Information Machine (The Sloan Technology Series), Martin Campbell-Kelly  https://www.amazon.com/Computer-History-Information-Machine-Technology/dp/0813345901
+69. Delayed Response: The Art of Waiting, Jason Farman https://www.amazon.com/Delayed-Response-Waiting-Ancient-Instant/dp/0300225679
+70. Alan Turing: The Life and Legacy of the English Computer Scientist Who Became World War II’s Most Famous Codebreaker, Charles River Editors https://www.amazon.com/Alan-Turing-Computer-Scientist-Codebreaker/dp/1722081678
+71. The Cryotron Files: The Untold Story of Dudley Buck, Cold War Computer Scientist and Microchip Pioneer, Iain Dey, Douglas Buck, Alan Dewey https://www.amazon.com/Cryotron-Files-Computer-Scientist-Microchip/dp/1468315773
+72. Technology of the Gods: The Incredible Sciences of the Ancients, David Hatcher Childress https://www.amazon.com/Technology-Gods-Incredible-Sciences-Ancients/dp/0932813739
+73. Replay: The History of Video Games, Tristan Donovan, Richard Garriott https://www.amazon.com/Replay-History-Video-Tristan-Donovan/dp/0956507204
+74. Netscape Time: The Making of the Billion-Dollar Start-Up That Took on Microsoft https://www.amazon.com/Netscape-Time-Billion-Dollar-Start-Up-Microsoft/dp/0312199341
+75. A History of Algorithms: From The Pebble To The Microchip, Jean-Luc Chabert and J.-C. Martzloff  https://www.amazon.com/History-Algorithms-Pebble-Microchip/dp/3540633693
+76. Computing: A Concise History: The MIT Press Essential Knowledge Series, Paul E. Ceruzzi https://www.amazon.com/Computing-Concise-History-Essential-Knowledge/dp/0262517671
+77. IBM In Endicott, Suzanne Meredith https://www.amazon.com/IBM-Endicott-Suzanne-Meredith/dp/1531621805
+78. Hackers: Heroes of the Computer Revolution: 25th Anniversary Edition, Steven Levy https://www.amazon.com/gp/product/B003PDMKIY
+79. The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution, Walter Isaacson https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703
+80. A History of Modern Computing (History of Computing), Paul Ceruzzi and William Aspray https://www.amazon.com/History-Modern-Computing/dp/0262532034
+81. Dreaming in Code, Scott Rosenberg https://www.amazon.com/Dreaming-Code-Programmers-Transcendent-Software/dp/1400082471
+82. Super Pumped: The Battle for Uber, Mike Isaac https://www.amazon.com/Super-Pumped-Battle-Mike-Isaac/dp/0393652246
+83. The Mysterious Affair at Olivetti, Meryle Secrest https://www.amazon.com/Mysterious-Affair-Olivetti-Conspiracy-Production/dp/0451493656
+84. Masters of Doom, David Kushner https://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155
+85. The Players Ball, David Kushner https://www.amazon.com/Players-Ball-Genius-History-Internets/dp/1501122142
+86. Jacked The Outlaw Story of Grand Theft Auto, David Kushner https://www.amazon.com/gp/product/B00DNL4388/ref=dbs_a_def_rwt_bibl_vppi_i1
+87. Kingpin, Kevin Poulsen https://www.amazon.com/Kingpin-Hacker-Billion-Dollar-Cybercrime-Underground/dp/0307588696
+88. Paper: Paging Through History, Mark Kurlansky https://www.amazon.com/Paper-Through-History-Mark-Kurlansky/dp/0393353702
+89. The Information: A History, a Theory, a Flood, James Gleick https://www.amazon.com/Information-History-Theory-Flood/dp/1400096235
+90. Future Histories, Lizzie O'Shea https://www.amazon.com/Future-Histories-Lovelace-Commune-Technology/dp/1788734300
+91. The Well, Katie Hafner https://www.amazon.com/Well-Story-Seminal-Online-Community/dp/0786708468
+92. Dark Territory: The Secret History of Cyber War, Fred Kaplan https://www.amazon.com/Dark-Territory-Secret-History-Cyber/dp/1476763267
+93. Cyberspies, Gordon Corera https://www.amazon.com/Cyberspies-History-Surveillance-Hacking-Espionage/dp/1681774593
+94. Endless Loop: The History of the BASIC Programming Language, Mark Jones Lorenzo https://www.amazon.com/Endless-Loop-Programming-All-purpose-Instruction/dp/1974277070
+95. The Fall of Telecom: A Wall Street Analyst’s True Story Of The Telecom Industry, Thomas J. Lauria https://www.amazon.com/Fall-Telecom-Street-Analysts-Industry/dp/1435704460
+96. The Idea Factory: Bell Labs and the Great Age of American Innovation, Jon Gertner https://www.amazon.com/Idea-Factory-Great-American-Innovation/dp/0143122797
+97. Pioneer Programmer: Jean Jennings Bartik and the Computer that Changed the World, Jean Jennings Bartik https://www.amazon.com/Pioneer-Programmer-Jennings-Computer-Changed/dp/1612480861
+98. ENIAC: The Triumphs and Tragedies of the World's First Computer, Scott McCartney, Adams Morgan, et al. https://www.amazon.com/Eniac-Triumphs-Tragedies-Worlds-Computer/dp/0802713483
+99. The Decline and Fall of IBM: End of an American Icon?, Robert Cringely https://www.amazon.com/Decline-Fall-IBM-American-Icon/dp/0990444422
+100. Sandworm, Andy Greenberg https://www.amazon.com/Sandworm-Cyberwar-Kremlins-Dangerous-Hackers/dp/0525564632
+101. Who Says Elephants Can't Dance?: Inside IBM's Historic Turnaround, Louis V. Gerstner Jr. https://www.amazon.com/Who-Says-Elephants-Cant-Dance/dp/0060523808
+102. Dot.con: How America Lost Its Mind and Money in the Internet Era, John Cassidy https://www.amazon.com/Dot-America-Lost-Money-Internet/dp/0060008814
+103. Origins of the Crash: The Great Bubble and Its Undoing, Roger Lowenstein https://www.amazon.com/Origins-Crash-Great-Bubble-Undoing/dp/0143034677
+104. Totally Wired: The Rise and Fall of Josh Harris and The Great Dotcom Swindle, Andrew Smith https://www.amazon.com/Totally-Wired-Harris-Dotcom-Swindle/dp/080212934X
+105. Facebook: The Inside Story, Steven Levy https://www.amazon.com/Facebook-Inside-Story-Steven-Levy/dp/0735213151
+106. The Perfect Store: Inside eBay, Adam Cohen https://www.amazon.com/Perfect-Store-Inside-eBay/dp/0316164933
+107. Making the Cisco Connection: The Story Behind the Real Internet Superpower, David Bunnell and Adam Brate https://www.amazon.com/Making-Cisco-Connection-Internet-Superpower/dp/0471357111
+108. 4- and 8-bit Microprocessors, Architecture and History, Patrick Stakem https://www.amazon.com/8-bit-Microprocessors-Architecture-History-Computer/dp/152021572X
+109. Countdown to Zeroday, Kim Zetter https://www.amazon.com/Countdown-Zero-Day-Stuxnet-Digital/dp/0770436196
+110. Free for All, Peter Wayner https://www.amazon.com/Free-All-Software-Movement-High-Tech/dp/0066620503
+111. The Dream Machine, M. Mitchell Waldrop  https://www.amazon.com/Dream-Machine-M-Mitchell-Waldrop/dp/1732265119
+112. Hidden Figures, Margot Lee Shetterly and Laura Freeman https://www.amazon.com/Hidden-Figures-Story-Black-Women/dp/0062742469
+113. We Are the Nerds: The Birth and Tumultuous Life of Reddit, the Internet's Culture Laboratory, Christine Lagorio-Chafkin https://www.amazon.com/Are-Nerds-Tumultuous-Internets-Laboratory/dp/0316435376
+114. Without Their Permission: The Story of Reddit and a Blueprint for How to Change the World, Alexis Ohanian https://www.amazon.com/Without-Their-Permission-Reddit-Blueprint/dp/1455520012
+115. Ada Lovelace: The Making of a Computer Scientist, Christopher Hollings, Ursula Martin, et al. https://www.amazon.com/Ada-Lovelace-Making-Computer-Scientist/dp/1851244883
+116. To Pixar and Beyond, Lawrence Levy https://www.amazon.com/Pixar-Beyond-Unlikely-Journey-Entertainment-ebook/dp/B01912OSA0
+117. Accidental Empires, Robert X. Cringley 
+118. An Internet for the People: The Politics and Promise of craigslist, Jessa Lingel https://www.amazon.com/Internet-People-craigslist-Princeton-Technology/dp/0691188904
+119. America's Information Wars: The Untold Story of Information Systems in America’s Conflicts and Politics from World War II to the Internet Age, by Colin B. Burke https://www.amazon.com/Americas-Information-Wars-Conflicts-Politics/dp/1538112450
+120. A History of the Future: Prophets of Progress from H. G. Wells to Isaac Asimov, Peter J Bowler https://www.amazon.com/History-Future-Prophets-Progress-Asimov/dp/1316602621
+121. Inside the Semi-Automatic Ground Environment (SAGE) Wide Area Network: The National Air Defense System, Ronald Paul Milione https://www.amazon.com/Inside-Semi-Automatic-Ground-Environment-Network/dp/B09B71Y6WF/ref=pd_lpo_2?pd_rd_i=B09B71Y6WF&psc=1
+122. The Making of Karateka, Jordan Machner
+123. Sunburst: The Ascent of Sun Microsystems, Mark Hall and John Barry https://www.amazon.com/Sunburst-Ascent-Microsystems-Mark-Hall/dp/0809239892
+124. Project Whirlwind the History of a Pioneer Computer, Kent C. and Thomas M. Smith Redmond https://www.amazon.com/Project-Whirlwind-History-Pioneer-Computer/dp/B0031K5Z92
+125. The Maverick and His Machine: Thomas Watson, Sr. and the Making of IBM, Kevin Maney https://www.amazon.com/Maverick-His-Machine-Thomas-Watson/dp/0471679259
+126. An Oral History of L0pht: https://duo.com/decipher/an-oral-history-of-the-l0pht
+127. Free as in Freedom, Sam Williams https://www.amazon.com/Free-Freedom-Richard-Stallmans-Software/dp/0596002874
+128. Broad Band, Claire L. Evans https://www.amazon.com/Broad-Band-Untold-Story-Internet/dp/0735211752
+129. The One Device, Brian Merchant https://www.amazon.com/One-Device-Secret-History-iPhone/dp/031654616X
+130. Ghost in the Wires: My Adventures as the World's Most Wanted Hacker, Kevin Mitnick https://www.amazon.com/Ghost-Wires-Adventures-Worlds-Wanted/dp/0316037729
+131. Exploding the Phone: The Untold STory of the Teenagers and Outlaws Who Hacked Ma Bell, Phil Lapsley https://www.amazon.com/Exploding-Phone-Untold-Teenagers-Outlaws-ebook/dp/B009SAV5W0
+132. The Man Behind The Microchip, Leslie Berlin https://www.amazon.com/Man-Behind-Microchip-Invention-Silicon/dp/019531199X
+133. The Intel Trinity, Michael Malone, https://www.amazon.com/Intel-Trinity-Robert-Important-Company/dp/0062226762
+134. iWoz, Steve Wozniak, Gina Smith https://www.amazon.com/iWoz-Computer-Invented-Personal-Co-Founded/dp/0393330435
+135. Fire in the Valley: The Birth and Death of the Personal Computer, Michael Swaine, Paul Freiberger https://www.amazon.com/Fire-Valley-Birth-Personal-Computer/dp/1937785769
+136. Coders, Clive Thompson https://www.amazon.com/Coders-Making-Tribe-Remaking-World/dp/0735220565
+137. The Four: The Hidden DNA of Amazon, Apple, and Facebook, Scott Galloway https://www.amazon.com/Four-Hidden-Amazon-Facebook-Google/dp/0525501223
+138. In the Plex: How Google Thinks, Works, and Shapes Our Lives, Steven Levy https://www.amazon.com/Plex-Google-Thinks-Works-Shapes/dp/1416596585
+139. Cyber Threats and Nuclear Weapons, Herbert Lin https://www.amazon.com/Cyber-Threats-Nuclear-Weapons-Herbert/dp/1503630390
+140. Sunburst and Luminary: An Apollo Memoir, Don Eyles and David R. Scott https://www.amazon.com/Sunburst-Luminary-Apollo-Don-Eyles/dp/0986385905
+141. Ludicrous: The Unvarnished Story of Tesla Motors, Edward Niedermeyer https://www.amazon.com/Ludicrous-Unvarnished-Story-Tesla-Motors/dp/1948836122
+142. Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made, Jason Schreier https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234
+143. The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet, David Kahn https://www.amazon.com/Codebreakers-Comprehensive-History-Communication-Internet/dp/0684831309
+144. The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography, Simon Singh https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323
+145. The Code: Silicon Valley and the Remaking of America, Margered O'Mara https://www.amazon.com/Code-Silicon-Valley-Remaking-America/dp/0399562184
+146. Gods and Robots, Adrienne Mayor https://www.amazon.com/Gods-Robots-Machines-Ancient-Technology/dp/0691183511
+147. How Not to Network a Nation: The Uneasy History of the Soviet Internet, Benjamin Peters https://www.amazon.com/How-Not-Network-Nation-Information/dp/0262034182
+148. From Newspeak to Cyberspeak: A History of Soviet Cybernetics, Slava Gerovitch https://mitpress.mit.edu/books/newspeak-cyberspeak
+149. A History Of Computer Operating Systems: Unix, Dos, Lisa, Macintosh, Windows, Linux, Jon Watson https://www.amazon.com/History-Computer-Operating-Systems-Macintosh/dp/1934840459
+150. Just for Fun: The Story of an Accidental Revolutionary, Linus Torvalds and David Diamond https://www.amazon.com/Just-Fun-Story-Accidental-Revolutionary/dp/0066620732
+151. Sid Meier's Memoir!, Sid Meier https://www.amazon.com/Sid-Meiers-Memoir-Computer-Games/dp/1324005874
+152. GPS Declassified: From Smart Bombs to Smartphones, Richard Easton and Eric Frazier https://www.amazon.com/GPS-Declassified-Smart-Bombs-Smartphones/dp/1612344089
+153. Mindf-ck: Cambridge Analytica, Christopher Wylie https://www.amazon.com/Mindf-Cambridge-Analytica-Break-America/dp/1984854631
+154. Microsoft's First Generation Cheryl Tsang https://www.amazon.com/Microsoft-First-Generation-Visionaries-Technology/dp/0471332062
+155. Empires of Light, Jill Jonnes https://www.amazon.com/Empires-Light-Edison-Westinghouse-Electrify/dp/0375758844
+156. A Mind at Play: How Claude Shannon Invented the Information Age, Rob Goodman, Jimmy Soni https://www.amazon.com/Mind-Play-Shannon-Invented-Information/dp/1476766681
+157. Medieval Robots: ER Truitt https://www.amazon.com/Medieval-Robots-Mechanism-Nature-Middle/dp/0812223578
+158. Tomorrowland: Our Journey from Science Fiction to Science Fact, Steven Kotler https://www.amazon.com/Tomorrowland-Journey-Science-Fiction-Fact-ebook/dp/B00O4IA82E
+159. 8-Bit Apocalypse: The Untold Story of Atari's Missle Command, Alex Rubens https://www.amazon.com/8-Bit-Apocalypse-Untold-Missile-Command/dp/1468316443
+160. Fast Tanks and Heavy Bombers: Innovation in the US Army, 1917-1945, David Johnson https://www.amazon.com/Fast-Tanks-Heavy-Bombers-Innovation/dp/0801488478
+161. Living with Frankenstein, Stephen Schkolne https://www.amazon.com/dp/B088SK21WT
+162. Cyber Wars: Hacks That Shocked The Business World, Charles Arthur https://www.amazon.com/Cyber-Wars-Hacks-Shocked-Business/dp/0749482001
+163. Advent of the Algorithm: The Idea That Rules The World, David Berlinski https://www.amazon.com/Advent-Algorithm-Idea-Rules-World/dp/0151003386
+164. Conquering The Electron, Derek Cheung, Eric Brach https://www.amazon.com/Conquering-Electron-Visionaries-Egomaniacs-Scoundrels/dp/B084RWVJRV
+165. The Master Switch, Tim Wu https://www.amazon.com/Master-Switch-Rise-Information-Empires/dp/0307390993
+166. Artificial Life, The Quest for a New Creation, Steven Levy https://www.amazon.com/gp/product/067940774X
+167. The Soul of a New Machine, Tracy Kidder https://www.amazon.com/Soul-New-Machine-Tracy-Kidder/dp/0316491977
+168. The Network, Scott Woolley https://www.amazon.com/Network-Battle-Airwaves-Birth-Communications/dp/0062242768
+169. Longitude, Dava Sobel https://www.amazon.com/Longitude-Dava-Sobel-audiobook/dp/B0023UCMLK
+170. AI Narratives, Stephen Cave https://www.amazon.com/AI-Narratives-Imaginative-Thinking-Intelligent/dp/0198846665
+171. Writing on the Wall, Tom Standage https://www.amazon.com/Writing-Wall-Social-Media-First/dp/1620402858
+172. Bitcoin: A Consise History, Eric Morse https://www.amazon.com/Bitcoin-Concise-History-Eric-Morse/dp/1521750572
+173. Red Moon Rising, Sputnik, and the Hiden Rivals That Ignited The Space Age, Matthew Brzezinski https://www.amazon.com/Red-Moon-Rising-audiobook/dp/B000W7E5DY
+174. The Victorian Internet, Tom Standage https://www.amazon.com/Victorian-Internet-Remarkable-Nineteenth-line/dp/162040592X
+175. No Filter: The Inside Story of Instagram, Sarah Frier https://www.amazon.com/No-Filter-Inside-Story-Instagram/dp/1982126809
+176. Dawn of the Code War, John P Carlin, Garrett Graff https://www.amazon.com/Dawn-Code-War-Americas-Against-ebook/dp/B079M8813N
+177. Rise of the Machines: A Cybernetic History, Thomas Rid https://www.amazon.com/Rise-Machines-Cybernetic-Thomas-Rid/dp/0393286002
+178. Algorithms to Live By: The Computer Science of Human Decisions, Brian Christian, Tom Griffiths https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365
+179. The Road Taken, Henry Petroski https://www.amazon.com/The-Road-Taken-Henry-Petroski-audiobook/dp/B01IBZ9TP2
+180. Open: How Compaq Ended IBM's PC Domination and Helped Invent Modern Computing, Rod Canion https://www.amazon.com/Open-Rod-Canion-audiobook/dp/B00EZB9UGK
+181. Black Software, Charlton D Mcllwain https://www.amazon.com/Black-Software-Internet-Justice-AfroNet/dp/B086VPG23G
+182. The Friendly Orange Glow, Brian Dear https://www.amazon.com/Friendly-Orange-Glow-Untold-Cyberculture/dp/1101871555
+183. When Computing Got Personal, Matt Nicholson https://www.amazon.com/When-Computing-Got-Personal-Computer/dp/B00UQR7EWY
+184. End of the Line, The Rise and Fall of AT&T, Leslie Cauley https://www.amazon.com/End-Line-Leslie-Cauley/dp/1439123098
+185. Anticipating Change, Secrets Behind the SAP Empire, Dr. Hasso Plattner https://www.amazon.com/Anticipating-Change-Secrets-Behind-Empire/dp/0761529136
+186. Soviet Space Graphics, Alexandra Sankova https://www.amazon.com/Soviet-Space-Graphics-Cosmic-Visions/dp/1838660534
+187. A History of Photography, Taschen https://www.amazon.com/History-Photography-1839-Present/dp/3836540991
+188. Introduction to Computers and Data Processing, Shelly & Cashman https://www.amazon.com/Introduction-Computers-Data-Processing-Shelly/dp/0882361155
+189. Endless Loop, The History of the BASIC Programming Language, Mark Jones Lorenzo https://www.amazon.com/Endless-Loop-Programming-All-purpose-Instruction/dp/1974277070
+190. The Evolution of Wired Life, Charles Jonscher https://www.amazon.com/Evolution-Wired-Life-Soul-Catcher-Technologies/dp/0471392987
+191. Showstopper, G Pascal Zachary https://www.amazon.com/Showstopper-Breakneck-Windows-Generation-Microsoft/dp/1497638836
+192. danger.com, Joran Cray https://www.amazon.com/Gemini7-danger-com-Jordan-Cray/dp/1416998470
+193. Grace Hopper and the Invention of the Information Age, Kurt Beyer https://www.amazon.com/Invention-Information-Lemelson-Studies-Innovation/dp/0262517264
+194. Inventions that Changed the World, The History of the Computer https://www.amazon.com/History-Computer-Inventions-Changed-World/dp/1403496552
+195. Grace Hopper, Computing Pioneer https://www.amazon.com/Grace-Hopper-Programming-Pioneer-Superstars/dp/0716765993
+196. The 100 Greatest Retro Video Games https://www.amazon.com/100-Greatest-Retro-Videogames-Stories/dp/1787393089/ref=sr_1_1?crid=2AHS0R5HRQZ3Z&keywords=the+100+greatest+retro+videogames&qid=1651268818&s=books&sprefix=the+100+greatest+retr%2Cstripbooks%2C87&sr=1-1
+197. The Filing Cabinet, Craig Robertson https://www.amazon.com/Filing-Cabinet-Vertical-History-Information/dp/1517909465
+198. Open Sources: Voices from the Open Source Revolution https://www.amazon.com/Open-Sources-Voices-Source-Revolution/dp/1565925823
 Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https://www.amazon.com/Softwar-Intimate-Portrait-Ellison-Oracle/dp/0743225058
 192. The Difference Between God and Larry Ellison, Mike Wilson https://www.amazon.com/Difference-Between-God-Larry-Ellison/dp/0060008768
 193. An Introduction to Microcomputers, Volume 1: Basic Concepts, Adam Osborne https://www.amazon.com/Introduction-Microcomputers-Vol-Basic-Concepts/dp/0931988349
