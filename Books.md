@@ -207,11 +207,12 @@
 192. Showstopper, G Pascal Zachary https://www.amazon.com/Showstopper-Breakneck-Windows-Generation-Microsoft/dp/1497638836
 193. danger.com, Joran Cray https://www.amazon.com/Gemini7-danger-com-Jordan-Cray/dp/1416998470
 194. Grace Hopper and the Invention of the Information Age, Kurt Beyer https://www.amazon.com/Invention-Information-Lemelson-Studies-Innovation/dp/0262517264
-195. Inventions that Changed the World, The History of the Computer https://www.amazon.com/History-Computer-Inventions-Changed-World/dp/1403496552
-196. Grace Hopper, Computing Pioneer https://www.amazon.com/Grace-Hopper-Programming-Pioneer-Superstars/dp/0716765993
-197. The 100 Greatest Retro Video Games https://www.amazon.com/100-Greatest-Retro-Videogames-Stories/dp/1787393089/ref=sr_1_1?crid=2AHS0R5HRQZ3Z&keywords=the+100+greatest+retro+videogames&qid=1651268818&s=books&sprefix=the+100+greatest+retr%2Cstripbooks%2C87&sr=1-1
-198. The Filing Cabinet, Craig Robertson https://www.amazon.com/Filing-Cabinet-Vertical-History-Information/dp/1517909465
-199. Open Sources: Voices from the Open Source Revolution https://www.amazon.com/Open-Sources-Voices-Source-Revolution/dp/1565925823
+195. A New History of Modern Computing, Paul E. Ceruzzi and Thomas Haigh https://www.amazon.com/New-History-Modern-Computing/dp/0262542900
+196. Inventions that Changed the World, The History of the Computer https://www.amazon.com/History-Computer-Inventions-Changed-World/dp/1403496552
+197. Grace Hopper, Computing Pioneer https://www.amazon.com/Grace-Hopper-Programming-Pioneer-Superstars/dp/0716765993
+198. The 100 Greatest Retro Video Games https://www.amazon.com/100-Greatest-Retro-Videogames-Stories/dp/1787393089/ref=sr_1_1?crid=2AHS0R5HRQZ3Z&keywords=the+100+greatest+retro+videogames&qid=1651268818&s=books&sprefix=the+100+greatest+retr%2Cstripbooks%2C87&sr=1-1
+199. The Filing Cabinet, Craig Robertson https://www.amazon.com/Filing-Cabinet-Vertical-History-Information/dp/1517909465
+200. Open Sources: Voices from the Open Source Revolution https://www.amazon.com/Open-Sources-Voices-Source-Revolution/dp/1565925823
 Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https://www.amazon.com/Softwar-Intimate-Portrait-Ellison-Oracle/dp/0743225058
 192. The Difference Between God and Larry Ellison, Mike Wilson https://www.amazon.com/Difference-Between-God-Larry-Ellison/dp/0060008768
 193. An Introduction to Microcomputers, Volume 1: Basic Concepts, Adam Osborne https://www.amazon.com/Introduction-Microcomputers-Vol-Basic-Concepts/dp/0931988349
