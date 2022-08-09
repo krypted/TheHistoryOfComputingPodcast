@@ -401,6 +401,10 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 103. The Book of Great Inventions, Chris Oxlade, Steve Parker, https://www.amazon.com/Book-Great-Inventions-Chris-Oxlade/dp/1573351474
 104. Timelines in Sience, DK https://www.amazon.com/Timelines-Science-Ultimate-Visual-Discoveries/dp/1465442472
 105. The Timechart History of India, Aureole https://www.amazon.com/Timechart-History-India-Aureole-Editorial/dp/1861188455
+106. Hannibal's Campaigns, Tony Bath
+107. The History of the English Longbow, Donald Featherstone
+108. Featherstone's Complete Wargaming, Donald Featherstone
+109. The Technologies of Freedom, Pool
 
 # Technical Books
 
