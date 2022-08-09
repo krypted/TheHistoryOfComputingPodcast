@@ -562,6 +562,8 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 # 3D Printed Materials
 | Thing | URL |
 | --- | --- |
+| UNIVAC Model | https://www.thingiverse.com/thing:5448349 |
+| Whirlwind Model | https://www.thingiverse.com/thing:5446315 |
 | Susan Kare | https://www.thingiverse.com/thing:2755201 |
 | Clarus the Dogcow | https://www.thingiverse.com/thing:83987 |
 | 8-bit Macintosh | https://www.thingiverse.com/thing:49736 |
