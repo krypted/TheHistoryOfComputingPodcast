@@ -562,9 +562,14 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 # 3D Printed Materials
 | Thing | URL |
 | --- | --- |
+| Control Data Corporation 6600 Mainframe Model | https://www.thingiverse.com/thing:5456348 |
+| Digital Equipment PDP-1 Model | https://www.thingiverse.com/thing:5474754 |
+| IBM 1401 Mainframe | https://www.thingiverse.com/thing:5482403 |
+| Model of CSIRAC | https://www.thingiverse.com/thing:5466920 |
 | UNIVAC Model | https://www.thingiverse.com/thing:5448349 |
 | Whirlwind Model | https://www.thingiverse.com/thing:5446315 |
 | Susan Kare | https://www.thingiverse.com/thing:2755201 |
+| Bust of Ada Lovelace | https://www.thingiverse.com/thing:5467170 |
 | Clarus the Dogcow | https://www.thingiverse.com/thing:83987 |
 | 8-bit Macintosh | https://www.thingiverse.com/thing:49736 |
 | Zuse Z1 and Z2 Logic Gates | https://www.thingiverse.com/thing:3465567 |
