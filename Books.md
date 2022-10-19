@@ -344,68 +344,69 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 46. The H.G. Wells Reader, H.G. Wells https://www.amazon.com/H-G-Wells-Reader-Complete-Anthology/dp/0878333061
 47. Sputnik, The Shock of the Century, Paul Dickson https://www.amazon.com/Sputnik-Shock-Century-Paul-Dickson/dp/0802779514
 48. World History Dates, Jane Chisholm https://www.amazon.com/World-History-Dates-Illustrated/dp/0860209547
-49. Neo.Life, Jane Metcalfe and Brian Bergstein https://neo.life/visions/
-50. The Bit and the Pendulum, Tom Siegfried https://www.amazon.com/Bit-Pendulum-Computing-Theory-Information/dp/0471399744
-51. Misreadings, Umberto Eco https://www.amazon.com/Misreadings-Pa-Umberto-Eco/dp/0156607522
-52. Incas, A.B. Daniel https://www.amazon.com/Incas-Book-One-Pumas-Shadow/dp/0743432746
-53. Travels in Hyper Reality, Umberto Eco https://www.amazon.com/Travels-Hyperreality-Harvest-Book-Umberto/dp/0156913216
-54. The Kabalion & The Emerald Tablet of Hermes, Unknown https://www.amazon.com/Emerald-Tablet-Hermes-Kybalion-Philosophy/dp/1438235720
-55. The System Of The World, Isaac Newton https://www.amazon.com/System-World-Isaac-Newton/dp/1512181153
-56. The History of NASA, Moser https://historycollection.jsc.nasa.gov/JSCHistoryPortal/history/oral_histories/MoserTL/MoserTL_4-9-10.htm
-57. The Doors of Perception, Aldous Huxley https://www.amazon.com/Doors-Perception-Heaven-Hell/dp/0061729078
-58. The Odyssey, Homer https://www.amazon.com/Odyssey-Homer/dp/0140268863
-59. The Clockwork Universe, Edward Dolnick https://www.amazon.com/Clockwork-Universe-Newton-Society-Modern/dp/006171951X
-60. Holy Fire, Bruce Sterling https://www.amazon.com/Holy-Fire-Bantam-Spectra-Book/dp/055357549X
-61. Forgotten Genius of Oliver Heaviside, Basil Mahon https://www.amazon.com/Forgotten-Genius-Oliver-Heaviside-Electrical/dp/1633883310
-62. India, A History, John Keay https://www.amazon.com/India-History-Revised-John-Keay/dp/0802145582
-63. World History Atlas, DK https://www.amazon.com/World-History-Atlas-DK-Publishing/dp/0756609674
-64. The Rise of Modern Philosophy, Anthony Kenny https://www.amazon.com/Rise-Modern-Philosophy-History-Western/dp/0198752768
-65. Dahlonega, A Brief History, Anne Dismukes Amerson https://www.amazon.com/Dahlonega-History-Anne-Dismukes-Amerson/dp/1540204103
-66. Victorian Fairytales, Michael Patrick Hearn https://www.amazon.com/Victorian-Fairy-Tales-Michael-Patrick/dp/0862413265
-67. History of Sanitation, J.J. Cosgrove https://www.amazon.com/History-Sanitation-J-J-Cosgrove/dp/1512372889
-68. Invitation to World Religiions, Brodd, Little, Nystrom, Platzner, Shek, Stiles https://www.amazon.com/Invitation-World-Religions-Jeffrey-Brodd/dp/019069081X
-69. A short History of the World, J.M. Roberts https://www.amazon.com/Short-History-World-John-Roberts/dp/019511504X
-70. A history of Mechanics, René Dugas https://www.amazon.com/History-Mechanics-Dover-Books-Physics/dp/0486656322
-71. The Development of Modern Chemistry, Aaron Ihde https://www.amazon.com/Development-Modern-Chemistry-Dover-Books/dp/0486642356/ref=pd_lpo_3?pd_rd_i=0486642356&psc=1
-72. A Short History of Technology, T.K. Derry and Trevor I. Williams https://www.amazon.com/Short-History-Technology-Earliest-D/dp/0486274721
-73. The Telegraph History of the World, Gavin Fuller https://www.amazon.com/Telegraph-History-World-Gavin-Fuller/dp/178131506X
-74. What the Bible Teaches, Torrey https://www.amazon.com/What-Bible-Teaches-R-Torrey/dp/0883684004
-75. The Technological System, Jacques Ellul https://www.amazon.com/Technological-System-Jacques-Ellul/dp/1532615256
-76. On the Origin of Species By Means of Natural Selection, Charls Darwin https://royalsocietypublishing.org/doi/10.1098/rsnr.2018.0015
-77. Codebreaker, Stephn Pincock https://www.amazon.com/Codebreaker-History-Ciphers-Stephen-Pincock/dp/0802715478
-78. Wheels, Clocks, and Rockets, Donald Cardwell https://www.amazon.com/Wheels-Clocks-Rockets-History-Technology/dp/0393321754
-79. Time's Pendulum, Jo Ellen Barnett https://www.amazon.com/Times-Pendulum-Capture-Time-Sundials/dp/0306457873
-80. The Evolution of Technology, George Basalla https://www.amazon.com/Evolution-Technology-Cambridge-Studies-History/dp/0521296811
-81. Mission Santa Ines, Engelhardt https://www.amazon.com/Mission-Virgen-Martir-Ecclesiastical-Seminary/dp/B007BNV5I0
-82. The Missions: California's Heritage Mission San José, Mary Null Boule https://www.amazon.com/Missions-Californias-Heritage-Mission-Jose/dp/1877599131
-83. California's El Camino Real, Max Kurillo and Erline Tuttle https://www.amazon.com/Californias-Historic-Sunbelt-Cultural-Heritage/dp/0932653375
-84. 1800 Mechanical Movements, Devices, and Appliances, Gardner D Hiscox https://www.amazon.com/Mechanical-Movements-Devices-Appliances-Science/dp/0486457435
-85. Technology A World History, Daniel R Headrick https://www.amazon.com/Technology-World-History-New-Oxford/dp/0195338219
-86. Science and Technology in World History: An Introduction, James McClellan, Harold Dorn https://www.amazon.com/Science-Technology-World-History-Introduction/dp/142141774X/ref=pd_lpo_1?pd_rd_i=142141774X&psc=1
-87. The House of Wisdom, Jonathan Lyons https://www.amazon.com/House-Wisdom-Transformed-Western-Civilization/dp/1608190587
-88. Adventures of Huckleberry Finn and Zombie Jim, Mark Twain and W. Bill Czolgosz (and all the real Mark Twain in general, especially A Connecticut Yankee in King Arthur's Court) https://www.amazon.com/Adventures-Huckleberry-Finn-Zombie-Jim/dp/1897217978
-89. Lands of Promise and Despair, Rose Marie Beebe, Robert Senkewicz https://www.amazon.com/Lands-Promise-Despair-Chronicles-California/dp/0806151382
-90. Coin Collecting for Dummies, Neil S. Berman https://www.amazon.com/Coin-Collecting-Dummies-Neil-Berman/dp/0470222751
-91. Moving Innovation, Sito https://mitpress.mit.edu/books/moving-innovation
-92. An Illustrated Treasury of Grimm's Fairy Tales, Daniel Drescher https://www.amazon.com/Illustrated-Treasury-Grimms-Fairy-Tales/dp/0863159478
-93. The Legacy of the Dog, Kamazaki Kojima https://www.amazon.com/Legacy-Dog-Ultimate-Illustrated-Breeds/dp/B0007MTTE4
-94. Mortal and Immortal DNA, Gerald Weissmann https://www.amazon.com/Mortal-Immortal-DNA-Science-Lure/dp/1934137162
-95. Gods and Heroes, Briggs https://www.amazon.com/Gods-Heroes-Mythology-Around-World/dp/1523503785
-96. Communication in History, Crowley Heyer https://www.amazon.com/Communication-History-Cases-David-Crowley/dp/0205693091
-97. Clockwork Music https://www.amazon.com/Clockwork-music-illustrated-instruments-orchestrion/dp/0047890045
-98. Engineering: The Illustrated History from Ancient Craft to Modern Technology, Tom Jackson https://www.amazon.com/Engineering-Illustrated-History-Technology-Ponderables/dp/0985323094
-99. The History of the Motor Car, Peter Roberts https://www.amazon.com/History-Motor-Car-Peter-Roberts/dp/0603036090
-100. Timelines of Aviation History https://www.amazon.com/Compact-Timeline-Aviation-History/dp/0785828184
-101. How Was It Done?, Readers Digest https://www.amazon.com/How-Was-Done-Ingenuity-Through/dp/0762100885
-102. The California Missions, Ruben G Mendoza, Melba Levick https://www.amazon.com/California-Missions-Ruben-G-Mendoza/dp/0847861511
-103. Victorian Inventions, Leonard De Vries https://www.amazon.com/Victorian-Inventions-Leonard-Vries/dp/0719550068
-104. The Book of Great Inventions, Chris Oxlade, Steve Parker, https://www.amazon.com/Book-Great-Inventions-Chris-Oxlade/dp/1573351474
-105. Timelines in Sience, DK https://www.amazon.com/Timelines-Science-Ultimate-Visual-Discoveries/dp/1465442472
-106. The Timechart History of India, Aureole https://www.amazon.com/Timechart-History-India-Aureole-Editorial/dp/1861188455
-107. Hannibal's Campaigns, Tony Bath
-108. The History of the English Longbow, Donald Featherstone
-109. Featherstone's Complete Wargaming, Donald Featherstone
-110. The Technologies of Freedom, Pool
+49. The Pilgrim Journey, James Harpur https://www.amazon.com/Pilgrim-Journey-History-Pilgrimage-Western/dp/1629190004
+50. Neo.Life, Jane Metcalfe and Brian Bergstein https://neo.life/visions/
+51. The Bit and the Pendulum, Tom Siegfried https://www.amazon.com/Bit-Pendulum-Computing-Theory-Information/dp/0471399744
+52. Misreadings, Umberto Eco https://www.amazon.com/Misreadings-Pa-Umberto-Eco/dp/0156607522
+53. Incas, A.B. Daniel https://www.amazon.com/Incas-Book-One-Pumas-Shadow/dp/0743432746
+54. Travels in Hyper Reality, Umberto Eco https://www.amazon.com/Travels-Hyperreality-Harvest-Book-Umberto/dp/0156913216
+55. The Kabalion & The Emerald Tablet of Hermes, Unknown https://www.amazon.com/Emerald-Tablet-Hermes-Kybalion-Philosophy/dp/1438235720
+56. The System Of The World, Isaac Newton https://www.amazon.com/System-World-Isaac-Newton/dp/1512181153
+57. The History of NASA, Moser https://historycollection.jsc.nasa.gov/JSCHistoryPortal/history/oral_histories/MoserTL/MoserTL_4-9-10.htm
+58. The Doors of Perception, Aldous Huxley https://www.amazon.com/Doors-Perception-Heaven-Hell/dp/0061729078
+59. The Odyssey, Homer https://www.amazon.com/Odyssey-Homer/dp/0140268863
+60. The Clockwork Universe, Edward Dolnick https://www.amazon.com/Clockwork-Universe-Newton-Society-Modern/dp/006171951X
+61. Holy Fire, Bruce Sterling https://www.amazon.com/Holy-Fire-Bantam-Spectra-Book/dp/055357549X
+62. Forgotten Genius of Oliver Heaviside, Basil Mahon https://www.amazon.com/Forgotten-Genius-Oliver-Heaviside-Electrical/dp/1633883310
+63. India, A History, John Keay https://www.amazon.com/India-History-Revised-John-Keay/dp/0802145582
+64. World History Atlas, DK https://www.amazon.com/World-History-Atlas-DK-Publishing/dp/0756609674
+65. The Rise of Modern Philosophy, Anthony Kenny https://www.amazon.com/Rise-Modern-Philosophy-History-Western/dp/0198752768
+66. Dahlonega, A Brief History, Anne Dismukes Amerson https://www.amazon.com/Dahlonega-History-Anne-Dismukes-Amerson/dp/1540204103
+67. Victorian Fairytales, Michael Patrick Hearn https://www.amazon.com/Victorian-Fairy-Tales-Michael-Patrick/dp/0862413265
+68. History of Sanitation, J.J. Cosgrove https://www.amazon.com/History-Sanitation-J-J-Cosgrove/dp/1512372889
+69. Invitation to World Religiions, Brodd, Little, Nystrom, Platzner, Shek, Stiles https://www.amazon.com/Invitation-World-Religions-Jeffrey-Brodd/dp/019069081X
+70. A short History of the World, J.M. Roberts https://www.amazon.com/Short-History-World-John-Roberts/dp/019511504X
+71. A history of Mechanics, René Dugas https://www.amazon.com/History-Mechanics-Dover-Books-Physics/dp/0486656322
+72. The Development of Modern Chemistry, Aaron Ihde https://www.amazon.com/Development-Modern-Chemistry-Dover-Books/dp/0486642356/ref=pd_lpo_3?pd_rd_i=0486642356&psc=1
+73. A Short History of Technology, T.K. Derry and Trevor I. Williams https://www.amazon.com/Short-History-Technology-Earliest-D/dp/0486274721
+74. The Telegraph History of the World, Gavin Fuller https://www.amazon.com/Telegraph-History-World-Gavin-Fuller/dp/178131506X
+75. What the Bible Teaches, Torrey https://www.amazon.com/What-Bible-Teaches-R-Torrey/dp/0883684004
+76. The Technological System, Jacques Ellul https://www.amazon.com/Technological-System-Jacques-Ellul/dp/1532615256
+77. On the Origin of Species By Means of Natural Selection, Charls Darwin https://royalsocietypublishing.org/doi/10.1098/rsnr.2018.0015
+78. Codebreaker, Stephn Pincock https://www.amazon.com/Codebreaker-History-Ciphers-Stephen-Pincock/dp/0802715478
+79. Wheels, Clocks, and Rockets, Donald Cardwell https://www.amazon.com/Wheels-Clocks-Rockets-History-Technology/dp/0393321754
+80. Time's Pendulum, Jo Ellen Barnett https://www.amazon.com/Times-Pendulum-Capture-Time-Sundials/dp/0306457873
+81. The Evolution of Technology, George Basalla https://www.amazon.com/Evolution-Technology-Cambridge-Studies-History/dp/0521296811
+82. Mission Santa Ines, Engelhardt https://www.amazon.com/Mission-Virgen-Martir-Ecclesiastical-Seminary/dp/B007BNV5I0
+83. The Missions: California's Heritage Mission San José, Mary Null Boule https://www.amazon.com/Missions-Californias-Heritage-Mission-Jose/dp/1877599131
+84. California's El Camino Real, Max Kurillo and Erline Tuttle https://www.amazon.com/Californias-Historic-Sunbelt-Cultural-Heritage/dp/0932653375
+85. 1800 Mechanical Movements, Devices, and Appliances, Gardner D Hiscox https://www.amazon.com/Mechanical-Movements-Devices-Appliances-Science/dp/0486457435
+86. Technology A World History, Daniel R Headrick https://www.amazon.com/Technology-World-History-New-Oxford/dp/0195338219
+87. Science and Technology in World History: An Introduction, James McClellan, Harold Dorn https://www.amazon.com/Science-Technology-World-History-Introduction/dp/142141774X/ref=pd_lpo_1?pd_rd_i=142141774X&psc=1
+88. The House of Wisdom, Jonathan Lyons https://www.amazon.com/House-Wisdom-Transformed-Western-Civilization/dp/1608190587
+89. Adventures of Huckleberry Finn and Zombie Jim, Mark Twain and W. Bill Czolgosz (and all the real Mark Twain in general, especially A Connecticut Yankee in King Arthur's Court) https://www.amazon.com/Adventures-Huckleberry-Finn-Zombie-Jim/dp/1897217978
+90. Lands of Promise and Despair, Rose Marie Beebe, Robert Senkewicz https://www.amazon.com/Lands-Promise-Despair-Chronicles-California/dp/0806151382
+91. Coin Collecting for Dummies, Neil S. Berman https://www.amazon.com/Coin-Collecting-Dummies-Neil-Berman/dp/0470222751
+92. Moving Innovation, Sito https://mitpress.mit.edu/books/moving-innovation
+93. An Illustrated Treasury of Grimm's Fairy Tales, Daniel Drescher https://www.amazon.com/Illustrated-Treasury-Grimms-Fairy-Tales/dp/0863159478
+94. The Legacy of the Dog, Kamazaki Kojima https://www.amazon.com/Legacy-Dog-Ultimate-Illustrated-Breeds/dp/B0007MTTE4
+95. Mortal and Immortal DNA, Gerald Weissmann https://www.amazon.com/Mortal-Immortal-DNA-Science-Lure/dp/1934137162
+96. Gods and Heroes, Briggs https://www.amazon.com/Gods-Heroes-Mythology-Around-World/dp/1523503785
+97. Communication in History, Crowley Heyer https://www.amazon.com/Communication-History-Cases-David-Crowley/dp/0205693091
+98. Clockwork Music https://www.amazon.com/Clockwork-music-illustrated-instruments-orchestrion/dp/0047890045
+99. Engineering: The Illustrated History from Ancient Craft to Modern Technology, Tom Jackson https://www.amazon.com/Engineering-Illustrated-History-Technology-Ponderables/dp/0985323094
+100. The History of the Motor Car, Peter Roberts https://www.amazon.com/History-Motor-Car-Peter-Roberts/dp/0603036090
+101. Timelines of Aviation History https://www.amazon.com/Compact-Timeline-Aviation-History/dp/0785828184
+102. How Was It Done?, Readers Digest https://www.amazon.com/How-Was-Done-Ingenuity-Through/dp/0762100885
+103. The California Missions, Ruben G Mendoza, Melba Levick https://www.amazon.com/California-Missions-Ruben-G-Mendoza/dp/0847861511
+104. Victorian Inventions, Leonard De Vries https://www.amazon.com/Victorian-Inventions-Leonard-Vries/dp/0719550068
+105. The Book of Great Inventions, Chris Oxlade, Steve Parker, https://www.amazon.com/Book-Great-Inventions-Chris-Oxlade/dp/1573351474
+106. Timelines in Sience, DK https://www.amazon.com/Timelines-Science-Ultimate-Visual-Discoveries/dp/1465442472
+107. The Timechart History of India, Aureole https://www.amazon.com/Timechart-History-India-Aureole-Editorial/dp/1861188455
+108. Hannibal's Campaigns, Tony Bath
+109. The History of the English Longbow, Donald Featherstone
+110. Featherstone's Complete Wargaming, Donald Featherstone
+111. The Technologies of Freedom, Pool
 
 # Technical Books
 
