@@ -389,22 +389,23 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 91. Moving Innovation, Sito https://mitpress.mit.edu/books/moving-innovation
 92. An Illustrated Treasury of Grimm's Fairy Tales, Daniel Drescher https://www.amazon.com/Illustrated-Treasury-Grimms-Fairy-Tales/dp/0863159478
 93. The Legacy of the Dog, Kamazaki Kojima https://www.amazon.com/Legacy-Dog-Ultimate-Illustrated-Breeds/dp/B0007MTTE4
-94. Gods and Heroes, Briggs https://www.amazon.com/Gods-Heroes-Mythology-Around-World/dp/1523503785
-95. Communication in History, Crowley Heyer https://www.amazon.com/Communication-History-Cases-David-Crowley/dp/0205693091
-96. Clockwork Music https://www.amazon.com/Clockwork-music-illustrated-instruments-orchestrion/dp/0047890045
-97. Engineering: The Illustrated History from Ancient Craft to Modern Technology, Tom Jackson https://www.amazon.com/Engineering-Illustrated-History-Technology-Ponderables/dp/0985323094
-98. The History of the Motor Car, Peter Roberts https://www.amazon.com/History-Motor-Car-Peter-Roberts/dp/0603036090
-99. Timelines of Aviation History https://www.amazon.com/Compact-Timeline-Aviation-History/dp/0785828184
-100. How Was It Done?, Readers Digest https://www.amazon.com/How-Was-Done-Ingenuity-Through/dp/0762100885
-101. The California Missions, Ruben G Mendoza, Melba Levick https://www.amazon.com/California-Missions-Ruben-G-Mendoza/dp/0847861511
-102. Victorian Inventions, Leonard De Vries https://www.amazon.com/Victorian-Inventions-Leonard-Vries/dp/0719550068
-103. The Book of Great Inventions, Chris Oxlade, Steve Parker, https://www.amazon.com/Book-Great-Inventions-Chris-Oxlade/dp/1573351474
-104. Timelines in Sience, DK https://www.amazon.com/Timelines-Science-Ultimate-Visual-Discoveries/dp/1465442472
-105. The Timechart History of India, Aureole https://www.amazon.com/Timechart-History-India-Aureole-Editorial/dp/1861188455
-106. Hannibal's Campaigns, Tony Bath
-107. The History of the English Longbow, Donald Featherstone
-108. Featherstone's Complete Wargaming, Donald Featherstone
-109. The Technologies of Freedom, Pool
+94. Mortal and Immortal DNA, Gerald Weissmann https://www.amazon.com/Mortal-Immortal-DNA-Science-Lure/dp/1934137162
+95. Gods and Heroes, Briggs https://www.amazon.com/Gods-Heroes-Mythology-Around-World/dp/1523503785
+96. Communication in History, Crowley Heyer https://www.amazon.com/Communication-History-Cases-David-Crowley/dp/0205693091
+97. Clockwork Music https://www.amazon.com/Clockwork-music-illustrated-instruments-orchestrion/dp/0047890045
+98. Engineering: The Illustrated History from Ancient Craft to Modern Technology, Tom Jackson https://www.amazon.com/Engineering-Illustrated-History-Technology-Ponderables/dp/0985323094
+99. The History of the Motor Car, Peter Roberts https://www.amazon.com/History-Motor-Car-Peter-Roberts/dp/0603036090
+100. Timelines of Aviation History https://www.amazon.com/Compact-Timeline-Aviation-History/dp/0785828184
+101. How Was It Done?, Readers Digest https://www.amazon.com/How-Was-Done-Ingenuity-Through/dp/0762100885
+102. The California Missions, Ruben G Mendoza, Melba Levick https://www.amazon.com/California-Missions-Ruben-G-Mendoza/dp/0847861511
+103. Victorian Inventions, Leonard De Vries https://www.amazon.com/Victorian-Inventions-Leonard-Vries/dp/0719550068
+104. The Book of Great Inventions, Chris Oxlade, Steve Parker, https://www.amazon.com/Book-Great-Inventions-Chris-Oxlade/dp/1573351474
+105. Timelines in Sience, DK https://www.amazon.com/Timelines-Science-Ultimate-Visual-Discoveries/dp/1465442472
+106. The Timechart History of India, Aureole https://www.amazon.com/Timechart-History-India-Aureole-Editorial/dp/1861188455
+107. Hannibal's Campaigns, Tony Bath
+108. The History of the English Longbow, Donald Featherstone
+109. Featherstone's Complete Wargaming, Donald Featherstone
+110. The Technologies of Freedom, Pool
 
 # Technical Books
 
