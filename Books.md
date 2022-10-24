@@ -485,81 +485,82 @@ Softwar, an Intimate Portrait of Larry Ellison and Oracle, Matthew Symonds https
 2. Delivering Happiness: A Path to Profits, Passion, and Purpose, Tony Hsieh https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220
 95. Enchantment: The Art of Changing Hearts, Minds, and Actions, Guy Kawasaki https://www.amazon.com/Enchantment-Changing-Hearts-Minds-Actions-ebook/dp/B0049U4INC
 96. Crossing the Chasm: Marketing and Selling Technology Projects to Mainstream Customers, Geoffrey A. Moore https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123
-97. Inside the Tornado, Geoffrey Moore https://www.amazon.com/Inside-Tornado-Strategies-Developing-Hypergrowth/dp/0060745819
-98. Blue Ocean Strategy: How to Create Uncontested Market Space and Make Competition Irrelevant, W. Chan Kim, Renee Mauborgne https://www.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/1625274491
-99. Bill Gates: The Life, Lessons, And Rules for Success, https://www.amazon.com/Bill-Gates-Lessons-Rules-Success/dp/1522018557/ 
-100. A History of the United States in Five Crashes: Stock Market Meltdowns That Defined a Nation, Scott Nations, Christopher Grove https://www.amazon.com/History-United-States-Five-Crashes/dp/B06Y4B7XZ4
-101. Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future, Ashlee Vance, https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/0062301233 
-102. Internet of Things: Digitize or Die: Transform your organization. Embrace the digital evolution. Rise above the competition, Nicolas Windpassinger, https://www.amazon.com/dp/B074PTXB2H 
-103. Cyberselfish: A Critical Romp Through the Terribly Libertarian Culture of High-Tech, Paulina Borsook, https://www.amazon.com/Cyberselfish-Critical-Through-World-High-tech/dp/0316847712 
-104. Finish Big: How Great Entrepreneurs Exit Their Companies on Top, Bo Burlingham https://www.amazon.com/Finish-Big-Great-Entrepreneurs-Companies/dp/1591844975
-105. Strategic Management Theory, Charles W. L. Hill, Melissa A. Schilling, Gareth R. Jones, https://www.amazon.com/Strategic-Management-Theory-Integrated-Approach/dp/1305502337 
-106. Muddy Boots Leadership, John Chapman, https://www.amazon.com/Muddy-Boots-Leadership-Personal-Unexpected-ebook/dp/B001GIPF0A 
-107. What is Six Sigma Process Management? Rowland Hayler and Michael Nichols, https://www.amazon.com/What-Six-Sigma-Process-Management/dp/0071453415 
-108. The Bond King, Mary Childs https://www.amazon.com/dp/1250120845
-109. ITILv3 Foundations, Jason Dion, https://www.amazon.com/ITIL-v3-Foundations-Time-Compressed-Foundation-ebook/dp/B074D6J1Q5/ 
-110. ITIL: ITIL Tutorial for Beginners, Dennis Hutten, https://www.amazon.com/ITIL-Tutorial-Beginners-Dennis-Hutten-ebook/dp/B079QKR42D  
-111. ITSM QuickStart Guide, Clydebank Technology, https://www.amazon.com/ITSM-QuickStart-Simplified-Beginners-Management/dp/1945051086 
-112. Ruling the Waves, Debora L. Spar, https://www.amazon.com/Ruling-Waves-Internet-Business-Technological/dp/015602702X 
-113. The Wealth of Nations, Adam Smith, https://www.amazon.com/Wealth-Nations-Adam-Smith/dp/1505577128 
-114. The Road to Character, David Brooks, https://www.amazon.com/Road-Character-David-Brooks/dp/0812983416 
-115. They Made IT! Ph.D. Angelika Blendstrup, https://www.amazon.com/They-Made-Chinese-entrepreneurs-contributed-ebook/dp/B0026MS2QY 
-116. John Chambers and the Cisco Way, John K. Waters, https://www.amazon.com/John-Chambers-Cisco-Way-Navigating/dp/0471008338 
-117. The Age of the Platform: How Amazon, Apple, Facebook, and Google Have Redefined Business, Phil Simon and Mitch Joel https://www.amazon.com/Age-Platform-Facebook-Redefined-Business/dp/0982930259
-118. An Elegant Puzzle, Will Larson https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186
-119. The Joy of x, Steven Strogatz https://www.amazon.com/Joy-Guided-Tour-Math-Infinity/dp/0544105850
-120. The Obstacle is the Way, Ryan Holiday https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358
-121. Ego is the Enemy, Ryan Holiday https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818
-122. Radical Candor, Kim Scott https://www.radicalcandor.com
-123. A WHole New Mind, Daniel Pink https://www.amazon.com/Whole-New-Mind-Right-Brainers-Future/dp/1594481717
-124. The Storm Before the Calm, George Friedman https://www.amazon.com/Storm-Before-Calm-Americas-Discord/dp/0385540493
-125. Think and Grow Rich, Napoleon Hill https://www.amazon.com/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331
-126. The Leaders Guide, Eric Reis https://www.amazon.com/The-Leaders-Guide-Eric-Ries-audiobook/dp/B07K8VF4PZ
-127. The Lean Startup, Eric Reis https://www.amazon.com/The-Lean-Startup-Eric-Ries-audiobook/dp/B005MM7HY8
-128. High Growth Handbook, Elad Gil https://www.amazon.com/High-Growth-Handbook-Elad-Gil-audiobook/dp/B07FSWFWPQ
-129. The Hacker Ethic and the Spirit of the New Economy, Pekka Himanen, Linuz Torvalds, Manuel Castells https://www.amazon.com/Hacker-Ethic-Spirit-New-Economy/dp/B00005AVX6
-130. Guerrilla PR, Michael Levine https://www.amazon.com/Guerrilla-P-R-Effective-Publicity-Campaign/dp/155800761X
-131. Rules for Radicals, Saul D Alinsky https://www.amazon.com/Rules-Radicals-Practical-Primer-Realistic/dp/0679721134
-132. Scaling Up, Verne Harnish https://www.amazon.com/Scaling-Up-Verne-Harnish-audiobook/dp/B00PMCI89Q
-133. Traction: A Startup Guide to Getting Customers, Gabriel Weinberg, Justin Mares https://www.amazon.com/Traction-Startup-Guide-Getting-Customers/dp/0976339609
-134. Zero to One: Notes on Startups, or How To Build The Future, Peter Thiel, Blake Masters https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296
-135. Destruction and Creation, John Boyd https://www.goalsys.com/books/documents/DESTRUCTION_AND_CREATION.pdf
-136. Boyd, the Fighter Pilot Who Changed The Art of War, Albert Coram https://www.amazon.com/Boyd-Fighter-Pilot-Who-Changed/dp/0316796883
-137. Team of Teams, General Stan McChrystal https://www.amazon.com/Team-of-Teams-audiobook/dp/B00UVW4RV0
-138. Certain to Win, Chet Richards https://www.amazon.com/Certain-Win-Strategy-Applied-Business/dp/1413453767
-139. Warfighting, US Marine Corps https://www.amazon.com/Warfighting-Department-Navy/dp/1490367217
-140. Art of the Start, Guy Kawasaki https://www.amazon.com/The-Art-of-Start-2-0-Guy-Kawasaki-audiobook/dp/B00TIW9SZE
-141. Drive, Dan Pink https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/B0032COUMC
-142. The Speed of Trust, Stephen Covey https://www.amazon.com/The-Speed-of-Trust-audiobook/dp/B001U2MTAG
-143. Raving Fans, Ken Blanchard and Sheldon Bowles https://www.amazon.com/Raving-Fans-Revolutionary-Approach-Customer/dp/0006530699
-144. Too Blue! The IBM PC from an Acorn to a Renegade https://www.amazon.com/TOO-BLUE-IBM-Acorn-Renegade/dp/1637350031
-145. Platform Revolution: How Networked Markets Are Transforming the Economy - and How to Make Them Work for You, Geoffrey G. Parker, Marshall W. Van Alstyne, Sangeet Paul Choudary https://www.amazon.com/Platform-Revolution-Networked-Markets-Transforming/dp/0393249131
-146. IBM and the Holocaust, Edwin Black https://www.amazon.com/IBM-Holocaust-Strategic-Alliance-Corporation/dp/0914153277
-147. US V. Microsoft, The Inside Story of the Landmark Case, Joel Brinkley and Steve Lohr https://www.amazon.com/U-S-v-Microsoft-Inside-Landmark-ebook/dp/B000QCTOW2
-148. SAP Inside the Secret Software Power, Meissner https://www.amazon.com/SAP-Inside-Secret-Software-Power/dp/0071347852
-149. The code Economy, Philip E Auerswald https://www.amazon.com/Code-Economy-Forty-Thousand-Year-History/dp/0190226765
-150. The Autobiography of Benjamin Franklin, Benjamin Franklin https://www.amazon.com/Autobiography-Benjamin-Franklin/dp/1508475091
-151. Barbarians Led By Bill Gates, Jennifer Edstrom and Marlin Eller https://www.amazon.com/Barbarians-Bill-Gates-Jennifer-Edstrom/dp/0805057544
-152. Direct from Dell, Michael Dell https://www.amazon.com/Direct-Dell-Strategies-Revolutionized-Essentials/dp/0060845724
-153. Leaving Reality Behind, eToy vs eToys.com & Other Battles To Control Cyberspace, Adam Wishart, Regula Bochsler https://www.amazon.com/Leaving-Reality-Behind-eToys-com-cyberspace/dp/0066210763
-154. dot.com, John Cassidy https://www.amazon.com/Dot-Greatest-Story-Ever-Sold/dp/0060008806
-155. Burn Rate, Michael Wolff https://www.amazon.com/Burn-Rate-Survived-Years-Internet/dp/0684856212
-156. Behemoth, Joshua B Freeman https://www.amazon.com/Behemoth-History-Factory-Making-Modern/dp/0393246310
-157. Valley Boy, Tom Perkins https://www.amazon.com/Valley-Boy-Education-Tom-Perkins/dp/1592404030
-158. Creative Capital, Georges Doriot and the Birth of Venture Capital, Spencer E. Ante https://www.amazon.com/Creative-Capital-Georges-Doriot-Venture/dp/1422101223
-159. Hit Refresh, The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone, Satya Nadella https://www.amazon.com/Hit-Refresh-Rediscover-Microsofts-Everyone-ebook/dp/B01HOT5SQA
-160. Hard Drive, Bill Gates and the Making of the Microsoft Empire, James Wallace & Jim Erickson https://www.amazon.com/Hard-Drive-Making-Microsoft-Empire/dp/0887306292
-161. The Ultimate Entrepreneur, The Story of Ken Olsen and Digital Equipment Corporation, Glenn Rifkin and George Harrar https://www.amazon.com/Ultimate-Entrepreneur-Digital-Equipment-Corporation/dp/0809245590
-162. The Oracle of Oracle, Florence M Stone https://www.amazon.com/Oracle-Volatile-Strategies-Companys-Phenomenal/dp/0814406394
-163. The Computer Establishment, Katharine Davis Fishman https://www.amazon.com/Computer-Establishment-Katharine-Davis-Fishman/dp/0060112832
-164. Cisco Unauthorized, Jeffrey S Young https://www.amazon.com/Cisco-UnAuthorized-Jeffrey-S-Young/dp/0761527753
-165. The Knowledge-Value Revolution, Taichi Sakaiya https://www.amazon.com/Knowledge-Value-Revolution-History-Future/dp/0870119427
-166. Lords of Finance, Liaquat Ahamed https://www.amazon.com/Lords-Finance-Bankers-Broke-World/dp/0143116800
-167. Untechnical Writing, Michael Bremer https://www.amazon.com/Untechnical-Writing-Technical-Subjects-Understand/dp/0966994906
-168. The Legend of Honeywell, Rodengen https://www.amazon.com/Legend-Honeywell-Jeffrey-L-Rodengen/dp/0945903251
-169. The Legend of AMP, Rodengen https://www.amazon.com/Legend-Amp-Jeffrey-L-Rodengen/dp/0945903332
-170. The Legend of Amdahl, Rodengen https://www.amazon.com/Legend-Amdahl-Jeffrey-L-Rodengen/dp/0945903197
-171. Corporate Lifecycle, Adizes https://site.adizes.com/lifecycle/
+97. The Twenty-Six Words That Created the Internet, Jeff Kosseff https://www.amazon.com/Twenty-Six-Words-That-Created-Internet/dp/1501714414/
+98. Inside the Tornado, Geoffrey Moore https://www.amazon.com/Inside-Tornado-Strategies-Developing-Hypergrowth/dp/0060745819
+99. Blue Ocean Strategy: How to Create Uncontested Market Space and Make Competition Irrelevant, W. Chan Kim, Renee Mauborgne https://www.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/1625274491
+100. Bill Gates: The Life, Lessons, And Rules for Success, https://www.amazon.com/Bill-Gates-Lessons-Rules-Success/dp/1522018557/ 
+101. A History of the United States in Five Crashes: Stock Market Meltdowns That Defined a Nation, Scott Nations, Christopher Grove https://www.amazon.com/History-United-States-Five-Crashes/dp/B06Y4B7XZ4
+102. Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future, Ashlee Vance, https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/0062301233 
+103. Internet of Things: Digitize or Die: Transform your organization. Embrace the digital evolution. Rise above the competition, Nicolas Windpassinger, https://www.amazon.com/dp/B074PTXB2H 
+104. Cyberselfish: A Critical Romp Through the Terribly Libertarian Culture of High-Tech, Paulina Borsook, https://www.amazon.com/Cyberselfish-Critical-Through-World-High-tech/dp/0316847712 
+105. Finish Big: How Great Entrepreneurs Exit Their Companies on Top, Bo Burlingham https://www.amazon.com/Finish-Big-Great-Entrepreneurs-Companies/dp/1591844975
+106. Strategic Management Theory, Charles W. L. Hill, Melissa A. Schilling, Gareth R. Jones, https://www.amazon.com/Strategic-Management-Theory-Integrated-Approach/dp/1305502337 
+107. Muddy Boots Leadership, John Chapman, https://www.amazon.com/Muddy-Boots-Leadership-Personal-Unexpected-ebook/dp/B001GIPF0A 
+108. What is Six Sigma Process Management? Rowland Hayler and Michael Nichols, https://www.amazon.com/What-Six-Sigma-Process-Management/dp/0071453415 
+109. The Bond King, Mary Childs https://www.amazon.com/dp/1250120845
+110. ITILv3 Foundations, Jason Dion, https://www.amazon.com/ITIL-v3-Foundations-Time-Compressed-Foundation-ebook/dp/B074D6J1Q5/ 
+111. ITIL: ITIL Tutorial for Beginners, Dennis Hutten, https://www.amazon.com/ITIL-Tutorial-Beginners-Dennis-Hutten-ebook/dp/B079QKR42D  
+112. ITSM QuickStart Guide, Clydebank Technology, https://www.amazon.com/ITSM-QuickStart-Simplified-Beginners-Management/dp/1945051086 
+113. Ruling the Waves, Debora L. Spar, https://www.amazon.com/Ruling-Waves-Internet-Business-Technological/dp/015602702X 
+114. The Wealth of Nations, Adam Smith, https://www.amazon.com/Wealth-Nations-Adam-Smith/dp/1505577128 
+115. The Road to Character, David Brooks, https://www.amazon.com/Road-Character-David-Brooks/dp/0812983416 
+116. They Made IT! Ph.D. Angelika Blendstrup, https://www.amazon.com/They-Made-Chinese-entrepreneurs-contributed-ebook/dp/B0026MS2QY 
+117. John Chambers and the Cisco Way, John K. Waters, https://www.amazon.com/John-Chambers-Cisco-Way-Navigating/dp/0471008338 
+118. The Age of the Platform: How Amazon, Apple, Facebook, and Google Have Redefined Business, Phil Simon and Mitch Joel https://www.amazon.com/Age-Platform-Facebook-Redefined-Business/dp/0982930259
+119. An Elegant Puzzle, Will Larson https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186
+120. The Joy of x, Steven Strogatz https://www.amazon.com/Joy-Guided-Tour-Math-Infinity/dp/0544105850
+121. The Obstacle is the Way, Ryan Holiday https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358
+122. Ego is the Enemy, Ryan Holiday https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818
+123. Radical Candor, Kim Scott https://www.radicalcandor.com
+124. A WHole New Mind, Daniel Pink https://www.amazon.com/Whole-New-Mind-Right-Brainers-Future/dp/1594481717
+125. The Storm Before the Calm, George Friedman https://www.amazon.com/Storm-Before-Calm-Americas-Discord/dp/0385540493
+126. Think and Grow Rich, Napoleon Hill https://www.amazon.com/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331
+127. The Leaders Guide, Eric Reis https://www.amazon.com/The-Leaders-Guide-Eric-Ries-audiobook/dp/B07K8VF4PZ
+128. The Lean Startup, Eric Reis https://www.amazon.com/The-Lean-Startup-Eric-Ries-audiobook/dp/B005MM7HY8
+129. High Growth Handbook, Elad Gil https://www.amazon.com/High-Growth-Handbook-Elad-Gil-audiobook/dp/B07FSWFWPQ
+130. The Hacker Ethic and the Spirit of the New Economy, Pekka Himanen, Linuz Torvalds, Manuel Castells https://www.amazon.com/Hacker-Ethic-Spirit-New-Economy/dp/B00005AVX6
+131. Guerrilla PR, Michael Levine https://www.amazon.com/Guerrilla-P-R-Effective-Publicity-Campaign/dp/155800761X
+132. Rules for Radicals, Saul D Alinsky https://www.amazon.com/Rules-Radicals-Practical-Primer-Realistic/dp/0679721134
+133. Scaling Up, Verne Harnish https://www.amazon.com/Scaling-Up-Verne-Harnish-audiobook/dp/B00PMCI89Q
+134. Traction: A Startup Guide to Getting Customers, Gabriel Weinberg, Justin Mares https://www.amazon.com/Traction-Startup-Guide-Getting-Customers/dp/0976339609
+135. Zero to One: Notes on Startups, or How To Build The Future, Peter Thiel, Blake Masters https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296
+136. Destruction and Creation, John Boyd https://www.goalsys.com/books/documents/DESTRUCTION_AND_CREATION.pdf
+137. Boyd, the Fighter Pilot Who Changed The Art of War, Albert Coram https://www.amazon.com/Boyd-Fighter-Pilot-Who-Changed/dp/0316796883
+138. Team of Teams, General Stan McChrystal https://www.amazon.com/Team-of-Teams-audiobook/dp/B00UVW4RV0
+139. Certain to Win, Chet Richards https://www.amazon.com/Certain-Win-Strategy-Applied-Business/dp/1413453767
+140. Warfighting, US Marine Corps https://www.amazon.com/Warfighting-Department-Navy/dp/1490367217
+141. Art of the Start, Guy Kawasaki https://www.amazon.com/The-Art-of-Start-2-0-Guy-Kawasaki-audiobook/dp/B00TIW9SZE
+142. Drive, Dan Pink https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/B0032COUMC
+143. The Speed of Trust, Stephen Covey https://www.amazon.com/The-Speed-of-Trust-audiobook/dp/B001U2MTAG
+144. Raving Fans, Ken Blanchard and Sheldon Bowles https://www.amazon.com/Raving-Fans-Revolutionary-Approach-Customer/dp/0006530699
+145. Too Blue! The IBM PC from an Acorn to a Renegade https://www.amazon.com/TOO-BLUE-IBM-Acorn-Renegade/dp/1637350031
+146. Platform Revolution: How Networked Markets Are Transforming the Economy - and How to Make Them Work for You, Geoffrey G. Parker, Marshall W. Van Alstyne, Sangeet Paul Choudary https://www.amazon.com/Platform-Revolution-Networked-Markets-Transforming/dp/0393249131
+147. IBM and the Holocaust, Edwin Black https://www.amazon.com/IBM-Holocaust-Strategic-Alliance-Corporation/dp/0914153277
+148. US V. Microsoft, The Inside Story of the Landmark Case, Joel Brinkley and Steve Lohr https://www.amazon.com/U-S-v-Microsoft-Inside-Landmark-ebook/dp/B000QCTOW2
+149. SAP Inside the Secret Software Power, Meissner https://www.amazon.com/SAP-Inside-Secret-Software-Power/dp/0071347852
+150. The code Economy, Philip E Auerswald https://www.amazon.com/Code-Economy-Forty-Thousand-Year-History/dp/0190226765
+151. The Autobiography of Benjamin Franklin, Benjamin Franklin https://www.amazon.com/Autobiography-Benjamin-Franklin/dp/1508475091
+152. Barbarians Led By Bill Gates, Jennifer Edstrom and Marlin Eller https://www.amazon.com/Barbarians-Bill-Gates-Jennifer-Edstrom/dp/0805057544
+153. Direct from Dell, Michael Dell https://www.amazon.com/Direct-Dell-Strategies-Revolutionized-Essentials/dp/0060845724
+154. Leaving Reality Behind, eToy vs eToys.com & Other Battles To Control Cyberspace, Adam Wishart, Regula Bochsler https://www.amazon.com/Leaving-Reality-Behind-eToys-com-cyberspace/dp/0066210763
+155. dot.com, John Cassidy https://www.amazon.com/Dot-Greatest-Story-Ever-Sold/dp/0060008806
+156. Burn Rate, Michael Wolff https://www.amazon.com/Burn-Rate-Survived-Years-Internet/dp/0684856212
+157. Behemoth, Joshua B Freeman https://www.amazon.com/Behemoth-History-Factory-Making-Modern/dp/0393246310
+158. Valley Boy, Tom Perkins https://www.amazon.com/Valley-Boy-Education-Tom-Perkins/dp/1592404030
+159. Creative Capital, Georges Doriot and the Birth of Venture Capital, Spencer E. Ante https://www.amazon.com/Creative-Capital-Georges-Doriot-Venture/dp/1422101223
+160. Hit Refresh, The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone, Satya Nadella https://www.amazon.com/Hit-Refresh-Rediscover-Microsofts-Everyone-ebook/dp/B01HOT5SQA
+161. Hard Drive, Bill Gates and the Making of the Microsoft Empire, James Wallace & Jim Erickson https://www.amazon.com/Hard-Drive-Making-Microsoft-Empire/dp/0887306292
+162. The Ultimate Entrepreneur, The Story of Ken Olsen and Digital Equipment Corporation, Glenn Rifkin and George Harrar https://www.amazon.com/Ultimate-Entrepreneur-Digital-Equipment-Corporation/dp/0809245590
+163. The Oracle of Oracle, Florence M Stone https://www.amazon.com/Oracle-Volatile-Strategies-Companys-Phenomenal/dp/0814406394
+164. The Computer Establishment, Katharine Davis Fishman https://www.amazon.com/Computer-Establishment-Katharine-Davis-Fishman/dp/0060112832
+165. Cisco Unauthorized, Jeffrey S Young https://www.amazon.com/Cisco-UnAuthorized-Jeffrey-S-Young/dp/0761527753
+166. The Knowledge-Value Revolution, Taichi Sakaiya https://www.amazon.com/Knowledge-Value-Revolution-History-Future/dp/0870119427
+167. Lords of Finance, Liaquat Ahamed https://www.amazon.com/Lords-Finance-Bankers-Broke-World/dp/0143116800
+168. Untechnical Writing, Michael Bremer https://www.amazon.com/Untechnical-Writing-Technical-Subjects-Understand/dp/0966994906
+169. The Legend of Honeywell, Rodengen https://www.amazon.com/Legend-Honeywell-Jeffrey-L-Rodengen/dp/0945903251
+170. The Legend of AMP, Rodengen https://www.amazon.com/Legend-Amp-Jeffrey-L-Rodengen/dp/0945903332
+171. The Legend of Amdahl, Rodengen https://www.amazon.com/Legend-Amdahl-Jeffrey-L-Rodengen/dp/0945903197
+172. Corporate Lifecycle, Adizes https://site.adizes.com/lifecycle/
 
 # 3D Printed Materials
 | Thing | URL |
