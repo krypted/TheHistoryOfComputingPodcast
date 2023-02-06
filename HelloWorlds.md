@@ -7,13 +7,21 @@ IDENTIFICATION DIVISION.
 PROGRAM-ID. IDSAMPLE.
 ENVIRONMENT DIVISION.
 PROCEDURE DIVISION.
-    DISPLAY 'HELLO WORLD'.
+    DISPLAY 'HELLO WORLD!'.
     STOP RUN.
 ```
 ## FORTRAN
+```
+program hello
+  print *, 'Hello World!'
+end program hello
+```
 ## ALGOL
 ## Lisp
 ## BASIC
+```
+10 print "Hello World!"
+```
 ## C
 ## AWK
 ## Smalltalk
@@ -24,7 +32,7 @@ PROCEDURE DIVISION.
 ```
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello World"); 
+        System.out.println("Hello World!"); 
     }
 }
 ```
