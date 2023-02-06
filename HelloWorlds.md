@@ -1,7 +1,14 @@
 # The Evolution Of Language Through The Use of Hello World
 This is meant to be used in conjunction with Chapter 6 of "The History of Computing" to highlight one of the ways programming languages have evolved over the past 60+ years. Sure, it's probably more useful to instatiate and manipulate variables, highlight different techniques for recursion, different data structures, typing, etc. But the number of characters required to print "Hello Cruel World!" to a screen is perhaps a good litmus for the productivity level of developers. Here we have two characters in the exclamation point (!) and the space that usually need to be escaped or casue the whole string to be treated as a literal. Some of these are compiled languages and others are interpretated (some can be both), which is covered in more depth in the book.
 
-## Machine Code
+## Binary
+```
+1001000 1100101 1101100 1101100 1101111 100000 1000011 1110010 1110101 1100101 1101100 100000 1010111 1101111 1110010 1101100 1100100 100001
+```
+## Hex
+```
+48656c6c6f20437275656c20576f726c6421
+```
 ## Assembly
 This can vary wildly based on the version of Assembly (e.g. the 6502 vs a modern ARM or Intel variant). The more common is probably x86, so... 
 ```
@@ -67,6 +74,10 @@ puts "Hello Cruel World!"
 ## BASIC
 ```
 10 print "Hello Cruel World!"
+```
+## APL
+```
+'Hello Cruel World!'
 ```
 ## C
 ```
