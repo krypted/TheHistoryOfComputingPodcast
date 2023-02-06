@@ -1,5 +1,5 @@
 # The Evolution Of Language Through The Use of Hello World
-Sure, it's probably more useful to instatiate and manipulate variables, highlight different techniques for recursion, or different data structures, but the number of characters required to print "Hello Cruel World!" to a screen is perhaps a good litmus for the productivity level of developers.
+This is meant to be used in conjunction with Chapter 6 of "The History of Computing" to highlight one of the ways programming languages have evolved over the past 60+ years. Sure, it's probably more useful to instatiate and manipulate variables, highlight different techniques for recursion, different data structures, typing, etc. But the number of characters required to print "Hello Cruel World!" to a screen is perhaps a good litmus for the productivity level of developers.
 
 ## Machine Code
 ## Assembly
@@ -14,6 +14,7 @@ PROCEDURE DIVISION.
     STOP RUN.
 ```
 ## FORTRAN
+FORTRAN was initially used with punch cards and so for some of the earlier versions it was necessary to punch certain characters into a given like (like if commenting out code). So while it hasn't necessary gotten easier once punched, it's easier to not have to maybe...
 ### FORTRAN 66
 ```
 WRITE (6,7,8)
@@ -69,6 +70,8 @@ awk 'BEGIN { print "Hello Cruel world!" }'
 'Hello Cruel World!' printNl !
 ```
 ## PASCAL
+```
+```
 ## C++
 ```
 #include <iostream>
@@ -91,6 +94,8 @@ namespace HelloCruelWorld
 }
 ```
 ## Hypercard
+```
+```
 ## Java
 ```
 class HelloCruelWorld {
@@ -106,18 +111,41 @@ object Hello extends App {
 }
 ```
 ## Turbo Pascal
+```
+```
 ## Delphi
+```
+```
 ## .Net
+```
+```
 ## Visual Basic
+```
+```
 ## Perl
 ```
 perl -e "print qq{Hello Cruel World\n}" 
 ```
 ## Raku
+```
+```
 ## PHP
+```
+```
 ## Python
+```
+```
 ## Ruby
+```
+puts "Hello World"
+```
 ## Go
+```
+import "fmt"
+func main() {
+    fmt.Println("Hello Cruel World!")
+}
+```
 ## MATLAB
 ```
 disp('Hello Cruel World!');
