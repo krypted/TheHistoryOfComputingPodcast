@@ -122,3 +122,7 @@ perl -e "print qq{Hello Cruel World\n}"
 ```
 disp('Hello Cruel World!');
 ```
+## Swift
+```
+print("Hello Cruel World!") 
+```
