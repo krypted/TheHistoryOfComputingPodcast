@@ -150,7 +150,7 @@ class HelloCruelWorld {
 ```
 ## JavaScript
 ```
-console.log("Hello World");
+console.log("Hello Cruel World!");
 ```
 ## Typescript
 ```console.log 'Hello Cruel World!'
@@ -225,7 +225,7 @@ print('Hello Cruel World!')
 ```
 ## Ruby
 ```
-puts "Hello World"
+puts "Hello Cruel World!"
 ```
 ## Go
 ```
@@ -254,7 +254,7 @@ fun main(args: Array<String>){
 ```
 ## R
 ```
-cat('Hello World')
+cat('Hello Cruel World!')
 ```
 ## Dart
 ```
