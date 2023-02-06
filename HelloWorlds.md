@@ -1,6 +1,8 @@
 # The Evolution Of Language Through The Use of Hello World
 This is meant to be used in conjunction with Chapter 6 of "The History of Computing" to highlight one of the ways programming languages have evolved over the past 60+ years. Sure, it's probably more useful to instantiate and manipulate variables, highlight different techniques for recursion, different data structures, typing, etc. But the number of characters required to print "Hello Cruel World!" to a screen is perhaps a good litmus for the productivity level of developers. Here we have two characters in the exclamation point (!) and the space that usually need to be escaped or casue the whole string to be treated as a literal. Some of these are compiled languages and others are interpretated (some can be both), which is covered in more depth in the book.
 
+To see these on a timeline, see: https://miro.com/app/board/uXjVOcM3Y-M=/?invite_link_id=982806079617.
+
 Also, contributions are welcome!
 
 ## Binary
