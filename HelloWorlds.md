@@ -11,6 +11,21 @@ PROCEDURE DIVISION.
     STOP RUN.
 ```
 ## FORTRAN
+### FORTRAN 66
+```
+WRITE (6,7)
+FORMAT(13H HELLO, WORLD)
+STOP
+END
+```
+### FORTRAN 77
+```
+PROGRAM HELLO
+     PRINT '(A)', 'Hello, world'
+     STOP
+END
+``` 
+### Modern Fortran
 ```
 program hello
   print *, 'Hello World!'
