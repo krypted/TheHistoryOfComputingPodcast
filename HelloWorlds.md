@@ -61,7 +61,13 @@ return 0;
 }
 ```
 ## AWK
+```
+awk 'BEGIN { print "Hello Cruel world!" }'
+```
 ## Smalltalk
+```
+'Hello Cruel World!' printNl !
+```
 ## PASCAL
 ## C++
 ```
