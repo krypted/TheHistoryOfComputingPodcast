@@ -40,6 +40,10 @@ printf(($gl$, "Hello Cruel World!"))
 ```
 ## Lisp
 
+### Common Lisp
+```
+puts "Hello Cruel World!"
+```
 ### Most Modern Lisps
 ```
 (format t "Hello Cruel World!")
@@ -100,6 +104,9 @@ object Hello extends App {
 ## .Net
 ## Visual Basic
 ## Perl
+```
+perl -e "print qq{Hello Cruel World\n}" 
+```
 ## Raku
 ## PHP
 ## Python
