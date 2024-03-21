@@ -1,6 +1,6 @@
 # Official Citation List for the History of Computers, from Springer/Apress
 
-- Chapter 1
+- [Chapter 1](https://github.com/krypted/TheHistoryOfComputingPodcast/blob/master/Chapter1Citations)
 - Chapter 2
 - Chapter 3
 - Chapter 4
