@@ -1,21 +1,22 @@
 # Official Citation List for the History of Computers, from Springer/Apress
 
+- [Chapter 0: A Brief History of the World]()
 - [Chapter 1](https://github.com/krypted/TheHistoryOfComputingPodcast/blob/master/Chapter1Citations)
-- Chapter 2
-- Chapter 3
-- Chapter 4
-- Chapter 5
-- Chapter 6
-- Chapter 7
-- Chapter 8
-- Chapter 9
-- Chapter 10
-- Chapter 11
-- Chapter 12
-- Chapter 13
-- Chapter 14
-- Chapter 15
-- Chapter 16
+- [Chapter 2](https://github.com/krypted/TheHistoryOfComputingPodcast/blob/master/Chapter2Citations)
+- [Chapter 3](https://github.com/krypted/TheHistoryOfComputingPodcast/blob/master/Chapter3Citations)
+- [Chapter 4](https://github.com/krypted/TheHistoryOfComputingPodcast/blob/master/Chapter4Citations)
+- [Chapter 5](https://github.com/krypted/TheHistoryOfComputingPodcast/blob/master/Chapter5Citations)
+- [Chapter 6](https://github.com/krypted/TheHistoryOfComputingPodcast/blob/master/Chapter6Citations)
+- [Chapter 7](https://github.com/krypted/TheHistoryOfComputingPodcast/blob/master/Chapter7Citations)
+- [Chapter 8](https://github.com/krypted/TheHistoryOfComputingPodcast/blob/master/Chapter8Citations)
+- [Chapter 9](https://github.com/krypted/TheHistoryOfComputingPodcast/blob/master/Chapter9Citations)
+- [Chapter 10: ](https://github.com/krypted/TheHistoryOfComputingPodcast/blob/master/Chapter10Citations)
+- [Chapter 11: Web 2.0](https://github.com/krypted/TheHistoryOfComputingPodcast/blob/master/Chapter11Citations)
+- [Chapter 12](https://github.com/krypted/TheHistoryOfComputingPodcast/blob/master/Chapter12Citations)
+- [Chapter 13](https://github.com/krypted/TheHistoryOfComputingPodcast/blob/master/Chapter13Citations)
+- [Chapter 14](https://github.com/krypted/TheHistoryOfComputingPodcast/blob/master/Chapter14Citations)
+- [Chapter 15](https://github.com/krypted/TheHistoryOfComputingPodcast/blob/master/Chapter15Citations)
+- [Chapter 16](https://github.com/krypted/TheHistoryOfComputingPodcast/blob/master/Chapter16Citations)
 
 # Assets used to research and document the history of computing before the writing really began in earnest
 
