@@ -1,4 +1,23 @@
-# Assets used to research and document the history of computing
+# Official Citation List for the History of Computers, from Springer/Apress
+
+Chapter 1
+Chapter 2
+Chapter 3
+Chapter 4
+Chapter 5
+Chapter 6
+Chapter 7
+Chapter 8
+Chapter 9
+Chapter 10
+Chapter 11
+Chapter 12
+Chapter 13
+Chapter 14
+Chapter 15
+Chapter 16
+
+# Assets used to research and document the history of computing before the writing really began in earnest
 
 - [Books used to research and document the history of computers](#books-used-in-researching-and-documenting-the-history-of-computers)
 - [Books used to analyze how the general history of technology, science, and philosophy shaped technology and the modern worldview](#books-used-in-analyzing-how-the-ancient-history-of-technology--science--and-philosophy-shaped-the-modern-worldview)
